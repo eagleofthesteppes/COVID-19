@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: United Arab Emirates.csv
+Mean Squared Error (MSE): 7.715407180456392e-06
+R² Score: 0.9999999999910258
+

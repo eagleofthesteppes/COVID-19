@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Israel.csv
+Error: could not convert string to float: 'people tested'
+

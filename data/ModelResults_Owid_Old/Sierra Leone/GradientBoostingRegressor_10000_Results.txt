@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Sierra Leone.csv
+Mean Squared Error (MSE): 0.10266582030444404
+R² Score: 0.9995920657525664
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Somalia.csv
+Mean Squared Error (MSE): 2.3237642793921967
+R² Score: 0.9994896015717298
+

@@ -1,0 +1,6 @@
+Results for SVR
+==================================================
+
+File: Uruguay.csv
+Error: could not convert string to float: 'people tested'
+

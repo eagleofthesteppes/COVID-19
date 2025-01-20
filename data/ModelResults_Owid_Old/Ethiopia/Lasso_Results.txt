@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Ethiopia.csv
+Mean Squared Error (MSE): 6.828779747994633
+R² Score: 0.9999791150577887
+

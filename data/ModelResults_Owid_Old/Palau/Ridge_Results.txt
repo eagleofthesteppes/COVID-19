@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Palau.csv
+Mean Squared Error (MSE): 7.59005401407534e-12
+R² Score: 0.9999999999999936
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Cuba.csv
+Mean Squared Error (MSE): 0.004347295245963696
+R² Score: 0.9999999991643377
+

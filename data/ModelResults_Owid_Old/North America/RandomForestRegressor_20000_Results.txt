@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: North America.csv
+Mean Squared Error (MSE): 133790897.18292442
+R² Score: 0.9925481902270136
+

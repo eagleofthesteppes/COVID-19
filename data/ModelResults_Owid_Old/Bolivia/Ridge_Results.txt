@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Bolivia.csv
+Mean Squared Error (MSE): 1.0499763415794368e-05
+R² Score: 0.9999999999972088
+

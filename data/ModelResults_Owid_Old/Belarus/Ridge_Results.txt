@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Belarus.csv
+Mean Squared Error (MSE): 5.436086217938947e-06
+R² Score: 0.9999999999975466
+

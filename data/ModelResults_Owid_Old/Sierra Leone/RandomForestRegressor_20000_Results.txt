@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Sierra Leone.csv
+Mean Squared Error (MSE): 0.20812607440697647
+R² Score: 0.999173028050789
+

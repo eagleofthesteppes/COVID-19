@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Syria.csv
+Mean Squared Error (MSE): 8374.451131305234
+R² Score: -0.040852402458271486
+

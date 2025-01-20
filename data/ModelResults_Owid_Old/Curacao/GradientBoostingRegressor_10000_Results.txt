@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Curacao.csv
+Mean Squared Error (MSE): 41.20150204663633
+R² Score: 0.9974931642806555
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Eritrea.csv
+Mean Squared Error (MSE): 162778.15193434167
+R² Score: -290.2820961245465
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Asia.csv
+Mean Squared Error (MSE): 35128657275.35917
+R² Score: -0.11297467760206437
+

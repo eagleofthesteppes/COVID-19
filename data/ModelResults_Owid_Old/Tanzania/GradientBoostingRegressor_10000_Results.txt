@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Tanzania.csv
+Mean Squared Error (MSE): 1012.4635124484626
+R² Score: 0.8841830032250048
+

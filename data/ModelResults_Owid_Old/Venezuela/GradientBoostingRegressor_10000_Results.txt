@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Venezuela.csv
+Mean Squared Error (MSE): 39.21533574434327
+R² Score: 0.9998898169146275
+

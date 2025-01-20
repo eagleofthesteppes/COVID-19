@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Russia.csv
+Mean Squared Error (MSE): 808167.0480430805
+R² Score: 0.9985764620973914
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Cape Verde.csv
+Mean Squared Error (MSE): 4562.062035155914
+R² Score: 0.7927533524793446
+

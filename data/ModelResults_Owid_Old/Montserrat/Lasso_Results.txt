@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Montserrat.csv
+Mean Squared Error (MSE): 1.5485411295151081e-06
+R² Score: 0.9999999858158143
+

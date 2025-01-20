@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Burkina Faso.csv
+Mean Squared Error (MSE): 5.137037738463143e-05
+R² Score: 0.9999999842392961
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Iraq.csv
+Mean Squared Error (MSE): 0.01216895020211904
+R² Score: 0.9999999983544724
+

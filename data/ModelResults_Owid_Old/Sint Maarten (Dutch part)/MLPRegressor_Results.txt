@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Sint Maarten (Dutch part).csv
+Error: Input y contains NaN.
+

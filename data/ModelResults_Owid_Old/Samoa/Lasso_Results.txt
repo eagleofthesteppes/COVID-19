@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Samoa.csv
+Mean Squared Error (MSE): 2.9890824675100137e-05
+R² Score: 0.9999999911499033
+

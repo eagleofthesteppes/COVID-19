@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Chile.csv
+Mean Squared Error (MSE): 47071085.99180441
+R² Score: -0.10231317743837742
+

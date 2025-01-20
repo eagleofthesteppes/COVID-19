@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Ghana.csv
+Mean Squared Error (MSE): 0.0007004859119960153
+R² Score: 0.9999999928671736
+

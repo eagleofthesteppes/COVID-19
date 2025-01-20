@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Low income.csv
+Mean Squared Error (MSE): 42.977979336001916
+R² Score: 0.9999924074892107
+

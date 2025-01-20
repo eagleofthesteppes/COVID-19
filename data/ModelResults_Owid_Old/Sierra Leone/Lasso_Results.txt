@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Sierra Leone.csv
+Mean Squared Error (MSE): 0.00013041682132608793
+R² Score: 0.9999994817994178
+

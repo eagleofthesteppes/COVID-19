@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Switzerland.csv
+Mean Squared Error (MSE): 0.028874835725069676
+R² Score: 0.999999999749486
+

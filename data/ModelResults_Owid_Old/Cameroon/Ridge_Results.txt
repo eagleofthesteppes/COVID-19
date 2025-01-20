@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Cameroon.csv
+Mean Squared Error (MSE): 1.2531844208409093e-05
+R² Score: 0.9999999999067117
+

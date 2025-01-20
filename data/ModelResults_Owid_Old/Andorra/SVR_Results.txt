@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Andorra.csv
+Mean Squared Error (MSE): 30300.839074340718
+R² Score: -0.048484814731201586
+

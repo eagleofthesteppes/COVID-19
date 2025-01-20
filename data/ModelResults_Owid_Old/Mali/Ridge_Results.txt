@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Mali.csv
+Mean Squared Error (MSE): 3.8545153320511334e-05
+R² Score: 0.9999999949421833
+

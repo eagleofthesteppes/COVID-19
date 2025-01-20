@@ -1,0 +1,6 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Vanuatu.csv
+Error: could not convert string to float: 'people tested'
+

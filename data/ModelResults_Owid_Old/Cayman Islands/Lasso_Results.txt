@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Cayman Islands.csv
+Mean Squared Error (MSE): 2.4104997535240772e-05
+R² Score: 0.999999999139817
+

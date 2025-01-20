@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Djibouti.csv
+Mean Squared Error (MSE): 1.7377608842016965
+R² Score: 0.9983406613579587
+

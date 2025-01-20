@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Ethiopia.csv
+Mean Squared Error (MSE): 366179.3489722025
+R² Score: -0.11991231588676743
+

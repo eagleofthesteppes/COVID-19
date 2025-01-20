@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Low income.csv
+Mean Squared Error (MSE): 0.044690983212916466
+R² Score: 0.9999999921048691
+

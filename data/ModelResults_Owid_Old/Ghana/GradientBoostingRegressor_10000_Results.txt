@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Ghana.csv
+Mean Squared Error (MSE): 68.01654409540382
+R² Score: 0.9993074090538199
+

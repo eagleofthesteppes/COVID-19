@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Asia.csv
+Mean Squared Error (MSE): 5244559.920847347
+R² Score: 0.9998338375890283
+

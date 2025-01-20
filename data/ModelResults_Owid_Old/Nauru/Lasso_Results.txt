@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: Nauru.csv
+Error: Input y contains NaN.
+

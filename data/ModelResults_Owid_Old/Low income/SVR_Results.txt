@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Low income.csv
+Mean Squared Error (MSE): 6244292.380038003
+R² Score: -0.1031197371207504
+

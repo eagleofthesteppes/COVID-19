@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Algeria.csv
+Mean Squared Error (MSE): 120437.06658661347
+R² Score: -0.12036481457700576
+

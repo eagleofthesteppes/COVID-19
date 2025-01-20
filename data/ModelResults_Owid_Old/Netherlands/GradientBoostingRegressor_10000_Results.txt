@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Netherlands.csv
+Mean Squared Error (MSE): 108141.51954102764
+R² Score: 0.999466976796854
+

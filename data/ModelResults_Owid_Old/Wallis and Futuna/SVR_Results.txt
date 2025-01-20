@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Wallis and Futuna.csv
+Mean Squared Error (MSE): 34.11560283696207
+R² Score: 0.015454251139919162
+

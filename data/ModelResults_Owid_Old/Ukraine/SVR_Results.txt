@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Ukraine.csv
+Mean Squared Error (MSE): 61986609.14541201
+R² Score: -0.1665355424376347
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Sierra Leone.csv
+Mean Squared Error (MSE): 998490.3222233284
+R² Score: -3966.419701688336
+

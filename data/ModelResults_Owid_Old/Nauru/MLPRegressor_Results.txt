@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Nauru.csv
+Error: Input y contains NaN.
+

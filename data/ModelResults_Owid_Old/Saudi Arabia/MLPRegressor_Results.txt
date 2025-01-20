@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Saudi Arabia.csv
+Mean Squared Error (MSE): 17630900.757113326
+R² Score: -12.633819281323811
+

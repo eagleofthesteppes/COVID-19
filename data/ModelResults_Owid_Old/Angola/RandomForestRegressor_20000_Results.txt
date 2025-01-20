@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Angola.csv
+Mean Squared Error (MSE): 921.2837643359218
+R² Score: 0.9802488911104911
+

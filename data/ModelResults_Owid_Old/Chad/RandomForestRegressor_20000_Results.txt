@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Chad.csv
+Mean Squared Error (MSE): 5.867232010564515
+R² Score: 0.9745525557277619
+

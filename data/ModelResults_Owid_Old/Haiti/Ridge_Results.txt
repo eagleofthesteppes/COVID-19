@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Haiti.csv
+Error: Input contains NaN.
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: World.csv
+Mean Squared Error (MSE): 347309418259.3668
+R² Score: -0.04611460703438364
+

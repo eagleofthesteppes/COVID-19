@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Montenegro.csv
+Mean Squared Error (MSE): 9389.742754145167
+R² Score: 0.9090593665830433
+

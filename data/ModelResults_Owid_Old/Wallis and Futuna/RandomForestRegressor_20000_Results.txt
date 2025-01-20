@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Wallis and Futuna.csv
+Mean Squared Error (MSE): 4.719918267902299
+R² Score: 0.8637873852665577
+

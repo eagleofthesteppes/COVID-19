@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Guinea-Bissau.csv
+Mean Squared Error (MSE): 5.342952704965275
+R² Score: 0.9818859374779926
+

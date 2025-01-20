@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: High income.csv
+Mean Squared Error (MSE): 1539015.5056566396
+R² Score: 0.9999917346343983
+

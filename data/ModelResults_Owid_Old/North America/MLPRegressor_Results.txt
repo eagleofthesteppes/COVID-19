@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: North America.csv
+Mean Squared Error (MSE): 9462618678.669031
+R² Score: 0.47295641308585945
+

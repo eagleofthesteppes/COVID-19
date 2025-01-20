@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Chad.csv
+Mean Squared Error (MSE): 1557726.8628997586
+R² Score: -6755.1956751725465
+

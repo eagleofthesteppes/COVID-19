@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Cook Islands.csv
+Mean Squared Error (MSE): 4128.876221527404
+R² Score: -2.689033502306673
+

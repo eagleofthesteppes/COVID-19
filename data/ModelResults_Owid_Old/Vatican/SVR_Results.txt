@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Vatican.csv
+Mean Squared Error (MSE): 0.2126704087546396
+R² Score: 0.04079323607077079
+

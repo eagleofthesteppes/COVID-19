@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Isle of Man.csv
+Mean Squared Error (MSE): 2.5024050188532557e-10
+R² Score: 0.999999999999948
+

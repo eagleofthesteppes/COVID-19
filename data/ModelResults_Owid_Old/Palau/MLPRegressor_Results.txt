@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Palau.csv
+Mean Squared Error (MSE): 1694.6150237261465
+R² Score: -0.4386582421440677
+

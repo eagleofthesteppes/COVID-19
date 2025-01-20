@@ -1,0 +1,6 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: South Korea.csv
+Error: could not convert string to float: 'people tested'
+

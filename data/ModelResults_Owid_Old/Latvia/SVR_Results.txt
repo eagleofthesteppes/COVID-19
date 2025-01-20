@@ -1,0 +1,6 @@
+Results for SVR
+==================================================
+
+File: Latvia.csv
+Error: Input y contains NaN.
+

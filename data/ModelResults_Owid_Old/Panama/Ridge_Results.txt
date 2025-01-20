@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Panama.csv
+Error: Input y contains NaN.
+

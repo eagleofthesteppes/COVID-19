@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Vanuatu.csv
+Error: could not convert string to float: 'people tested'
+

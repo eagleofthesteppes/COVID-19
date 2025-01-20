@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: High income.csv
+Mean Squared Error (MSE): 36562640272.35438
+R² Score: 0.8036383726453886
+

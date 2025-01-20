@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Belize.csv
+Mean Squared Error (MSE): 9.385925449867052e-05
+R² Score: 0.9999999934515854
+

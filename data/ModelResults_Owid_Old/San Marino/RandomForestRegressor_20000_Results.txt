@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: San Marino.csv
+Mean Squared Error (MSE): 1.699689965158372
+R² Score: 0.9991614850047054
+

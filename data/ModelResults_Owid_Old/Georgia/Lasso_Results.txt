@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Georgia.csv
+Mean Squared Error (MSE): 0.2780568465961466
+R² Score: 0.9999999829337183
+

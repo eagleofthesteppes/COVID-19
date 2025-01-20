@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Congo.csv
+Error: Input contains NaN.
+

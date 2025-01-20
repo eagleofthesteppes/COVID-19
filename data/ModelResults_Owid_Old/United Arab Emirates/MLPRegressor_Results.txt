@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: United Arab Emirates.csv
+Mean Squared Error (MSE): 142853141.98856038
+R² Score: -165.15926778464805
+

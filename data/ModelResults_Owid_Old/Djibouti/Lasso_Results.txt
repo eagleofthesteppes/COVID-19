@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Djibouti.csv
+Mean Squared Error (MSE): 0.0008893507396722018
+R² Score: 0.9999991507841717
+

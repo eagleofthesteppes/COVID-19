@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Bulgaria.csv
+Mean Squared Error (MSE): 0.033955816616051814
+R² Score: 0.9999999872950041
+

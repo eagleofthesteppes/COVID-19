@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Upper middle income.csv
+Mean Squared Error (MSE): 14662280342.040394
+R² Score: -0.05273679823632915
+

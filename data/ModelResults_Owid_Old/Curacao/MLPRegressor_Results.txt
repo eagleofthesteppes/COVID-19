@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Curacao.csv
+Mean Squared Error (MSE): 1494.5398527332695
+R² Score: 0.9090672499615471
+

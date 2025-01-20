@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Ethiopia.csv
+Mean Squared Error (MSE): 0.001344754560161944
+R² Score: 0.9999999958872416
+

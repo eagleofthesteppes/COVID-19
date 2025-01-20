@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Mali.csv
+Mean Squared Error (MSE): 0.00038117164861077753
+R² Score: 0.99999994998343
+

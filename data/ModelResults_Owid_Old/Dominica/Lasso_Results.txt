@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: Dominica.csv
+Error: Input y contains NaN.
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Andorra.csv
+Mean Squared Error (MSE): 2.593998262133993e-10
+R² Score: 0.999999999999991
+

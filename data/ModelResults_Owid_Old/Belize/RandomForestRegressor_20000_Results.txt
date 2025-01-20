@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Belize.csv
+Mean Squared Error (MSE): 5.391045231944446
+R² Score: 0.9996238751382154
+

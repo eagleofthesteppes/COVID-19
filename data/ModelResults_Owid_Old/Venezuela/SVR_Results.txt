@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Venezuela.csv
+Mean Squared Error (MSE): 396039.9578613612
+R² Score: -0.11275101078872107
+

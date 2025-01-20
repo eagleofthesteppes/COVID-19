@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Upper middle income.csv
+Mean Squared Error (MSE): 199035873199.36035
+R² Score: -13.290573021256819
+

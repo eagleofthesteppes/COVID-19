@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Central African Republic.csv
+Mean Squared Error (MSE): 6.204064771061534e-07
+R² Score: 0.9999999997851703
+

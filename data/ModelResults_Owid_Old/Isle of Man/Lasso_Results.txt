@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Isle of Man.csv
+Mean Squared Error (MSE): 5.227267009405193e-07
+R² Score: 0.9999999998914946
+

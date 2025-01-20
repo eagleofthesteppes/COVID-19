@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Chad.csv
+Mean Squared Error (MSE): 2.0406578254338246e-05
+R² Score: 0.9999999114922911
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: South Sudan.csv
+Mean Squared Error (MSE): 3302.8730792636347
+R² Score: -0.06556901738058807
+

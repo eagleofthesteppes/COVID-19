@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Northern Mariana Islands.csv
+Error: Input y contains NaN.
+

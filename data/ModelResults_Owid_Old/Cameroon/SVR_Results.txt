@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Cameroon.csv
+Mean Squared Error (MSE): 141415.1257131017
+R² Score: -0.05270775372449288
+

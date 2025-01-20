@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Somalia.csv
+Mean Squared Error (MSE): 1.9722326514332802e-05
+R² Score: 0.9999999956681301
+

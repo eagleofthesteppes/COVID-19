@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Montserrat.csv
+Mean Squared Error (MSE): 2.1728870667536104
+R² Score: 0.9800969873884801
+

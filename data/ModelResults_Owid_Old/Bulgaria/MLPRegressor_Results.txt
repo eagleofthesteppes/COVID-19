@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Bulgaria.csv
+Mean Squared Error (MSE): 1102329.8784073244
+R² Score: 0.5875494102737536
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Pakistan.csv
+Mean Squared Error (MSE): 0.025605301399366957
+R² Score: 0.9999999915533523
+

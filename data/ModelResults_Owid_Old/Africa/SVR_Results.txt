@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Africa.csv
+Mean Squared Error (MSE): 156394185.06147486
+R² Score: -0.13726899910615575
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Sierra Leone.csv
+Mean Squared Error (MSE): 260.2718286896519
+R² Score: -0.0341688426568616
+

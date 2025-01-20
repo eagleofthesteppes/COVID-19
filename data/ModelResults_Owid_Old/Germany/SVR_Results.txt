@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Germany.csv
+Mean Squared Error (MSE): 5045142531.54094
+R² Score: -0.16199587513887215
+

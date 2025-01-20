@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Switzerland.csv
+Mean Squared Error (MSE): 244278.19993424698
+R² Score: 0.9978806759138892
+

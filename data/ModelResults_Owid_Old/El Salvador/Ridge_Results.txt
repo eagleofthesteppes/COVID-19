@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: El Salvador.csv
+Error: Input contains NaN.
+

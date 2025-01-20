@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Nicaragua.csv
+Mean Squared Error (MSE): 5.008870190223953e-07
+R² Score: 0.9999999998771217
+

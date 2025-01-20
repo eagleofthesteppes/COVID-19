@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Poland.csv
+Mean Squared Error (MSE): 97407839.59745693
+R² Score: -0.26124480908111436
+

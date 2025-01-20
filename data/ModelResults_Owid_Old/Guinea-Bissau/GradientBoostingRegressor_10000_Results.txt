@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Guinea-Bissau.csv
+Mean Squared Error (MSE): 6.581836783830732
+R² Score: 0.9776857835740972
+

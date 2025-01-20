@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Cuba.csv
+Mean Squared Error (MSE): 801.0067913575582
+R² Score: 0.9998460258241489
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: European Union.csv
+Mean Squared Error (MSE): 14000852.233710207
+R² Score: 0.9997118380698594
+

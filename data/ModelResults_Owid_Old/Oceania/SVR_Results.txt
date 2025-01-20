@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Oceania.csv
+Mean Squared Error (MSE): 641695382.227893
+R² Score: -0.2770162410415047
+

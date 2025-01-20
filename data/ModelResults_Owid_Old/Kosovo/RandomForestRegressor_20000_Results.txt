@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Kosovo.csv
+Mean Squared Error (MSE): 56.93647698388748
+R² Score: 0.9996653248869758
+

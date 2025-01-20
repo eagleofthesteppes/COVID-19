@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Qatar.csv
+Mean Squared Error (MSE): 371154.8798274429
+R² Score: -0.13061798089137144
+

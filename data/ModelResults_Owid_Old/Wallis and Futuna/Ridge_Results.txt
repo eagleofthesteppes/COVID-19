@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Wallis and Futuna.csv
+Mean Squared Error (MSE): 4.400296277504364e-13
+R² Score: 0.9999999999999873
+

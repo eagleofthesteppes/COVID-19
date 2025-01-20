@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Bosnia and Herzegovina.csv
+Mean Squared Error (MSE): 7.566333650899444e-07
+R² Score: 0.9999999999967412
+

@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Afghanistan.csv
+Error: Input y contains NaN.
+

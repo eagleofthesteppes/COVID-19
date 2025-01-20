@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Palestine.csv
+Mean Squared Error (MSE): 3015036.181356817
+R² Score: -0.456850081074202
+

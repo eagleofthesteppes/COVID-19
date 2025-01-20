@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Zambia.csv
+Mean Squared Error (MSE): 2.7056083803521492e-05
+R² Score: 0.9999999999225858
+

@@ -1,0 +1,6 @@
+Results for SVR
+==================================================
+
+File: Guernsey.csv
+Error: Input y contains NaN.
+

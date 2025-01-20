@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Namibia.csv
+Error: Input contains NaN.
+

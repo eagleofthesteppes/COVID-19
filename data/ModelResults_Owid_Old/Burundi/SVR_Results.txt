@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Burundi.csv
+Mean Squared Error (MSE): 113135.48349924196
+R² Score: -0.023359214803402528
+

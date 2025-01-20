@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: Gibraltar.csv
+Error: Input y contains NaN.
+

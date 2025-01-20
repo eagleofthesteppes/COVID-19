@@ -35,6 +35,7 @@ def train_models(path, models):
     try:
         data = pd.read_csv(path) #path must be a raw string
         missing_data = data.isnull().sum()
+        
         data.drop(['excess_mortality_cumulative_absolute', 
             'excess_mortality_cumulative', 
             'excess_mortality', 
@@ -102,13 +103,13 @@ def main():
     }
 
     # Define the base result folder path
-    base_result_folder = r"data\Model Results"
+    base_result_folder = r"data\ModelResults_Owid_Old"
 
     # Verify that the base result folder exists or create it
     os.makedirs(base_result_folder, exist_ok=True)
 
     # Define the folder path containing the datasets (use raw string to handle backslashes)
-    data_folder_path = r"data\countrywise_data"
+    data_folder_path = r'data\OWID DataSet\countrywise_data_owid_old'
 
     # Verify that the data folder exists
     if not os.path.isdir(data_folder_path):

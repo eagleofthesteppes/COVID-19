@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Zambia.csv
+Mean Squared Error (MSE): 0.0028027836618861315
+R² Score: 0.9999999919805376
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Chile.csv
+Mean Squared Error (MSE): 63338.06813436351
+R² Score: 0.9985167457757368
+

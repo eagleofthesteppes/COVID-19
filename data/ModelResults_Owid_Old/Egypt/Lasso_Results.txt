@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Egypt.csv
+Mean Squared Error (MSE): 0.004540122516397137
+R² Score: 0.999999988346018
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Guinea-Bissau.csv
+Mean Squared Error (MSE): 288.44727488310826
+R² Score: 0.022085303753547558
+

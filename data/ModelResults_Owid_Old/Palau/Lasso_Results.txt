@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Palau.csv
+Mean Squared Error (MSE): 3.5877360175652956e-05
+R² Score: 0.9999999695416014
+

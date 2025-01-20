@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Europe.csv
+Mean Squared Error (MSE): 83796287214.15067
+R² Score: -0.0803365439600161
+

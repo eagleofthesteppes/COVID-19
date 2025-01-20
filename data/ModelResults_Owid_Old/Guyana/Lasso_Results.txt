@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: Guyana.csv
+Error: Input contains NaN.
+

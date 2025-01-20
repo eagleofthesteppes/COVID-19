@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Upper middle income.csv
+Mean Squared Error (MSE): 5336784.694888462
+R² Score: 0.9996168242932537
+

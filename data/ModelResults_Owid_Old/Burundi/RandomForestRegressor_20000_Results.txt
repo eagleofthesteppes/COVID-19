@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Burundi.csv
+Mean Squared Error (MSE): 33836.36271699671
+R² Score: 0.6939355142093782
+

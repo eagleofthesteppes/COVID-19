@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Wallis and Futuna.csv
+Mean Squared Error (MSE): 3.2927602967505005
+R² Score: 0.9049738863571068
+

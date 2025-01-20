@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Eritrea.csv
+Mean Squared Error (MSE): 12.285024657396312
+R² Score: 0.9780166583130178
+

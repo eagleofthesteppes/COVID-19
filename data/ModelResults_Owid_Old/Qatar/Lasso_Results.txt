@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Qatar.csv
+Mean Squared Error (MSE): 0.0005574781984163854
+R² Score: 0.999999998301801
+
