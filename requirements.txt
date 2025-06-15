@@ -8,6 +8,3 @@ scikit-learn
 numpy
 scipy
 joblib
-sklearn
-csv
-os
