@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Democratic Republic of Congo.csv
+Error: Input y contains NaN.
+

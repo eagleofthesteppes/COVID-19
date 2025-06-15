@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Bermuda.csv
+Mean Squared Error (MSE): 6.82209630902604
+R² Score: 0.997238278388977
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Peru.csv
+Mean Squared Error (MSE): 1955.2993339837974
+R² Score: 0.9999847156281308
+

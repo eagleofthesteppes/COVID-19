@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Grenada.csv
+Mean Squared Error (MSE): 4096.139137210963
+R² Score: -0.008696372936024988
+

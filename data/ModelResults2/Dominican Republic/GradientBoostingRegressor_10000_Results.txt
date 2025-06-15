@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Dominican Republic.csv
+Mean Squared Error (MSE): 566.5155932755223
+R² Score: 0.9996526491564666
+

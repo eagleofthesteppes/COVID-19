@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Myanmar.csv
+Mean Squared Error (MSE): 6613.85949400461
+R² Score: 0.998254656791687
+

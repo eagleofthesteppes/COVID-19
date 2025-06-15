@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Saint Martin (French part).csv
+Mean Squared Error (MSE): 1.1122005087235651
+R² Score: 0.9979086435437718
+

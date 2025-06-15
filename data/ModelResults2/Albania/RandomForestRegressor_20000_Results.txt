@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Albania.csv
+Mean Squared Error (MSE): 12815.277337383755
+R² Score: 0.9898832853211796
+

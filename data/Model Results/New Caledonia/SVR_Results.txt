@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: New Caledonia.csv
+Mean Squared Error (MSE): 51424.562083815596
+R² Score: -0.02449409643324474
+

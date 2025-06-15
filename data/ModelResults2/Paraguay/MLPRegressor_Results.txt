@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Paraguay.csv
+Mean Squared Error (MSE): 3775235.8893288514
+R² Score: 0.1149186729242494
+

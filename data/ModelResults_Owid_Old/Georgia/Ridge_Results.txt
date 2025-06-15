@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Georgia.csv
+Mean Squared Error (MSE): 0.0002977591106977896
+R² Score: 0.9999999999817245
+

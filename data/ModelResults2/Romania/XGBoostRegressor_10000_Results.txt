@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Romania.csv
+Mean Squared Error (MSE): 1257207.814671562
+R² Score: 0.9780165553092957
+

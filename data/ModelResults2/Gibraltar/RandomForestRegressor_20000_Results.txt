@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Gibraltar.csv
+Mean Squared Error (MSE): 5.9207587504984875
+R² Score: 0.9982274151716862
+

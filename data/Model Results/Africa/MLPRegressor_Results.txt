@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Africa.csv
+Mean Squared Error (MSE): 6636517727.090464
+R² Score: -5.437410320795086
+

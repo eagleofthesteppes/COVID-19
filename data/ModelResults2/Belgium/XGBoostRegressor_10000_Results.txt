@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Belgium.csv
+Mean Squared Error (MSE): 575779.5089875069
+R² Score: 0.9942848682403564
+

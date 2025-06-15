@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Syria.csv
+Mean Squared Error (MSE): 3640132.2698883573
+R² Score: -107.48685819058116
+

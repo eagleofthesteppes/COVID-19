@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Bulgaria.csv
+Mean Squared Error (MSE): 28200.83366865462
+R² Score: 0.9962348937988281
+

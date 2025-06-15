@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Kosovo.csv
+Mean Squared Error (MSE): 32.8073071111781
+R² Score: 0.999975599132379
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Vietnam.csv
+Mean Squared Error (MSE): 22330468003.501617
+R² Score: -1.5983859179234083
+

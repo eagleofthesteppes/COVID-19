@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Laos.csv
+Mean Squared Error (MSE): 3.834973227073621
+R² Score: 0.9999944065019979
+

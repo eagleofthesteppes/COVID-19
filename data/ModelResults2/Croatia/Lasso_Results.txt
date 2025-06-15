@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Croatia.csv
+Mean Squared Error (MSE): 21.929823321241894
+R² Score: 0.9999981614681276
+

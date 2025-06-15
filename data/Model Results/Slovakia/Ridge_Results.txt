@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Slovakia.csv
+Mean Squared Error (MSE): 3.8471206829564912
+R² Score: 0.9999998928136593
+

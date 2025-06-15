@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Vatican.csv
+Mean Squared Error (MSE): 31.477171688181922
+R² Score: -140.97140151970976
+

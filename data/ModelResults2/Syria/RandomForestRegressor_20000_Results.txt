@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Syria.csv
+Mean Squared Error (MSE): 126.76165864731867
+R² Score: 0.9962221224213657
+

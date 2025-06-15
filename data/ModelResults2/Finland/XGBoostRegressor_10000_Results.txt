@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Finland.csv
+Mean Squared Error (MSE): 71606.24463056268
+R² Score: 0.9959542155265808
+

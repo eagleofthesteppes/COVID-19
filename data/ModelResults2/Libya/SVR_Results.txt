@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Libya.csv
+Mean Squared Error (MSE): 1665686.060258739
+R² Score: -0.04528825710790629
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Bolivia.csv
+Mean Squared Error (MSE): 183801.53795462917
+R² Score: 0.9858904332802664
+

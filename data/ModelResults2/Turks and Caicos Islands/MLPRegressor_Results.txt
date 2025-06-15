@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Turks and Caicos Islands.csv
+Mean Squared Error (MSE): 643.3736534239882
+R² Score: -2.514386815987098
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Africa.csv
+Mean Squared Error (MSE): 0.16812424057539724
+R² Score: 0.9999999987774323
+

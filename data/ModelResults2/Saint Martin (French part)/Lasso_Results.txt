@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Saint Martin (French part).csv
+Mean Squared Error (MSE): 0.35254079951530054
+R² Score: 0.9993370903255598
+

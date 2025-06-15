@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Greece.csv
+Mean Squared Error (MSE): 189964.2407413494
+R² Score: 0.9990755082462833
+

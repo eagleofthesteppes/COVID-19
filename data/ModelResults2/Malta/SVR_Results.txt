@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Malta.csv
+Mean Squared Error (MSE): 97355.1472539054
+R² Score: -0.04246640135270807
+

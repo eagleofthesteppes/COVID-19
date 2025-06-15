@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Kosovo.csv
+Mean Squared Error (MSE): 23616.01469293621
+R² Score: 0.9824352774123036
+

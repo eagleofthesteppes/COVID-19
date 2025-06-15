@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Tanzania.csv
+Mean Squared Error (MSE): 8873.596365968038
+R² Score: -0.015062043287454419
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Puerto Rico.csv
+Mean Squared Error (MSE): 35485.11894329405
+R² Score: 0.9972351788107741
+

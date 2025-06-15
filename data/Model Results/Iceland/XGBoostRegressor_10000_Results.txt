@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Iceland.csv
+Mean Squared Error (MSE): 17266.50197877974
+R² Score: 0.985901951789856
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Palau.csv
+Mean Squared Error (MSE): 5.617460516194687
+R² Score: 0.9952310077755758
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Albania.csv
+Mean Squared Error (MSE): 7.819393100387226
+R² Score: 0.9999938271668357
+

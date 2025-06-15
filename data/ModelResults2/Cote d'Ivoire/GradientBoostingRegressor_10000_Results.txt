@@ -1,0 +1,6 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Cote d'Ivoire.csv
+Error: Input y contains NaN.
+

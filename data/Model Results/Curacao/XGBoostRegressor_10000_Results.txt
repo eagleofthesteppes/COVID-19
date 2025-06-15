@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Curacao.csv
+Mean Squared Error (MSE): 448.87024267200087
+R² Score: 0.96351158618927
+

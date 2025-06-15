@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Colombia.csv
+Mean Squared Error (MSE): 844.5706195263513
+R² Score: 0.9999963659247805
+

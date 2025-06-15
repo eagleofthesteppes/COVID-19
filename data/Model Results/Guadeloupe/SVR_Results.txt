@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Guadeloupe.csv
+Mean Squared Error (MSE): 493014.67792408733
+R² Score: -0.03354293832182509
+

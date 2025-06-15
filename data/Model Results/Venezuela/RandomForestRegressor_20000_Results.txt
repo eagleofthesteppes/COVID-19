@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Venezuela.csv
+Mean Squared Error (MSE): 1951.864699548626
+R² Score: 0.9990749583510459
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Austria.csv
+Mean Squared Error (MSE): 417702.0849050688
+R² Score: 0.9987964992033969
+

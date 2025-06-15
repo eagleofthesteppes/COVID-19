@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Solomon Islands.csv
+Mean Squared Error (MSE): 16.398220569580186
+R² Score: 0.998729853564123
+

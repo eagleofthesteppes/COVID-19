@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Cape Verde.csv
+Mean Squared Error (MSE): 888.1971332338824
+R² Score: 0.9817282055834775
+

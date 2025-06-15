@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Dominica.csv
+Mean Squared Error (MSE): 37.56874105883687
+R² Score: 0.9930699183786293
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: El Salvador.csv
+Mean Squared Error (MSE): 947583.0542631376
+R² Score: -1.273612907346672
+

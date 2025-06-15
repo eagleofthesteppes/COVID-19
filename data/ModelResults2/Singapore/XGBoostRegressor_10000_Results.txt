@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Singapore.csv
+Mean Squared Error (MSE): 113858.03149565199
+R² Score: 0.9985402226448059
+

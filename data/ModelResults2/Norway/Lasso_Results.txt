@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Norway.csv
+Mean Squared Error (MSE): 102.2804311035986
+R² Score: 0.9999911096300281
+

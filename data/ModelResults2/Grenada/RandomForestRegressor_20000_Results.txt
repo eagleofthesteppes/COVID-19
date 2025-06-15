@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Grenada.csv
+Mean Squared Error (MSE): 41.346224943119296
+R² Score: 0.9898182689264997
+

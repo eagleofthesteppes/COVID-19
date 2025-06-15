@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Bahrain.csv
+Mean Squared Error (MSE): 14127.859550403677
+R² Score: 0.994659034299026
+

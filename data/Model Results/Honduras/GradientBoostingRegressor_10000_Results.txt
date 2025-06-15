@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Honduras.csv
+Mean Squared Error (MSE): 537.37620318022
+R² Score: 0.9996854641250865
+

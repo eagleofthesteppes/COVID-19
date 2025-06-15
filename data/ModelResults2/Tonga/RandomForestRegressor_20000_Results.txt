@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Tonga.csv
+Mean Squared Error (MSE): 143.55542255106502
+R² Score: 0.9829727884641919
+

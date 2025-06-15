@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Vietnam.csv
+Mean Squared Error (MSE): 8640691829.102003
+R² Score: -0.00543580037524749
+

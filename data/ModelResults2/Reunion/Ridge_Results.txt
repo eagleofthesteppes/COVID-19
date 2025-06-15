@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Reunion.csv
+Mean Squared Error (MSE): 1.1792358543316794
+R² Score: 0.999998535893301
+

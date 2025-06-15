@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Jersey.csv
+Mean Squared Error (MSE): 30127.006229766765
+R² Score: -0.030622285286765027
+

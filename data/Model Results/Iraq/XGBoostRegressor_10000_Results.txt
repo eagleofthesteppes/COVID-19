@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Iraq.csv
+Mean Squared Error (MSE): 595408.3736719722
+R² Score: 0.9897790551185608
+

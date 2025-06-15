@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Gibraltar.csv
+Mean Squared Error (MSE): 12.003468833495738
+R² Score: 0.9964063445855481
+

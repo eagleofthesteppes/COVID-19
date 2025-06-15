@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Cambodia.csv
+Mean Squared Error (MSE): 1925.0619471687191
+R² Score: 0.9931473135948181
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Poland.csv
+Mean Squared Error (MSE): 316947.3699520472
+R² Score: 0.9989884014740111
+

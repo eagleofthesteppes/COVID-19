@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Seychelles.csv
+Mean Squared Error (MSE): 1228.0587278335065
+R² Score: 0.9556944370269775
+

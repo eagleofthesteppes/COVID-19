@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Gabon.csv
+Mean Squared Error (MSE): 31.34280695465946
+R² Score: 0.9987796305607097
+

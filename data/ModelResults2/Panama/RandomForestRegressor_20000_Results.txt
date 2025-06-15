@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Panama.csv
+Mean Squared Error (MSE): 30031.633569281457
+R² Score: 0.9952056795150457
+

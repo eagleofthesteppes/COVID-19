@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Mongolia.csv
+Mean Squared Error (MSE): 9915426.191876318
+R² Score: -0.02362945713074338
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Africa.csv
+Mean Squared Error (MSE): 506571.7546200566
+R² Score: 0.9995086263044092
+

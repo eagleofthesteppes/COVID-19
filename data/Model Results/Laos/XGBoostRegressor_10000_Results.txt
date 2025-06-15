@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Laos.csv
+Mean Squared Error (MSE): 4977.009872112754
+R² Score: 0.99274080991745
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Gibraltar.csv
+Mean Squared Error (MSE): 0.5255396237027785
+R² Score: 0.9998426614555821
+

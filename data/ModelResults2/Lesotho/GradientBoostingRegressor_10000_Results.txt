@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Lesotho.csv
+Mean Squared Error (MSE): 875.0529602207579
+R² Score: 0.9788831045081537
+

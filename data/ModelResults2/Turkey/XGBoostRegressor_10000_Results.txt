@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Turkey.csv
+Mean Squared Error (MSE): 3840682.5986268716
+R² Score: 0.9983670115470886
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Hungary.csv
+Mean Squared Error (MSE): 41583429.17351055
+R² Score: -0.04773353361057531
+

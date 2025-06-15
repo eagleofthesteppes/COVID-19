@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Trinidad and Tobago.csv
+Mean Squared Error (MSE): 984.1857519283024
+R² Score: 0.9968931795736469
+

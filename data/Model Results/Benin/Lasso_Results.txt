@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Benin.csv
+Mean Squared Error (MSE): 0.5439218030904033
+R² Score: 0.9999757173930798
+

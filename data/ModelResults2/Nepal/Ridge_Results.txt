@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Nepal.csv
+Mean Squared Error (MSE): 175.0925027477209
+R² Score: 0.999993540578011
+

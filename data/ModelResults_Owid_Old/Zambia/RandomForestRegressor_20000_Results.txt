@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Zambia.csv
+Mean Squared Error (MSE): 826.1925644975115
+R² Score: 0.9976360572018409
+

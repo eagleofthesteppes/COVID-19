@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Haiti.csv
+Mean Squared Error (MSE): 9.654174024554377
+R² Score: 0.9988391424816732
+

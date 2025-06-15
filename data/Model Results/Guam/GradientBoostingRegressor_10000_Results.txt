@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Guam.csv
+Mean Squared Error (MSE): 39.675669151657
+R² Score: 0.9963410886239632
+

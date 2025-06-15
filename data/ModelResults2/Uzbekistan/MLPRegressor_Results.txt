@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Uzbekistan.csv
+Mean Squared Error (MSE): 105559713.23001958
+R² Score: -314.79134666099696
+

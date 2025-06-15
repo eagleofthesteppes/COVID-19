@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Eswatini.csv
+Mean Squared Error (MSE): 24248.894517924076
+R² Score: 0.9128039479255676
+

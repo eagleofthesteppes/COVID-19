@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Palestine.csv
+Mean Squared Error (MSE): 239.9348646312822
+R² Score: 0.9999448509257959
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Morocco.csv
+Mean Squared Error (MSE): 394207.9590277252
+R² Score: 0.9825701912138596
+

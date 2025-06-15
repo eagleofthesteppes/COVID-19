@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Paraguay.csv
+Mean Squared Error (MSE): 2882.611918362573
+R² Score: 0.9993241889892601
+

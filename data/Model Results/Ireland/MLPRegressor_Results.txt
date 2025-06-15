@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Ireland.csv
+Mean Squared Error (MSE): 18816789.572411504
+R² Score: -0.05545063278821405
+

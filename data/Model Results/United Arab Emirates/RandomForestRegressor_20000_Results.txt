@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: United Arab Emirates.csv
+Mean Squared Error (MSE): 19263.1456985764
+R² Score: 0.9977008104296331
+

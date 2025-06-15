@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Slovenia.csv
+Mean Squared Error (MSE): 2.2732349216479726
+R² Score: 0.9999996468488301
+

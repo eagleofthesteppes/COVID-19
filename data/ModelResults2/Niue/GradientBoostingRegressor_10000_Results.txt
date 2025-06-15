@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Niue.csv
+Mean Squared Error (MSE): 4.420021434875012
+R² Score: 0.8705829679833139
+

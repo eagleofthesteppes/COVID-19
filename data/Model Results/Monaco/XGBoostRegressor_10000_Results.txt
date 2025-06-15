@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Monaco.csv
+Mean Squared Error (MSE): 3.909815648807085
+R² Score: 0.9972097277641296
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Saint Barthelemy.csv
+Mean Squared Error (MSE): 0.24416204821752296
+R² Score: 0.9985163203000722
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Belize.csv
+Mean Squared Error (MSE): 25899.432507297566
+R² Score: -0.8069632238261766
+

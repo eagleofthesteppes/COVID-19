@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Papua New Guinea.csv
+Mean Squared Error (MSE): 1.4893925644050028
+R² Score: 0.9999555623619126
+

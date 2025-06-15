@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Jordan.csv
+Mean Squared Error (MSE): 28374303.34800892
+R² Score: -0.42729880734504255
+

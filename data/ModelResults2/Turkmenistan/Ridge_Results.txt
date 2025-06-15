@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Turkmenistan.csv
+Mean Squared Error (MSE): 0.0
+R² Score: 1.0
+

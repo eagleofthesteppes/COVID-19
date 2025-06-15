@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Liechtenstein.csv
+Mean Squared Error (MSE): 0.010458487318762517
+R² Score: 0.9999980624721512
+

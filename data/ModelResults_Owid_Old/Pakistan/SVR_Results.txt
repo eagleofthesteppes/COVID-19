@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Pakistan.csv
+Mean Squared Error (MSE): 3838935.475542806
+R² Score: -0.2663836626313174
+

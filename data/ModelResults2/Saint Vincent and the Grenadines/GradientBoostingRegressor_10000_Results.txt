@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Saint Vincent and the Grenadines.csv
+Mean Squared Error (MSE): 7.237339974085231
+R² Score: 0.9928822041226316
+

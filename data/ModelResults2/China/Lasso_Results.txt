@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: China.csv
+Mean Squared Error (MSE): 2612238.8311719997
+R² Score: 0.9998628130492104
+

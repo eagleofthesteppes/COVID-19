@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Eritrea.csv
+Mean Squared Error (MSE): 783.7492108329027
+R² Score: -0.012937100008526992
+

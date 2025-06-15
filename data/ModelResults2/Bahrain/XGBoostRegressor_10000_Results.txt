@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Bahrain.csv
+Mean Squared Error (MSE): 17840.63759725923
+R² Score: 0.9932554364204407
+

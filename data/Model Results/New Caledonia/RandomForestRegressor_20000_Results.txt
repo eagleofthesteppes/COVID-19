@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: New Caledonia.csv
+Mean Squared Error (MSE): 228.87422008959211
+R² Score: 0.9954403056087211
+

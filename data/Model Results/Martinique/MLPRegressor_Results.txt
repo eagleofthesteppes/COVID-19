@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Martinique.csv
+Mean Squared Error (MSE): 1810.0574699656677
+R² Score: 0.9980973691647517
+

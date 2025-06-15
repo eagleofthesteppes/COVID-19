@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Congo.csv
+Mean Squared Error (MSE): 0.6661621832480115
+R² Score: 0.9998538159017546
+

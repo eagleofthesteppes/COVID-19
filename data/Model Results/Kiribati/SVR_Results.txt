@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Kiribati.csv
+Mean Squared Error (MSE): 6867.326835857604
+R² Score: -0.003784867514956325
+

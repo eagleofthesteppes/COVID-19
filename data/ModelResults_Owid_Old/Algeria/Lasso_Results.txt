@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Algeria.csv
+Mean Squared Error (MSE): 0.014151521469704158
+R² Score: 0.9999998683555887
+

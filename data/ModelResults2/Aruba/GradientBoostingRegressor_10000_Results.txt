@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Aruba.csv
+Mean Squared Error (MSE): 18.968604475666606
+R² Score: 0.9983219689691722
+

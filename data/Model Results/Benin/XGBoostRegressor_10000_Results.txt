@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Benin.csv
+Mean Squared Error (MSE): 523.2666350505878
+R² Score: 0.9766395092010498
+

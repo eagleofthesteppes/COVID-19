@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: High income.csv
+Mean Squared Error (MSE): 92041366.75763236
+R² Score: 0.9995056868862358
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Belize.csv
+Mean Squared Error (MSE): 16195.886649968159
+R² Score: -0.12996188412637322
+

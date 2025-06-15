@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Puerto Rico.csv
+Mean Squared Error (MSE): 15.322134032634127
+R² Score: 0.9999988061767271
+

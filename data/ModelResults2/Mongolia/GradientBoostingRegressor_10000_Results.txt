@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Mongolia.csv
+Mean Squared Error (MSE): 2720.0528876351723
+R² Score: 0.9997191924777759
+

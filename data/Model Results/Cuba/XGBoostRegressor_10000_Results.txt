@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Cuba.csv
+Mean Squared Error (MSE): 55641.03505188531
+R² Score: 0.9979702830314636
+

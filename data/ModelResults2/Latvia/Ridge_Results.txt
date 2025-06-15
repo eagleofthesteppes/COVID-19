@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Latvia.csv
+Mean Squared Error (MSE): 0.7467821584418353
+R² Score: 0.9999998939323056
+

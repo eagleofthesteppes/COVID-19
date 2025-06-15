@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Ireland.csv
+Mean Squared Error (MSE): 360.9669380497782
+R² Score: 0.9999797530401393
+

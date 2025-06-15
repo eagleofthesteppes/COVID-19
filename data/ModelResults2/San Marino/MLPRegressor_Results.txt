@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: San Marino.csv
+Mean Squared Error (MSE): 1195.2915246298855
+R² Score: 0.6573579850634689
+

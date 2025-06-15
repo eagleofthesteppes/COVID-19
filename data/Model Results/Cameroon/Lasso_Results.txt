@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: Cameroon.csv
+Error: Input y contains NaN.
+

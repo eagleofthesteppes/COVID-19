@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Slovakia.csv
+Mean Squared Error (MSE): 53653510.1665872
+R² Score: -0.49486431458350655
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Nicaragua.csv
+Mean Squared Error (MSE): 1.241177815333118
+R² Score: 0.9994685629726904
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Jersey.csv
+Mean Squared Error (MSE): 37.09206306043812
+R² Score: 0.9987311083449248
+

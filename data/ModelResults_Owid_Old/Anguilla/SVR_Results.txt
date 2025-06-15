@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Anguilla.csv
+Mean Squared Error (MSE): 140.78267586671043
+R² Score: 0.00814900446679756
+

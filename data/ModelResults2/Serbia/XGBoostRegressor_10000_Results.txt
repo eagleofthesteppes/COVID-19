@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Serbia.csv
+Mean Squared Error (MSE): 171736.39103801572
+R² Score: 0.9954031705856323
+

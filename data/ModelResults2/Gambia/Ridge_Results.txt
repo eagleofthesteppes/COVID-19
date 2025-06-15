@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Gambia.csv
+Mean Squared Error (MSE): 0.33633220741976444
+R² Score: 0.9998720115155129
+

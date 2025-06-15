@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: El Salvador.csv
+Mean Squared Error (MSE): 4759.813457134408
+R² Score: 0.9885793933692508
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Nigeria.csv
+Mean Squared Error (MSE): 324.9437684508152
+R² Score: 0.9996611860699509
+

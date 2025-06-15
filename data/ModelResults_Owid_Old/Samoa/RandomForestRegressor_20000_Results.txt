@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Samoa.csv
+Mean Squared Error (MSE): 17.834307635505926
+R² Score: 0.9947196055280052
+

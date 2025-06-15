@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Azerbaijan.csv
+Mean Squared Error (MSE): 112295367.23935312
+R² Score: -14.636281375524828
+

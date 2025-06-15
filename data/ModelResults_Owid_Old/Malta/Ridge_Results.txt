@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Malta.csv
+Error: Input y contains NaN.
+

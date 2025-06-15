@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Tanzania.csv
+Mean Squared Error (MSE): 2.439332241901823
+R² Score: 0.9998165014710659
+

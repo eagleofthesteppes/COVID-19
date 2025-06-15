@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Bosnia and Herzegovina.csv
+Mean Squared Error (MSE): 147606.1621904009
+R² Score: 0.8258593320484714
+

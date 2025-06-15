@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Papua New Guinea.csv
+Mean Squared Error (MSE): 34433.9441617662
+R² Score: -0.027373967850661263
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Netherlands.csv
+Mean Squared Error (MSE): 2.361779505845209e-05
+R² Score: 0.9999999999998835
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: British Virgin Islands.csv
+Mean Squared Error (MSE): 0.10349838383344791
+R² Score: 0.9995378657046916
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Lesotho.csv
+Mean Squared Error (MSE): 1.5078784752381393
+R² Score: 0.9999636116742374
+

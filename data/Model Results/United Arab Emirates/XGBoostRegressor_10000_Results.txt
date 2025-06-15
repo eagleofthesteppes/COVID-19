@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: United Arab Emirates.csv
+Mean Squared Error (MSE): 12667.81806507028
+R² Score: 0.9984880089759827
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Sudan.csv
+Mean Squared Error (MSE): 9.11360894224331
+R² Score: 0.9997306980103036
+

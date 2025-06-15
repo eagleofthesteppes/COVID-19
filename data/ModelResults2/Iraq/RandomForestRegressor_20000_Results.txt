@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Iraq.csv
+Mean Squared Error (MSE): 107478.81354597963
+R² Score: 0.9981549911559549
+

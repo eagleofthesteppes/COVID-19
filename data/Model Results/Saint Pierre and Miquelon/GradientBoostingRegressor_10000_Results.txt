@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Saint Pierre and Miquelon.csv
+Mean Squared Error (MSE): 0.8910795635730212
+R² Score: 0.9703775947741463
+

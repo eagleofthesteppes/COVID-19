@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Eritrea.csv
+Mean Squared Error (MSE): 0.05981241503928746
+R² Score: 0.9999226969374936
+

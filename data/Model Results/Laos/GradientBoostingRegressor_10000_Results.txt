@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Laos.csv
+Mean Squared Error (MSE): 937.7647082964409
+R² Score: 0.9986322238222577
+

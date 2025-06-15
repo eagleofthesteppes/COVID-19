@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Reunion.csv
+Mean Squared Error (MSE): 6401.999714228326
+R² Score: 0.9920514538004909
+

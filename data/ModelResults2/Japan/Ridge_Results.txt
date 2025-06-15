@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Japan.csv
+Mean Squared Error (MSE): 19157.29885776734
+R² Score: 0.9999992107267014
+

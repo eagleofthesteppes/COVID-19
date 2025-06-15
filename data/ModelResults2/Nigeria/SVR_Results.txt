@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Nigeria.csv
+Mean Squared Error (MSE): 1003040.1142717787
+R² Score: -0.04585468659263414
+

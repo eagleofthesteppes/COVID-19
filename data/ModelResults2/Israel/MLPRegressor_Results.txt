@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Israel.csv
+Mean Squared Error (MSE): 243344504.45550638
+R² Score: -2.3142600904060684
+

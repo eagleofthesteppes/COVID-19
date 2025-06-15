@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Falkland Islands.csv
+Mean Squared Error (MSE): 364.82419009865555
+R² Score: 0.7758905474906578
+

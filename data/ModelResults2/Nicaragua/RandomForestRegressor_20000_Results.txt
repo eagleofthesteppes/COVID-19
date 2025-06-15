@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Nicaragua.csv
+Mean Squared Error (MSE): 3.640005956344416
+R² Score: 0.9984414530126695
+

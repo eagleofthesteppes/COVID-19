@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Switzerland.csv
+Mean Squared Error (MSE): 130374726.6353138
+R² Score: 0.15734538423045719
+

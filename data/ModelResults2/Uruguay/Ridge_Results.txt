@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Uruguay.csv
+Mean Squared Error (MSE): 0.7787381074465948
+R² Score: 0.9999998740065453
+

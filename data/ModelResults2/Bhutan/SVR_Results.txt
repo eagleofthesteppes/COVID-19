@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Bhutan.csv
+Mean Squared Error (MSE): 24668.01872469615
+R² Score: -0.006210681705012933
+

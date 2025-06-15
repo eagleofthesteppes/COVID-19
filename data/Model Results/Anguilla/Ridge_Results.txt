@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Anguilla.csv
+Mean Squared Error (MSE): 0.008577596172166475
+R² Score: 0.9999599820192591
+

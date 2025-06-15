@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Ghana.csv
+Mean Squared Error (MSE): 107.53576120831427
+R² Score: 0.9989049973709485
+

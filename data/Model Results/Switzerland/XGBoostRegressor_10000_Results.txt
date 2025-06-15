@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Switzerland.csv
+Mean Squared Error (MSE): 1330190.878279375
+R² Score: 0.9914025664329529
+

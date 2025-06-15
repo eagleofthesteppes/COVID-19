@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Poland.csv
+Mean Squared Error (MSE): 1340804.3579963357
+R² Score: 0.9957205653190613
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Peru.csv
+Mean Squared Error (MSE): 5684990.746827385
+R² Score: 0.9555610176218332
+

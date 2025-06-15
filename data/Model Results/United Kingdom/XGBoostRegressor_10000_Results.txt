@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: United Kingdom.csv
+Mean Squared Error (MSE): 39664586.234614395
+R² Score: 0.9886056184768677
+

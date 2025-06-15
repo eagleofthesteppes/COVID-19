@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Croatia.csv
+Mean Squared Error (MSE): 30658.605419528663
+R² Score: 0.9974296727153988
+

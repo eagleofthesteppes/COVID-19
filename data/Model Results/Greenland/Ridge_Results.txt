@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Greenland.csv
+Mean Squared Error (MSE): 6.847705454000475e-06
+R² Score: 0.9999999810206113
+

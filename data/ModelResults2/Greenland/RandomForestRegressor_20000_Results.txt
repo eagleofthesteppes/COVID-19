@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Greenland.csv
+Mean Squared Error (MSE): 0.8816588033232629
+R² Score: 0.9975563573428923
+

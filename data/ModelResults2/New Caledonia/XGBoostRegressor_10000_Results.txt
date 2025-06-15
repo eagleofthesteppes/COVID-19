@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: New Caledonia.csv
+Mean Squared Error (MSE): 1000.0267879261985
+R² Score: 0.9800772070884705
+

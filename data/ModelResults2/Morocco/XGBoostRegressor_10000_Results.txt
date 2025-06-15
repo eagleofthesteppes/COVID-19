@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Morocco.csv
+Mean Squared Error (MSE): 221863.39021374812
+R² Score: 0.9901903867721558
+

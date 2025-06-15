@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Cayman Islands.csv
+Mean Squared Error (MSE): 42.85447717634744
+R² Score: 0.9951789975166321
+

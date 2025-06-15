@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Dominica.csv
+Mean Squared Error (MSE): 26.74432655991068
+R² Score: 0.9950666335696874
+

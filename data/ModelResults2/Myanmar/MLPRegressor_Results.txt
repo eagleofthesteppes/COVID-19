@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Myanmar.csv
+Mean Squared Error (MSE): 64689105.52185645
+R² Score: -16.070637053128905
+

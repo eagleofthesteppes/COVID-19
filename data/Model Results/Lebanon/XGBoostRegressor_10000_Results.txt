@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Lebanon.csv
+Mean Squared Error (MSE): 57787.914430199155
+R² Score: 0.9946781396865845
+

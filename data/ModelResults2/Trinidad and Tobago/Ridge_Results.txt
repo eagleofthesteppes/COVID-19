@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Trinidad and Tobago.csv
+Mean Squared Error (MSE): 0.30361078788852286
+R² Score: 0.9999990415790966
+

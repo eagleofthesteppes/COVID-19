@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Jersey.csv
+Mean Squared Error (MSE): 21276.58828481604
+R² Score: 0.27214387403894125
+

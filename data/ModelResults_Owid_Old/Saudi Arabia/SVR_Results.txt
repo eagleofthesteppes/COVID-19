@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Saudi Arabia.csv
+Mean Squared Error (MSE): 1523530.4106539877
+R² Score: -0.17813256251681175
+

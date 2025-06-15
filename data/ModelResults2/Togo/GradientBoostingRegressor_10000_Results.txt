@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Togo.csv
+Mean Squared Error (MSE): 52.329056518461584
+R² Score: 0.9969638878724002
+

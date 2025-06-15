@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: French Polynesia.csv
+Mean Squared Error (MSE): 11071.636388955254
+R² Score: 0.9301238273890566
+

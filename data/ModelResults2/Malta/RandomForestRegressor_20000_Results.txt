@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Malta.csv
+Mean Squared Error (MSE): 191.19678449444845
+R² Score: 0.9979526894108401
+

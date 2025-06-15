@@ -1,0 +1,6 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Low-income countries.csv
+Error: Input y contains NaN.
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Anguilla.csv
+Mean Squared Error (MSE): 4.144903837798698e-06
+R² Score: 0.9999999707980618
+

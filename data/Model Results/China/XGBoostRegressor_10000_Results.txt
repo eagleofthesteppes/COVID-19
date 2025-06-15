@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: China.csv
+Mean Squared Error (MSE): 4705844624.633185
+R² Score: 0.7528631091117859
+

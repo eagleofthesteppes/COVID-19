@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Greenland.csv
+Mean Squared Error (MSE): 362.8168837460509
+R² Score: -0.005598549573692768
+

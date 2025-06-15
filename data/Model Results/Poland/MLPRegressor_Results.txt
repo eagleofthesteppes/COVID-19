@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Poland.csv
+Mean Squared Error (MSE): 316807090.1195854
+R² Score: -0.011150795907501898
+

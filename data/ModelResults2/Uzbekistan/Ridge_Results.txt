@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Uzbekistan.csv
+Mean Squared Error (MSE): 11.439762894815331
+R² Score: 0.9999657769236057
+

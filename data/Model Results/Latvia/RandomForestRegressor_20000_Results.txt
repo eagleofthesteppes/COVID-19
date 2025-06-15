@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Latvia.csv
+Mean Squared Error (MSE): 15575.148978098709
+R² Score: 0.9977878151958501
+

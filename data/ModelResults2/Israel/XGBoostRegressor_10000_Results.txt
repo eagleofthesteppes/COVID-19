@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Israel.csv
+Mean Squared Error (MSE): 299955.075354245
+R² Score: 0.9959146976470947
+

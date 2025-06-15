@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Benin.csv
+Mean Squared Error (MSE): 0.5635685917654599
+R² Score: 0.9999748402904449
+

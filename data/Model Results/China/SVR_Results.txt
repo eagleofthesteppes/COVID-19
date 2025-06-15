@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: China.csv
+Mean Squared Error (MSE): 19292260697.565697
+R² Score: -0.013171685281621937
+

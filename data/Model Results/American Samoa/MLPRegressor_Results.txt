@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: American Samoa.csv
+Mean Squared Error (MSE): 36.959240886716344
+R² Score: 0.9352525440642843
+

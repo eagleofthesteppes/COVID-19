@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Guadeloupe.csv
+Mean Squared Error (MSE): 4759.526456423073
+R² Score: 0.990022254551315
+

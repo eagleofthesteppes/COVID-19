@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Saint Barthelemy.csv
+Mean Squared Error (MSE): 0.15161907681336534
+R² Score: 0.9990786686627506
+

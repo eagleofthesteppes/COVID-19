@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Australia.csv
+Mean Squared Error (MSE): 617086.6513927267
+R² Score: 0.9995534967908577
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Isle of Man.csv
+Mean Squared Error (MSE): 2831.1554735654736
+R² Score: 0.412320315318236
+

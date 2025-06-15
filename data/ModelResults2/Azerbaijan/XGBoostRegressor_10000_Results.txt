@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Azerbaijan.csv
+Mean Squared Error (MSE): 22077.351601412352
+R² Score: 0.9969258904457092
+

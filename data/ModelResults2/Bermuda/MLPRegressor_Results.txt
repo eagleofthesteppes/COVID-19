@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Bermuda.csv
+Mean Squared Error (MSE): 697.1903394571173
+R² Score: 0.7177636667988394
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Israel.csv
+Mean Squared Error (MSE): 406792.7812899815
+R² Score: 0.9944596362136414
+

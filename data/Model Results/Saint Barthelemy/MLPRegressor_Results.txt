@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Saint Barthelemy.csv
+Mean Squared Error (MSE): 508.1223146623383
+R² Score: -2.087665625548834
+

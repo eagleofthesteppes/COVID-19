@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Peru.csv
+Mean Squared Error (MSE): 1000005.8770731889
+R² Score: 0.9921830578925536
+

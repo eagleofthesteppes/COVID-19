@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Austria.csv
+Mean Squared Error (MSE): 494137783.6232497
+R² Score: -0.4237305431631857
+

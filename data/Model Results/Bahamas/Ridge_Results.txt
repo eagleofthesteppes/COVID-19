@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Bahamas.csv
+Mean Squared Error (MSE): 0.011280662608428272
+R² Score: 0.9999987941744718
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Uruguay.csv
+Mean Squared Error (MSE): 6402081.405798502
+R² Score: -0.0358043939974535
+

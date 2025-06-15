@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Latvia.csv
+Mean Squared Error (MSE): 1661226.8016328027
+R² Score: 0.7640510089511032
+

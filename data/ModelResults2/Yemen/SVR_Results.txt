@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Yemen.csv
+Mean Squared Error (MSE): 2077.520293958283
+R² Score: -0.021958614187194803
+

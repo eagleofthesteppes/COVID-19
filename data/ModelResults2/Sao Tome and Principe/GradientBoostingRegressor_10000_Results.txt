@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Sao Tome and Principe.csv
+Mean Squared Error (MSE): 6.616965438576512
+R² Score: 0.9836268562056014
+

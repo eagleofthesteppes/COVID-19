@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Tuvalu.csv
+Mean Squared Error (MSE): 436.30775568667656
+R² Score: 0.8812601628908796
+

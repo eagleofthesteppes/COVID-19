@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Saint Pierre and Miquelon.csv
+Mean Squared Error (MSE): 0.0001668018737898342
+R² Score: 0.9999944549590184
+

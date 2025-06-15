@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Romania.csv
+Mean Squared Error (MSE): 60591486.45630962
+R² Score: -0.05949900062562152
+

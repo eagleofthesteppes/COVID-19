@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Marshall Islands.csv
+Mean Squared Error (MSE): 26304.112889162865
+R² Score: 0.6422954926859288
+

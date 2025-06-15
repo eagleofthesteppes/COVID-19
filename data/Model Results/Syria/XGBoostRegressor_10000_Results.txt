@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Syria.csv
+Mean Squared Error (MSE): 809.8033007190264
+R² Score: 0.9758654236793518
+

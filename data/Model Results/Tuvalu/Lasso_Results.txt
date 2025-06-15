@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Tuvalu.csv
+Mean Squared Error (MSE): 0.0012393154068096126
+R² Score: 0.9999996627240575
+

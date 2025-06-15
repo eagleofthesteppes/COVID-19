@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Antigua and Barbuda.csv
+Mean Squared Error (MSE): 1106.5216669576357
+R² Score: -0.014035223861954327
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Kazakhstan.csv
+Mean Squared Error (MSE): 691.6784325891207
+R² Score: 0.9999694885808813
+

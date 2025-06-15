@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Myanmar.csv
+Mean Squared Error (MSE): 8.493715111944564
+R² Score: 0.999997758615972
+

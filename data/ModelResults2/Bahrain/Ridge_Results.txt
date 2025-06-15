@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Bahrain.csv
+Mean Squared Error (MSE): 113.101544933935
+R² Score: 0.9999572425341529
+

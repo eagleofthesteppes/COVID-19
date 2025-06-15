@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Australia.csv
+Mean Squared Error (MSE): 1631826653.528179
+R² Score: -0.18073504899168213
+

@@ -1,0 +1,6 @@
+Results for SVR
+==================================================
+
+File: Wales.csv
+Error: Input y contains NaN.
+

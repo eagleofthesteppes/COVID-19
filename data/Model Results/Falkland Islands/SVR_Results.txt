@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Falkland Islands.csv
+Mean Squared Error (MSE): 1632.480046641023
+R² Score: -0.002823330838371607
+

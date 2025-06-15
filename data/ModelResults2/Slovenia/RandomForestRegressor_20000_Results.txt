@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Slovenia.csv
+Mean Squared Error (MSE): 9628.577300985866
+R² Score: 0.9985041830452739
+

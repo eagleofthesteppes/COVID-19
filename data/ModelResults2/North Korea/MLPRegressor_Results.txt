@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: North Korea.csv
+Mean Squared Error (MSE): 10823350.847627794
+R² Score: 0.0
+

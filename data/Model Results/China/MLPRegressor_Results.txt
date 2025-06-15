@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: China.csv
+Mean Squared Error (MSE): 3147306301580.879
+R² Score: -164.28708997139597
+

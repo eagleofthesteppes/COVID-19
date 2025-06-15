@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Peru.csv
+Mean Squared Error (MSE): 996628.8863638149
+R² Score: 0.9922094345092773
+

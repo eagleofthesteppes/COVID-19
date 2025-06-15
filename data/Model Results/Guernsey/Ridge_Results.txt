@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Guernsey.csv
+Mean Squared Error (MSE): 0.0141640255859439
+R² Score: 0.9999986123736414
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Paraguay.csv
+Mean Squared Error (MSE): 4462721.387263745
+R² Score: -0.04625816335702515
+

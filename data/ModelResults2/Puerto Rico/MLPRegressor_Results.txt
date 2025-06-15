@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Puerto Rico.csv
+Mean Squared Error (MSE): 688762.0665355008
+R² Score: 0.9463351395570766
+

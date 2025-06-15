@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Sao Tome and Principe.csv
+Mean Squared Error (MSE): 978.5404489703478
+R² Score: -1.4213189003860904
+

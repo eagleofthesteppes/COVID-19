@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Marshall Islands.csv
+Error: Input y contains NaN.
+

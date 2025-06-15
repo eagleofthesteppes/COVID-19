@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Trinidad and Tobago.csv
+Mean Squared Error (MSE): 331554.6006201511
+R² Score: -0.04663230862650769
+

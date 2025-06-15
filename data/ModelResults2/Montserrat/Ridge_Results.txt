@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Montserrat.csv
+Mean Squared Error (MSE): 3.849495432191556e-05
+R² Score: 0.9999998553484782
+

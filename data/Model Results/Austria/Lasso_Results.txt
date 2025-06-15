@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Austria.csv
+Mean Squared Error (MSE): 1606.268535940144
+R² Score: 0.9999953719516076
+

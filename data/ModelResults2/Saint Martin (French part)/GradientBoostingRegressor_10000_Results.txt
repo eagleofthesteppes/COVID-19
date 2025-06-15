@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Saint Martin (French part).csv
+Mean Squared Error (MSE): 6.293012074241278
+R² Score: 0.9881667637019059
+

@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Belarus.csv
+Mean Squared Error (MSE): 3810.0781114984225
+R² Score: 0.999278724193573
+

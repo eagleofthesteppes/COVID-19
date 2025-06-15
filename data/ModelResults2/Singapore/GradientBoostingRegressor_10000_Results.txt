@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Singapore.csv
+Mean Squared Error (MSE): 437307.72854826576
+R² Score: 0.9943932023007801
+

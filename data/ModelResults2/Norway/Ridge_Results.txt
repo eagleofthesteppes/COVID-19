@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Norway.csv
+Mean Squared Error (MSE): 13.977615477167705
+R² Score: 0.9999987850444941
+

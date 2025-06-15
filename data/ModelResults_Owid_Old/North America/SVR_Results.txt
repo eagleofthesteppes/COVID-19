@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: North America.csv
+Mean Squared Error (MSE): 19408416208.055992
+R² Score: -0.08099899636399055
+

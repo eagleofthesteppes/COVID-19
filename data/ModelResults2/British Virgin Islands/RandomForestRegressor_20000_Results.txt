@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: British Virgin Islands.csv
+Mean Squared Error (MSE): 2.771929558104231
+R² Score: 0.9876229592624322
+

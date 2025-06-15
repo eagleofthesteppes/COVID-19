@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Anguilla.csv
+Mean Squared Error (MSE): 7.555915645037763
+R² Score: 0.9647485751608762
+

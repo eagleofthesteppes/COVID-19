@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Vietnam.csv
+Mean Squared Error (MSE): 159864039.11009488
+R² Score: 0.9813981297686689
+

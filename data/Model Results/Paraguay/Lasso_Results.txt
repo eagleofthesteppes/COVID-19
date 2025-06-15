@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Paraguay.csv
+Mean Squared Error (MSE): 63.69479382755237
+R² Score: 0.9999850671390341
+

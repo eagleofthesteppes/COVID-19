@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Andorra.csv
+Mean Squared Error (MSE): 35.796834875823215
+R² Score: 0.9971122377779196
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Vatican.csv
+Mean Squared Error (MSE): 2.560837420917628e-08
+R² Score: 0.0
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Ukraine.csv
+Mean Squared Error (MSE): 43169.02321175236
+R² Score: 0.9997696079818293
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Latvia.csv
+Mean Squared Error (MSE): 9.531202846392835
+R² Score: 0.9999986462548685
+

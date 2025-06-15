@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Afghanistan.csv
+Mean Squared Error (MSE): 489.19988849372874
+R² Score: 0.9967084616978036
+

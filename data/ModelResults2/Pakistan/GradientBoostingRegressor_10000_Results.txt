@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Pakistan.csv
+Mean Squared Error (MSE): 18205.031748560512
+R² Score: 0.9992935825096331
+

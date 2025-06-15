@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Barbados.csv
+Mean Squared Error (MSE): 587.3606724409954
+R² Score: 0.9950916171073914
+

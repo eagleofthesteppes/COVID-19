@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Cyprus.csv
+Mean Squared Error (MSE): 12.486044913110696
+R² Score: 0.9999948155072739
+

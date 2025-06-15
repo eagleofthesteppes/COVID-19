@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Gibraltar.csv
+Mean Squared Error (MSE): 18.36849337389257
+R² Score: 0.9945007562637329
+

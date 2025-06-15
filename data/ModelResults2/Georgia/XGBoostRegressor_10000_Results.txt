@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Georgia.csv
+Mean Squared Error (MSE): 41322.323920090384
+R² Score: 0.9974479675292969
+

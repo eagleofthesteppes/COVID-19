@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Syria.csv
+Mean Squared Error (MSE): 2.5636477620479043
+R² Score: 0.9999235956084583
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Bonaire Sint Eustatius and Saba.csv
+Mean Squared Error (MSE): 3.0985747371752264
+R² Score: 0.9934347779085626
+

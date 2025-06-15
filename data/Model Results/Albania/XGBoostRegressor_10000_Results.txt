@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Albania.csv
+Mean Squared Error (MSE): 46228.9535609365
+R² Score: 0.9635056257247925
+

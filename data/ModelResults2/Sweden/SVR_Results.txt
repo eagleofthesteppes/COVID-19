@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Sweden.csv
+Mean Squared Error (MSE): 35927667.810486816
+R² Score: -0.05532989619905182
+

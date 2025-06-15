@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Uzbekistan.csv
+Mean Squared Error (MSE): 343893.59822814027
+R² Score: -0.028788532760777308
+

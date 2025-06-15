@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Vietnam.csv
+Mean Squared Error (MSE): 652219408.7408153
+R² Score: 0.924107379800427
+

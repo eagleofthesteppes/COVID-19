@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Denmark.csv
+Mean Squared Error (MSE): 113.8844445539938
+R² Score: 0.9999975740815815
+

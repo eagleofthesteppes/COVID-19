@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Angola.csv
+Mean Squared Error (MSE): 12349.563267151656
+R² Score: 0.8488787019161483
+

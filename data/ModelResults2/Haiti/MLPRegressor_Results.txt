@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Haiti.csv
+Mean Squared Error (MSE): 456107.33341717115
+R² Score: -53.844218243287905
+

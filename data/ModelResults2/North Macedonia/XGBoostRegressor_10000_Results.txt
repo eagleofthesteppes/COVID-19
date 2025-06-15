@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: North Macedonia.csv
+Mean Squared Error (MSE): 2341.102606224608
+R² Score: 0.996957004070282
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Jamaica.csv
+Mean Squared Error (MSE): 0.047761171453354456
+R² Score: 0.9999997354791085
+

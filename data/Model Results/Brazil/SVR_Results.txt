@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Brazil.csv
+Mean Squared Error (MSE): 7230408209.246665
+R² Score: -0.08373174869206168
+

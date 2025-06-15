@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Monaco.csv
+Mean Squared Error (MSE): 0.022595644670038433
+R² Score: 0.999983874387244
+

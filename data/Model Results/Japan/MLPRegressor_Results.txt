@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Japan.csv
+Error: could not convert string to float: 'people tested'
+

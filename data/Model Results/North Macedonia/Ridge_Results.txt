@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: North Macedonia.csv
+Mean Squared Error (MSE): 3.3682425386262977
+R² Score: 0.9999956219432209
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Switzerland.csv
+Mean Squared Error (MSE): 137545611.25747755
+R² Score: -0.19332681735525936
+

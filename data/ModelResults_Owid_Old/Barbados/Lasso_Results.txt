@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Barbados.csv
+Mean Squared Error (MSE): 5.442247794247727e-06
+R² Score: 0.9999999997890605
+

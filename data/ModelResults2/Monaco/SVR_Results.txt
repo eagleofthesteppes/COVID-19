@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Monaco.csv
+Mean Squared Error (MSE): 1451.9450249116505
+R² Score: -0.03619540652939057
+

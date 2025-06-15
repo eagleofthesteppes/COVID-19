@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Saint Kitts and Nevis.csv
+Mean Squared Error (MSE): 6.807510305550673e-05
+R² Score: 0.9999998023340796
+

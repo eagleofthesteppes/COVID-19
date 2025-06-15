@@ -1,0 +1,6 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Mauritania.csv
+Error: Input contains NaN.
+

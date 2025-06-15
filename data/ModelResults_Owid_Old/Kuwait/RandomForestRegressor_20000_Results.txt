@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Kuwait.csv
+Mean Squared Error (MSE): 2784.312916459721
+R² Score: 0.9971319037261348
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Bulgaria.csv
+Mean Squared Error (MSE): 48.40710062277168
+R² Score: 0.9999935371030121
+

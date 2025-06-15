@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Andorra.csv
+Mean Squared Error (MSE): 0.41030979287930147
+R² Score: 0.9999668999473462
+

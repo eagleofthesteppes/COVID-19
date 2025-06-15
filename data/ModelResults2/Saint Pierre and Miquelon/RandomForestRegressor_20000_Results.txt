@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Saint Pierre and Miquelon.csv
+Mean Squared Error (MSE): 0.10282269420694867
+R² Score: 0.9965818366409402
+

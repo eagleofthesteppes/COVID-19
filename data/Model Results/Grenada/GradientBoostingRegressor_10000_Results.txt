@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Grenada.csv
+Mean Squared Error (MSE): 155.0471985032927
+R² Score: 0.9618187904450306
+

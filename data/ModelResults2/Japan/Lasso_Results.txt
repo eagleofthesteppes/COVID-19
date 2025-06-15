@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Japan.csv
+Mean Squared Error (MSE): 46345.786480937415
+R² Score: 0.9999980905715338
+

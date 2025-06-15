@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Gibraltar.csv
+Mean Squared Error (MSE): 3402.734637170233
+R² Score: -0.018726829921588806
+

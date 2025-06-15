@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: South Korea.csv
+Mean Squared Error (MSE): 520009691.83964646
+R² Score: 0.9754577433257134
+

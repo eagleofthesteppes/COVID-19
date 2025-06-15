@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Rwanda.csv
+Mean Squared Error (MSE): 475.7126822582024
+R² Score: 0.9951875150125147
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Moldova.csv
+Mean Squared Error (MSE): 377.77753177782455
+R² Score: 0.9998286983281268
+

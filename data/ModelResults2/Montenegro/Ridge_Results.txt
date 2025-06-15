@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Montenegro.csv
+Mean Squared Error (MSE): 25.451774398987485
+R² Score: 0.9999486179854922
+

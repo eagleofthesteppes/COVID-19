@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Grenada.csv
+Mean Squared Error (MSE): 0.0020161297430478383
+R² Score: 0.9999995035171679
+

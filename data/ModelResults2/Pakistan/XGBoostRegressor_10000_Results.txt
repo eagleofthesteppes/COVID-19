@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Pakistan.csv
+Mean Squared Error (MSE): 176403.6767876074
+R² Score: 0.9931549429893494
+

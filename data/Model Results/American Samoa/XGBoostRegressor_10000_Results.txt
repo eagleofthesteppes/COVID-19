@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: American Samoa.csv
+Mean Squared Error (MSE): 5.134277171211984
+R² Score: 0.9910054802894592
+

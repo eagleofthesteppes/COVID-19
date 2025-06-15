@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: San Marino.csv
+Mean Squared Error (MSE): 0.10981269464126209
+R² Score: 0.9999685211162447
+

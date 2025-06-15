@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Ireland.csv
+Mean Squared Error (MSE): 67258.04080591643
+R² Score: 0.9962274432182312
+

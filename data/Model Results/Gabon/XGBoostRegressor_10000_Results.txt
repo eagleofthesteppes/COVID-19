@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Gabon.csv
+Mean Squared Error (MSE): 1009.4577577619738
+R² Score: 0.9606955647468567
+

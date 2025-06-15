@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Nauru.csv
+Mean Squared Error (MSE): 4382.2861459740725
+R² Score: 0.4190058708190918
+

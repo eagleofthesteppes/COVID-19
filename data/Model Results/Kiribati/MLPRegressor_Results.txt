@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Kiribati.csv
+Mean Squared Error (MSE): 780.8595455006869
+R² Score: 0.8858631583783777
+

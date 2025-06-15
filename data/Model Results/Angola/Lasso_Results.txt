@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Angola.csv
+Mean Squared Error (MSE): 4.0813924029610265
+R² Score: 0.9999500561028287
+

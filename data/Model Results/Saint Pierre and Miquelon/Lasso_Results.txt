@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Saint Pierre and Miquelon.csv
+Mean Squared Error (MSE): 0.00015695857796030595
+R² Score: 0.9999947821824334
+

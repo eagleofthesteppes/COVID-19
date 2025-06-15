@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Eswatini.csv
+Mean Squared Error (MSE): 282311.00412385765
+R² Score: -0.01515552982797419
+

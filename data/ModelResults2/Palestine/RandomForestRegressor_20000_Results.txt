@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Palestine.csv
+Mean Squared Error (MSE): 44882.23109814737
+R² Score: 0.9896838106580162
+

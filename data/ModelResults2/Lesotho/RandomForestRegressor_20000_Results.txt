@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Lesotho.csv
+Mean Squared Error (MSE): 3087.830987452598
+R² Score: 0.9254840481402736
+

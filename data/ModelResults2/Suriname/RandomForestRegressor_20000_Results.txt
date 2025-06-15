@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Suriname.csv
+Mean Squared Error (MSE): 52.06040521267371
+R² Score: 0.9982020892356187
+

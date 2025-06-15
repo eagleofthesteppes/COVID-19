@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Honduras.csv
+Mean Squared Error (MSE): 7683581.5925470395
+R² Score: -3.4973373297477846
+

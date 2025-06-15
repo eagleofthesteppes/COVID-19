@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Malta.csv
+Mean Squared Error (MSE): 834.2255223847853
+R² Score: 0.9910672307014465
+

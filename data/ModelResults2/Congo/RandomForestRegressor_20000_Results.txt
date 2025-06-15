@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Congo.csv
+Mean Squared Error (MSE): 11.385281574622347
+R² Score: 0.9975015887090116
+

@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Chile.csv
+Mean Squared Error (MSE): 4219186.811543025
+R² Score: 0.9745334982872009
+

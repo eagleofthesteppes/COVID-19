@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Palestine.csv
+Mean Squared Error (MSE): 7755.717145086984
+R² Score: 0.9982173469412289
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Guam.csv
+Mean Squared Error (MSE): 2555.1902195324997
+R² Score: 0.7643589947670777
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Tuvalu.csv
+Mean Squared Error (MSE): 118.28928816643591
+R² Score: 0.9678079277171434
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Gibraltar.csv
+Mean Squared Error (MSE): 3408.9153342262725
+R² Score: -0.02057723631232644
+

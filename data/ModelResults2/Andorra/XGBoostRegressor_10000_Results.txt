@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Andorra.csv
+Mean Squared Error (MSE): 23.11434963136609
+R² Score: 0.9981353282928467
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Montenegro.csv
+Mean Squared Error (MSE): 522427.50272522727
+R² Score: -0.054676074975992695
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Togo.csv
+Mean Squared Error (MSE): 67.74446157581575
+R² Score: 0.996069491883625
+

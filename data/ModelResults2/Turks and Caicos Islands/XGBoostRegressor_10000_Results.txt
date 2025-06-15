@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Turks and Caicos Islands.csv
+Mean Squared Error (MSE): 0.05603618866660459
+R² Score: 0.9996939301490784
+

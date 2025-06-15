@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: Jersey.csv
+Error: Input y contains NaN.
+

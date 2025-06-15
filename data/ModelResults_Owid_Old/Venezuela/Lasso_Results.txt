@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Venezuela.csv
+Mean Squared Error (MSE): 0.007323145832868896
+R² Score: 0.9999999794242026
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Tokelau.csv
+Mean Squared Error (MSE): 0.014404922759891279
+R² Score: 0.0
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Armenia.csv
+Mean Squared Error (MSE): 712076.2630015466
+R² Score: 0.16936597926621633
+

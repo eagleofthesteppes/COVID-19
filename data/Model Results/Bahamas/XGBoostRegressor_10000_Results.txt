@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Bahamas.csv
+Mean Squared Error (MSE): 817.5524107651274
+R² Score: 0.9126092195510864
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Dominica.csv
+Mean Squared Error (MSE): 5525.201579531257
+R² Score: -0.019200985753317523
+

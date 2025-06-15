@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Saint Martin (French part).csv
+Mean Squared Error (MSE): 2.67400899473292
+R² Score: 0.9949718713760376
+

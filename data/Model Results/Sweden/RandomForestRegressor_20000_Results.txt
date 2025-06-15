@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Sweden.csv
+Mean Squared Error (MSE): 163935.46734652534
+R² Score: 0.9951846025561488
+

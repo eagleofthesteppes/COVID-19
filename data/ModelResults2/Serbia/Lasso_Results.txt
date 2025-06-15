@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Serbia.csv
+Mean Squared Error (MSE): 201.69638041853318
+R² Score: 0.9999946012116572
+

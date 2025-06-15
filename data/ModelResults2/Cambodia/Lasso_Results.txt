@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Cambodia.csv
+Mean Squared Error (MSE): 2.7003675550225066
+R² Score: 0.9999903874477369
+

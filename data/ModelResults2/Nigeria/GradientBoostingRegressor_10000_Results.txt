@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Nigeria.csv
+Mean Squared Error (MSE): 925.34239464404
+R² Score: 0.9990351595450956
+

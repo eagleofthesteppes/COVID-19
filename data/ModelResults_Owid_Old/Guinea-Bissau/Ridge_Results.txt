@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Guinea-Bissau.csv
+Mean Squared Error (MSE): 1.2799830201021878e-07
+R² Score: 0.9999999995660509
+

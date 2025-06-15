@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Oceania.csv
+Mean Squared Error (MSE): 756.5344936554158
+R² Score: 0.9999984944463338
+

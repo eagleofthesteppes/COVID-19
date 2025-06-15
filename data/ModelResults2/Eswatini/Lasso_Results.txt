@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Eswatini.csv
+Mean Squared Error (MSE): 0.7606337154116193
+R² Score: 0.9999972648550319
+

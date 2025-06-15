@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Laos.csv
+Mean Squared Error (MSE): 4.9452813161080424
+R² Score: 0.9999927870627711
+

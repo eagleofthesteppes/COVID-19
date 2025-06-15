@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Azerbaijan.csv
+Mean Squared Error (MSE): 7452490.071621847
+R² Score: -0.037702930876987395
+

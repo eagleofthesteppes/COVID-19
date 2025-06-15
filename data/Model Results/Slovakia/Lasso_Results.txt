@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Slovakia.csv
+Mean Squared Error (MSE): 14.838147386141678
+R² Score: 0.9999995865877749
+

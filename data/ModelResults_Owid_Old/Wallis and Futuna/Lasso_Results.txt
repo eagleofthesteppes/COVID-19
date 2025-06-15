@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Wallis and Futuna.csv
+Mean Squared Error (MSE): 2.981233751703844e-08
+R² Score: 0.9999999991396427
+

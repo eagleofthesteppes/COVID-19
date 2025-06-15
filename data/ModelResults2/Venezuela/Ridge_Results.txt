@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Venezuela.csv
+Mean Squared Error (MSE): 8.873383023627136
+R² Score: 0.9999957946629877
+

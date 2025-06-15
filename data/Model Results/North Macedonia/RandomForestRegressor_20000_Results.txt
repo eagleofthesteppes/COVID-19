@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: North Macedonia.csv
+Mean Squared Error (MSE): 2372.2089026387453
+R² Score: 0.996916592214323
+

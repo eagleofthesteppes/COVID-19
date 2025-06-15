@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Afghanistan.csv
+Mean Squared Error (MSE): 123.14150870522907
+R² Score: 0.9991714358329773
+

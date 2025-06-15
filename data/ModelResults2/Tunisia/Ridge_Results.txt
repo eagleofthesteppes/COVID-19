@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Tunisia.csv
+Mean Squared Error (MSE): 36.28194021190921
+R² Score: 0.9999958257876559
+

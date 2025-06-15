@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Georgia.csv
+Mean Squared Error (MSE): 18055027.014865335
+R² Score: -0.1150724835826007
+

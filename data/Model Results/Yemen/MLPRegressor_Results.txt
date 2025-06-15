@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Yemen.csv
+Mean Squared Error (MSE): 1795459.0877028955
+R² Score: -882.2091250491058
+

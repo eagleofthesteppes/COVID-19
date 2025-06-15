@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Rwanda.csv
+Mean Squared Error (MSE): 2760.584305028442
+R² Score: 0.9720728993415833
+

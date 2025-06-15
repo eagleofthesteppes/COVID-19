@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Djibouti.csv
+Mean Squared Error (MSE): 6054.767920841802
+R² Score: -0.010230507428111713
+

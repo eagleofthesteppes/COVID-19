@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Seychelles.csv
+Mean Squared Error (MSE): 5184.277239335336
+R² Score: 0.8129630670196121
+

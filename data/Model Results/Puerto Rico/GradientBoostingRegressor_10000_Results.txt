@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Puerto Rico.csv
+Mean Squared Error (MSE): 19194.85036616593
+R² Score: 0.9985044342361877
+

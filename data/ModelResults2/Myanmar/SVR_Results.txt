@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Myanmar.csv
+Mean Squared Error (MSE): 3873489.1679547285
+R² Score: -0.022164817119639135
+

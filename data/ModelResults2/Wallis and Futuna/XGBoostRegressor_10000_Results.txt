@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Wallis and Futuna.csv
+Mean Squared Error (MSE): 82.06096512820518
+R² Score: 0.7013168931007385
+

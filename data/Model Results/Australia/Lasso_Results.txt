@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Australia.csv
+Mean Squared Error (MSE): 6969.552199754354
+R² Score: 0.9999949570657274
+

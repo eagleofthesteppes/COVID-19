@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Andorra.csv
+Mean Squared Error (MSE): 28.8893498306873
+R² Score: 0.9976694706850223
+

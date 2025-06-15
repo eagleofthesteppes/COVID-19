@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Togo.csv
+Mean Squared Error (MSE): 98.590658857295
+R² Score: 0.9942798018455505
+

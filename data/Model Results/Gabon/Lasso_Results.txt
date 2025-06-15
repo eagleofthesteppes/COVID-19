@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Gabon.csv
+Mean Squared Error (MSE): 4.949775805936357
+R² Score: 0.999807274596253
+

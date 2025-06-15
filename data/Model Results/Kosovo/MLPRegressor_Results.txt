@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Kosovo.csv
+Mean Squared Error (MSE): 5408851.934793043
+R² Score: -3.0229050069562007
+

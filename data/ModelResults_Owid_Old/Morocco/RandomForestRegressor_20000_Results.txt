@@ -1,0 +1,6 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Morocco.csv
+Error: could not convert string to float: 'people tested'
+

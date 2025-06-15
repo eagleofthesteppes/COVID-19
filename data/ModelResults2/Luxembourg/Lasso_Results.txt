@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Luxembourg.csv
+Mean Squared Error (MSE): 33.62162789021787
+R² Score: 0.9999478545815125
+

@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Micronesia (country).csv
+Error: Input y contains NaN.
+

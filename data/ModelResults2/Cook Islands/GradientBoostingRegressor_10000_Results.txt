@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Cook Islands.csv
+Mean Squared Error (MSE): 0.9694258214675466
+R² Score: 0.9973365637967313
+

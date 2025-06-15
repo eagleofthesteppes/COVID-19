@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Peru.csv
+Mean Squared Error (MSE): 1987.2137216429614
+R² Score: 0.9999844661566764
+

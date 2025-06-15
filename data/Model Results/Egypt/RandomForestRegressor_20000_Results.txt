@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Egypt.csv
+Mean Squared Error (MSE): 1094.4782394618983
+R² Score: 0.9994960512824179
+

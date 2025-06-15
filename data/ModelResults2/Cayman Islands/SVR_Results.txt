@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Cayman Islands.csv
+Mean Squared Error (MSE): 9155.344902753854
+R² Score: -0.02994375536158067
+

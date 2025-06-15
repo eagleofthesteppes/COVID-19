@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Jordan.csv
+Mean Squared Error (MSE): 13979.31302991173
+R² Score: 0.9992968054027485
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Falkland Islands.csv
+Mean Squared Error (MSE): 126.00927171788491
+R² Score: 0.9225932115736089
+

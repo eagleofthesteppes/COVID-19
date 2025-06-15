@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Northern Mariana Islands.csv
+Mean Squared Error (MSE): 8.659398077658617
+R² Score: 0.995904646033193
+

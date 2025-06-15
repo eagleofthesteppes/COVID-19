@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Guyana.csv
+Mean Squared Error (MSE): 100.85059549892004
+R² Score: 0.9957469183569956
+

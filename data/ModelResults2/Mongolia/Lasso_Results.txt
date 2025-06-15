@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Mongolia.csv
+Mean Squared Error (MSE): 103.74590808467177
+R² Score: 0.9999892896820048
+

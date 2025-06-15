@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Suriname.csv
+Mean Squared Error (MSE): 96.77328509683952
+R² Score: 0.9966579079627991
+

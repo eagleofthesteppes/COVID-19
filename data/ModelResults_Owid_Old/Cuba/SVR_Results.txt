@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Cuba.csv
+Mean Squared Error (MSE): 6346965.748453611
+R² Score: -0.22005060483529348
+

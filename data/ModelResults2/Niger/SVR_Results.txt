@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Niger.csv
+Mean Squared Error (MSE): 1199.523260577874
+R² Score: -0.015881962652895876
+

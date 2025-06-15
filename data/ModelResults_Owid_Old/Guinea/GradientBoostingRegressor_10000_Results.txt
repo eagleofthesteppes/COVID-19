@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Guinea.csv
+Mean Squared Error (MSE): 90.99244834405506
+R² Score: 0.9779040738804479
+

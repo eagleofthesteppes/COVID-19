@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Aruba.csv
+Mean Squared Error (MSE): 0.014184050120360454
+R² Score: 0.9999987452278698
+

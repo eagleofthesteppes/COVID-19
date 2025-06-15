@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Turkey.csv
+Mean Squared Error (MSE): 10104.600366415776
+R² Score: 0.9999957037083275
+

@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: World.csv
+Error: Input y contains NaN.
+

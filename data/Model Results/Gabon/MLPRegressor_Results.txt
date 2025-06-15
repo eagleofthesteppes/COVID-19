@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Gabon.csv
+Mean Squared Error (MSE): 209622.3885218687
+R² Score: -7.1618968305291
+

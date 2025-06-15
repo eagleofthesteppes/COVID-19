@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Bulgaria.csv
+Mean Squared Error (MSE): 3214270.3826238913
+R² Score: -0.20265969454468413
+

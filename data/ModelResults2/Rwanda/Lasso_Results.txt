@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Rwanda.csv
+Mean Squared Error (MSE): 3.2469341756848835
+R² Score: 0.9999671528160619
+

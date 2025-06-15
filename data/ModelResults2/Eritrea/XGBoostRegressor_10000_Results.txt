@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Eritrea.csv
+Mean Squared Error (MSE): 5.20864411025786
+R² Score: 0.9932681918144226
+

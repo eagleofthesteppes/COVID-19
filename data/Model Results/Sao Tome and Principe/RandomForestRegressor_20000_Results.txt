@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Sao Tome and Principe.csv
+Mean Squared Error (MSE): 8.297320801117827
+R² Score: 0.9794689532768389
+

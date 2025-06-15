@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Brunei.csv
+Mean Squared Error (MSE): 8131.874314053169
+R² Score: 0.9968541316074065
+

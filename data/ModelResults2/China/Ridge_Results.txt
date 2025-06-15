@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: China.csv
+Mean Squared Error (MSE): 1568.3433606153267
+R² Score: 0.9999999176353093
+

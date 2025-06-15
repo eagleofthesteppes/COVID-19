@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Kiribati.csv
+Mean Squared Error (MSE): 1.4468956745533945
+R² Score: 0.9997885098499454
+

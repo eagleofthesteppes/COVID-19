@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Morocco.csv
+Mean Squared Error (MSE): 23180897.83703704
+R² Score: -0.024937745516686816
+

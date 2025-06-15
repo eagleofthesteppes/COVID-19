@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Portugal.csv
+Mean Squared Error (MSE): 181402349.58687454
+R² Score: -0.034191812789040155
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Gambia.csv
+Mean Squared Error (MSE): 607074.9151060624
+R² Score: -230.01741861309995
+

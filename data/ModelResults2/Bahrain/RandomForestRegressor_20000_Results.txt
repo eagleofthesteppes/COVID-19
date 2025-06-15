@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Bahrain.csv
+Mean Squared Error (MSE): 34473.31560281176
+R² Score: 0.9869675377521568
+

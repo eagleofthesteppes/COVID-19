@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Australia.csv
+Mean Squared Error (MSE): 2625265.74860277
+R² Score: 0.9981004595756531
+

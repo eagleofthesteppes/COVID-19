@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Bolivia.csv
+Mean Squared Error (MSE): 256868.7266740733
+R² Score: 0.980281412601471
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Samoa.csv
+Mean Squared Error (MSE): 3462.475352306731
+R² Score: -0.0251721616228604
+

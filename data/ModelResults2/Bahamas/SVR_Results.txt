@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Bahamas.csv
+Mean Squared Error (MSE): 9747.044370054302
+R² Score: -0.041892248136325305
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Greenland.csv
+Mean Squared Error (MSE): 9.457207259679393e-05
+R² Score: 0.9999997378800621
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Chile.csv
+Mean Squared Error (MSE): 1202.9813926133659
+R² Score: 0.9999927389544828
+

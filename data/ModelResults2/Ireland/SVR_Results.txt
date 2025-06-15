@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Ireland.csv
+Mean Squared Error (MSE): 18583352.904895425
+R² Score: -0.04235696037944914
+

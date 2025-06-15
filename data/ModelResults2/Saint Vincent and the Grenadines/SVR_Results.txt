@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Saint Vincent and the Grenadines.csv
+Mean Squared Error (MSE): 1032.3114172080504
+R² Score: -0.015260023140269752
+

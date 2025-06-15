@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Tunisia.csv
+Mean Squared Error (MSE): 33573.15410823259
+R² Score: 0.9961374402046204
+

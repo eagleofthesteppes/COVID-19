@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Belgium.csv
+Mean Squared Error (MSE): 304.1746920437044
+R² Score: 0.9999969808025487
+

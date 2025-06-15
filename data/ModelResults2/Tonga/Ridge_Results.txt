@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Tonga.csv
+Mean Squared Error (MSE): 0.010392174167751863
+R² Score: 0.9999987673767753
+

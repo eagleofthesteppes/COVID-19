@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Jersey.csv
+Mean Squared Error (MSE): 18.153100950242404
+R² Score: 0.9993789960328718
+

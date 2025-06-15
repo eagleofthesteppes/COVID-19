@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Finland.csv
+Mean Squared Error (MSE): 104506804.46274318
+R² Score: -4.904642392510517
+

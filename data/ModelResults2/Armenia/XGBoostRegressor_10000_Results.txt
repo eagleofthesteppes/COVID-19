@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Armenia.csv
+Mean Squared Error (MSE): 2005.2334471179076
+R² Score: 0.9976608753204346
+

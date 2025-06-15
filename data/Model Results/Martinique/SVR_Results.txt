@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Martinique.csv
+Mean Squared Error (MSE): 972601.7285451911
+R² Score: -0.022344356381681862
+

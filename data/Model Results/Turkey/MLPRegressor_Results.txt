@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Turkey.csv
+Mean Squared Error (MSE): 3214011160.191815
+R² Score: -0.36653889142542706
+

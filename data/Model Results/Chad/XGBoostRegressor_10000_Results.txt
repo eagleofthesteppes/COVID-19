@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Chad.csv
+Mean Squared Error (MSE): 43.370960737924364
+R² Score: 0.975562572479248
+

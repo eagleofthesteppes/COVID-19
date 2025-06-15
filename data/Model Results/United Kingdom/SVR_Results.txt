@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: United Kingdom.csv
+Mean Squared Error (MSE): 3632635977.072843
+R² Score: -0.0435434780127677
+

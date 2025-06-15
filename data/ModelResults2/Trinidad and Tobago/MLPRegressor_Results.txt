@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Trinidad and Tobago.csv
+Mean Squared Error (MSE): 280593.2352751519
+R² Score: 0.1142395699781944
+

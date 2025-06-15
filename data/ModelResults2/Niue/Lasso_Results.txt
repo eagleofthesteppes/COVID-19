@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Niue.csv
+Mean Squared Error (MSE): 2.131364431471967e-06
+R² Score: 0.999999937594226
+

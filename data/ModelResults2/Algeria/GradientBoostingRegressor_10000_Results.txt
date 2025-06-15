@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Algeria.csv
+Mean Squared Error (MSE): 92.6154815442528
+R² Score: 0.9997258987507569
+

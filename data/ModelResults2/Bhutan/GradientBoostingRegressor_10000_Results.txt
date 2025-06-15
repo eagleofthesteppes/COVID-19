@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Bhutan.csv
+Mean Squared Error (MSE): 58.64342777185544
+R² Score: 0.9976079293560467
+

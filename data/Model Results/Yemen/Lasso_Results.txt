@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Yemen.csv
+Mean Squared Error (MSE): 0.14140056691763708
+R² Score: 0.9999304432655447
+

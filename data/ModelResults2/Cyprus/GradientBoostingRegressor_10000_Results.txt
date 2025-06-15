@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Cyprus.csv
+Mean Squared Error (MSE): 4464.158525450792
+R² Score: 0.9981463788121603
+

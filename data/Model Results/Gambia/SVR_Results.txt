@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Gambia.csv
+Mean Squared Error (MSE): 2669.6653806779714
+R² Score: -0.015919435078671995
+

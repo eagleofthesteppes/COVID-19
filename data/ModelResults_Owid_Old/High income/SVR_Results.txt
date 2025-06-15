@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: High income.csv
+Mean Squared Error (MSE): 200031229826.53964
+R² Score: -0.07427848530355408
+

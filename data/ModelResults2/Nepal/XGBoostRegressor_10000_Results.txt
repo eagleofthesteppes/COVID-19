@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Nepal.csv
+Mean Squared Error (MSE): 133723.11906436202
+R² Score: 0.99506676197052
+

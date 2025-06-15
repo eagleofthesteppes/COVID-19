@@ -1,0 +1,6 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Trinidad and Tobago.csv
+Error: could not convert string to float: 'people tested'
+

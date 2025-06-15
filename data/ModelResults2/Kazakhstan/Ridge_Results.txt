@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Kazakhstan.csv
+Mean Squared Error (MSE): 624.0628216020048
+R² Score: 0.9999724712504985
+

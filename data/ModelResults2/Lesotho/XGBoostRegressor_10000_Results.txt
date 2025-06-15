@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Lesotho.csv
+Mean Squared Error (MSE): 211.30809021773294
+R² Score: 0.9949007034301758
+

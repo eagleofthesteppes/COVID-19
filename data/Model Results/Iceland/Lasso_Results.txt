@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Iceland.csv
+Mean Squared Error (MSE): 453.73682189695995
+R² Score: 0.9996295258880229
+

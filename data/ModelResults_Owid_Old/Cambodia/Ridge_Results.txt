@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Cambodia.csv
+Mean Squared Error (MSE): 1.7886778877751738e-05
+R² Score: 0.9999999997318798
+

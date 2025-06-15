@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Puerto Rico.csv
+Mean Squared Error (MSE): 10.01356929964548
+R² Score: 0.999999219793271
+

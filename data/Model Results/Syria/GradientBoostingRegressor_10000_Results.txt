@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Syria.csv
+Mean Squared Error (MSE): 43.594454193545076
+R² Score: 0.9987007545277644
+

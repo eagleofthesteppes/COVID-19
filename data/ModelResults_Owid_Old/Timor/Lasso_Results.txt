@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: Timor.csv
+Error: Input contains NaN.
+

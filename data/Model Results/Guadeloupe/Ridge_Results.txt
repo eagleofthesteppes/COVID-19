@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Guadeloupe.csv
+Mean Squared Error (MSE): 49.80899507899533
+R² Score: 0.9998955817393803
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Niger.csv
+Mean Squared Error (MSE): 0.28892963922533266
+R² Score: 0.9997553041123826
+

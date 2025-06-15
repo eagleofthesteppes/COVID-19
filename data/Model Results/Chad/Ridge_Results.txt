@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Chad.csv
+Mean Squared Error (MSE): 0.3332820881074187
+R² Score: 0.9998122116142689
+

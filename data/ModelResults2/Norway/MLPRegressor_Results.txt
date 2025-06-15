@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Norway.csv
+Mean Squared Error (MSE): 56918357.082529515
+R² Score: -3.94742979860641
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Finland.csv
+Mean Squared Error (MSE): 16.597580789421425
+R² Score: 0.9999990622354243
+

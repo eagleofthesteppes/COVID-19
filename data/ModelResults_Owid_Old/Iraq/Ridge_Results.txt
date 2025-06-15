@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Iraq.csv
+Mean Squared Error (MSE): 0.00013977969160790146
+R² Score: 0.9999999999810985
+

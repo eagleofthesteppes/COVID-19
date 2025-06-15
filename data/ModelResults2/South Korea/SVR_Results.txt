@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: South Korea.csv
+Mean Squared Error (MSE): 21630113040.002808
+R² Score: -0.0208497927097826
+

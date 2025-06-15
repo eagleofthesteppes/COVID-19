@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Uruguay.csv
+Mean Squared Error (MSE): 26403.87495691922
+R² Score: 0.995728075504303
+

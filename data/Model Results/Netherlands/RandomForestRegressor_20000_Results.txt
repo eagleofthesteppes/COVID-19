@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Netherlands.csv
+Mean Squared Error (MSE): 8793883.041845478
+R² Score: 0.9889209774363285
+

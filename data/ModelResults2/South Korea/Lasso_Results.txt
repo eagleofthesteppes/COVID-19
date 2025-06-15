@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: South Korea.csv
+Mean Squared Error (MSE): 14850.753992811824
+R² Score: 0.9999992991072628
+

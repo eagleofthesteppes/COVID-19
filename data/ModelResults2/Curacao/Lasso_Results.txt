@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Curacao.csv
+Mean Squared Error (MSE): 0.0006114105571271357
+R² Score: 0.9999999502987529
+

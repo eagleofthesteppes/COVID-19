@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Latvia.csv
+Mean Squared Error (MSE): 240180.8554913108
+R² Score: 0.9658864140510559
+

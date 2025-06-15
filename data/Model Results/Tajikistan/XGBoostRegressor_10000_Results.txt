@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Tajikistan.csv
+Mean Squared Error (MSE): 35.74102535937741
+R² Score: 0.9893682599067688
+

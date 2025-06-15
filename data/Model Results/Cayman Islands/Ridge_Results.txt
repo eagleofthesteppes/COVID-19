@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Cayman Islands.csv
+Mean Squared Error (MSE): 0.28308965455013957
+R² Score: 0.9999681534202143
+

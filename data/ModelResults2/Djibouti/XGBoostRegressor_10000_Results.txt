@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Djibouti.csv
+Mean Squared Error (MSE): 130.36477857529746
+R² Score: 0.9782487750053406
+

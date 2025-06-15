@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Saint Barthelemy.csv
+Mean Squared Error (MSE): 0.9573069530444112
+R² Score: 0.994182825088501
+

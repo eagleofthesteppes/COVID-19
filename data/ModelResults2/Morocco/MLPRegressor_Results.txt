@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Morocco.csv
+Mean Squared Error (MSE): 5609027251.2531395
+R² Score: -247.00177222884778
+

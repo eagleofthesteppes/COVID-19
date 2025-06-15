@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Moldova.csv
+Mean Squared Error (MSE): 1554284.1094331208
+R² Score: 0.2952162473535356
+

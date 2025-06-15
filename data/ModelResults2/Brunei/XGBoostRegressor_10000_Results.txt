@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Brunei.csv
+Mean Squared Error (MSE): 16561.143145016973
+R² Score: 0.9935932159423828
+

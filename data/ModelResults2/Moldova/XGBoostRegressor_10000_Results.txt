@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Moldova.csv
+Mean Squared Error (MSE): 1966.1477087390563
+R² Score: 0.9991084337234497
+

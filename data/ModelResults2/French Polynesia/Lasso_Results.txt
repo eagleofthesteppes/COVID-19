@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: French Polynesia.csv
+Mean Squared Error (MSE): 0.05092299197487782
+R² Score: 0.9999996786108528
+

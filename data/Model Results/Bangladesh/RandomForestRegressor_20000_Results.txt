@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Bangladesh.csv
+Mean Squared Error (MSE): 80021.06545148425
+R² Score: 0.9974082562566956
+

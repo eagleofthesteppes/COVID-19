@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Chile.csv
+Mean Squared Error (MSE): 177961194.52901953
+R² Score: -0.07415155521178463
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Oman.csv
+Mean Squared Error (MSE): 634.2485726888573
+R² Score: 0.9995216326851847
+

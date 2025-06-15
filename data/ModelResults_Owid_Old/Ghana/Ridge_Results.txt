@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Ghana.csv
+Mean Squared Error (MSE): 5.5668136547305496e-05
+R² Score: 0.999999999433149
+

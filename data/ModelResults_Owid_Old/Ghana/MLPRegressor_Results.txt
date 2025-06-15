@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Ghana.csv
+Mean Squared Error (MSE): 17322324.369586322
+R² Score: -175.38774778592915
+

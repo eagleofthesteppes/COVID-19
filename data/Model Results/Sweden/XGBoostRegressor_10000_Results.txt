@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Sweden.csv
+Mean Squared Error (MSE): 103390.15228021446
+R² Score: 0.9969630241394043
+

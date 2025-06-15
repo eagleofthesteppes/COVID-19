@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Morocco.csv
+Mean Squared Error (MSE): 273.4833242452825
+R² Score: 0.9999879080015037
+

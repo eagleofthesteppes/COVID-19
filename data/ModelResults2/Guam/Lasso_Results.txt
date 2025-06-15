@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Guam.csv
+Mean Squared Error (MSE): 0.29600476845809914
+R² Score: 0.999972702282335
+

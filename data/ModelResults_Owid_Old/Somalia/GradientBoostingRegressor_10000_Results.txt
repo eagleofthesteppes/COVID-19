@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Somalia.csv
+Mean Squared Error (MSE): 2.1778980147221993
+R² Score: 0.9995216400675814
+

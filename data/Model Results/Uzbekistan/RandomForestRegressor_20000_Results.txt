@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Uzbekistan.csv
+Mean Squared Error (MSE): 636.4947524894928
+R² Score: 0.9980958688795096
+

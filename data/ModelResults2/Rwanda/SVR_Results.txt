@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Rwanda.csv
+Mean Squared Error (MSE): 101716.55541511922
+R² Score: -0.02900219853355268
+

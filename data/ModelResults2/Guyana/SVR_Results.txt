@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Guyana.csv
+Mean Squared Error (MSE): 25082.093301545407
+R² Score: -0.057764607746604524
+

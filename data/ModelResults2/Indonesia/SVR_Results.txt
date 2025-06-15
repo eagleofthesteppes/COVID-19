@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Indonesia.csv
+Mean Squared Error (MSE): 284090096.3145546
+R² Score: -0.04775550996029598
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Malta.csv
+Mean Squared Error (MSE): 133155.80620492378
+R² Score: -0.42581525506446316
+

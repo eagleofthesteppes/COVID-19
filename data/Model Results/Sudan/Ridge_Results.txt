@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Sudan.csv
+Mean Squared Error (MSE): 6.22759638227673
+R² Score: 0.9998159780491569
+

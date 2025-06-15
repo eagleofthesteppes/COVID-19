@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Belize.csv
+Mean Squared Error (MSE): 22.370098181704364
+R² Score: 0.998439272956412
+

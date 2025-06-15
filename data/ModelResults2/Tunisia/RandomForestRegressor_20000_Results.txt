@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Tunisia.csv
+Mean Squared Error (MSE): 59592.01763892248
+R² Score: 0.9931439792307566
+

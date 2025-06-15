@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Cyprus.csv
+Mean Squared Error (MSE): 72712.06041699338
+R² Score: 0.9698082804679871
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Sudan.csv
+Mean Squared Error (MSE): 21.67782763960725
+R² Score: 0.9993594324539665
+

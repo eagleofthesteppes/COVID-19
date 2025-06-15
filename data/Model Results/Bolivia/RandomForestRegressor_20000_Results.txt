@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Bolivia.csv
+Mean Squared Error (MSE): 55661.048654885395
+R² Score: 0.9957271669844225
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: World.csv
+Mean Squared Error (MSE): 42050803.6639679
+R² Score: 0.9998733407226016
+

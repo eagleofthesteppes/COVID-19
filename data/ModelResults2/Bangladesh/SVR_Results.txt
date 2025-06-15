@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Bangladesh.csv
+Mean Squared Error (MSE): 32062336.049509257
+R² Score: -0.03844354462413002
+

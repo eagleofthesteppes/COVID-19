@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: San Marino.csv
+Mean Squared Error (MSE): 5.1880879629198774e-11
+R² Score: 0.9999999999999744
+

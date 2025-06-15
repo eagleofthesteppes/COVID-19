@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Jamaica.csv
+Mean Squared Error (MSE): 695.7713781433388
+R² Score: 0.996146559715271
+

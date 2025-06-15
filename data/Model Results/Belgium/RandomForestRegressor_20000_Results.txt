@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Belgium.csv
+Mean Squared Error (MSE): 77910.75117036239
+R² Score: 0.9992266682682339
+

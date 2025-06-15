@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Oman.csv
+Mean Squared Error (MSE): 8900.390851480992
+R² Score: 0.9932870864868164
+

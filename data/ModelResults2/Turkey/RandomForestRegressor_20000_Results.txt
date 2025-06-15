@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Turkey.csv
+Mean Squared Error (MSE): 10575050.456771448
+R² Score: 0.995503681534478
+

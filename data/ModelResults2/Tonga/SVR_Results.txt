@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Tonga.csv
+Mean Squared Error (MSE): 8524.870132657195
+R² Score: -0.011140955071984093
+

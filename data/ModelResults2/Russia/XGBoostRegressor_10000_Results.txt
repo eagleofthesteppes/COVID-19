@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Russia.csv
+Mean Squared Error (MSE): 4308519.929623125
+R² Score: 0.9978368282318115
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Zambia.csv
+Mean Squared Error (MSE): 112.62350015596182
+R² Score: 0.9996777561024661
+

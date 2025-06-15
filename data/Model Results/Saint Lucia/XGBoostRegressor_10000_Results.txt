@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Saint Lucia.csv
+Mean Squared Error (MSE): 91.03527510655005
+R² Score: 0.9890722632408142
+

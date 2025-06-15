@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Guernsey.csv
+Mean Squared Error (MSE): 9056.280593804495
+R² Score: 0.11277104194715248
+

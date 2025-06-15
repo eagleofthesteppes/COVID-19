@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Suriname.csv
+Mean Squared Error (MSE): 0.11129300597704365
+R² Score: 0.9999961564860544
+

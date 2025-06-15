@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Nicaragua.csv
+Mean Squared Error (MSE): 0.08389275337122833
+R² Score: 0.9999640795098707
+

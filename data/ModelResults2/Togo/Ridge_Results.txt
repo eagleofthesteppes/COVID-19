@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Togo.csv
+Mean Squared Error (MSE): 1.1116941849971738
+R² Score: 0.9999354999225705
+

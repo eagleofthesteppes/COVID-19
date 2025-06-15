@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Eswatini.csv
+Mean Squared Error (MSE): 49002.69579738452
+R² Score: 0.8237923535089399
+

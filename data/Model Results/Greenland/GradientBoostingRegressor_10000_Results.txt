@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Greenland.csv
+Mean Squared Error (MSE): 1.0451732325139622
+R² Score: 0.9971031538669933
+

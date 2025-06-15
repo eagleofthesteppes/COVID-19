@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Sao Tome and Principe.csv
+Mean Squared Error (MSE): 5.299182420891107
+R² Score: 0.9868875741958618
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Croatia.csv
+Mean Squared Error (MSE): 12486383.686891986
+R² Score: -0.04682167493416367
+

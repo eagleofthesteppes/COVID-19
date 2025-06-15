@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: South Sudan.csv
+Mean Squared Error (MSE): 113.33460179106166
+R² Score: 0.9912129640579224
+

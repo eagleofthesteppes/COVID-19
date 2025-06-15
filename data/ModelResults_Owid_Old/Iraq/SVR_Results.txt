@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Iraq.csv
+Mean Squared Error (MSE): 8621418.182808131
+R² Score: -0.16581800622096754
+

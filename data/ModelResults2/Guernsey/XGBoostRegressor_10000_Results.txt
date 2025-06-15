@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Guernsey.csv
+Mean Squared Error (MSE): 118.5270472381622
+R² Score: 0.9883881211280823
+

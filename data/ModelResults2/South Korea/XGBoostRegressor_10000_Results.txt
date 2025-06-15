@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: South Korea.csv
+Mean Squared Error (MSE): 203412534.58758715
+R² Score: 0.9903997778892517
+

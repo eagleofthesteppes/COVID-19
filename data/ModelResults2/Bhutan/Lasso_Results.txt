@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Bhutan.csv
+Mean Squared Error (MSE): 0.012851687697512531
+R² Score: 0.9999994757785138
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Rwanda.csv
+Mean Squared Error (MSE): 364.6974280757351
+R² Score: 0.9963105862781342
+

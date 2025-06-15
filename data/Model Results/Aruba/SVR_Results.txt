@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Aruba.csv
+Mean Squared Error (MSE): 11909.830072027717
+R² Score: -0.05358643849556932
+

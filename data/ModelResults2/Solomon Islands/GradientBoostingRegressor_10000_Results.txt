@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Solomon Islands.csv
+Mean Squared Error (MSE): 315.290791050812
+R² Score: 0.975578723751228
+

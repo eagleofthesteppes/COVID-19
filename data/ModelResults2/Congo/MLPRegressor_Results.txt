@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Congo.csv
+Mean Squared Error (MSE): 197553.52105735775
+R² Score: -42.35158022655901
+

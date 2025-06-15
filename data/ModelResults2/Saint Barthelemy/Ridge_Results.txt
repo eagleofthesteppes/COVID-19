@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Saint Barthelemy.csv
+Mean Squared Error (MSE): 0.01943530918242984
+R² Score: 0.9998818990342426
+

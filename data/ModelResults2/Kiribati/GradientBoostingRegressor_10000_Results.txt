@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Kiribati.csv
+Mean Squared Error (MSE): 485.7017048022206
+R² Score: 0.9290058514674144
+

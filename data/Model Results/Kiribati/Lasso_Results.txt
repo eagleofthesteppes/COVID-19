@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Kiribati.csv
+Mean Squared Error (MSE): 1.1796015224763075
+R² Score: 0.9998275797575591
+

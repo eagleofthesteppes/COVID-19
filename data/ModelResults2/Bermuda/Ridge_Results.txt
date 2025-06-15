@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Bermuda.csv
+Mean Squared Error (MSE): 0.002212412120120242
+R² Score: 0.9999991043721507
+

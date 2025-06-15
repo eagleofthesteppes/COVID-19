@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Netherlands.csv
+Mean Squared Error (MSE): 13811529.441468406
+R² Score: 0.9825994968414307
+

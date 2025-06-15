@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Vatican.csv
+Mean Squared Error (MSE): 5.508429003021149e-06
+R² Score: 0.0
+

@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Congo.csv
+Mean Squared Error (MSE): 46.52851489693119
+R² Score: 0.9897896647453308
+

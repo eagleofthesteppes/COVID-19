@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Panama.csv
+Mean Squared Error (MSE): 6599465.526479659
+R² Score: -0.05355416948463709
+

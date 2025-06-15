@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: French Guiana.csv
+Mean Squared Error (MSE): 727.7935292336479
+R² Score: 0.9852482719604667
+

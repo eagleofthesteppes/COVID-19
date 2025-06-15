@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Nauru.csv
+Mean Squared Error (MSE): 1419.9853248805139
+R² Score: 0.8117414522140489
+

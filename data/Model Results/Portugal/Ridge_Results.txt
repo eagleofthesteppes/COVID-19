@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Portugal.csv
+Mean Squared Error (MSE): 44.90609854357508
+R² Score: 0.9999997439861195
+

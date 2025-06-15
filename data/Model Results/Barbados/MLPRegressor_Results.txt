@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Barbados.csv
+Mean Squared Error (MSE): 5221.1601339041135
+R² Score: 0.9563684947605162
+

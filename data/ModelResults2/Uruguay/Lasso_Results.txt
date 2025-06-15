@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Uruguay.csv
+Mean Squared Error (MSE): 2.962421871970313
+R² Score: 0.9999995207043776
+

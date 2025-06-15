@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Malawi.csv
+Error: Input contains NaN.
+

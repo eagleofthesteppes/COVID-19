@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Angola.csv
+Mean Squared Error (MSE): 5.817445042611524
+R² Score: 0.9999288120699208
+

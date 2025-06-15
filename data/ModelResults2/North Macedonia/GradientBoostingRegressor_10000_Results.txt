@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: North Macedonia.csv
+Mean Squared Error (MSE): 762.7811641228772
+R² Score: 0.9990085336170824
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Sri Lanka.csv
+Mean Squared Error (MSE): 216752.06938084483
+R² Score: 0.9770538213049635
+

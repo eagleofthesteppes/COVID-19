@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Liechtenstein.csv
+Mean Squared Error (MSE): 37.83879436293055
+R² Score: 0.9929900266061596
+

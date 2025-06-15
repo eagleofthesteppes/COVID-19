@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: North Macedonia.csv
+Mean Squared Error (MSE): 178486.46336220647
+R² Score: 0.7680024933062242
+

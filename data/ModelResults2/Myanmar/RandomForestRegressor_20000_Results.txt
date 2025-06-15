@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Myanmar.csv
+Mean Squared Error (MSE): 19562.917310390578
+R² Score: 0.9948375934647417
+

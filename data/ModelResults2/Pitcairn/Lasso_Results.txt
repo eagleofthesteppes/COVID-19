@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: Pitcairn.csv
+Error: Input y contains NaN.
+

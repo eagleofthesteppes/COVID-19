@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Panama.csv
+Mean Squared Error (MSE): 123.23273300753259
+R² Score: 0.9999803268372027
+

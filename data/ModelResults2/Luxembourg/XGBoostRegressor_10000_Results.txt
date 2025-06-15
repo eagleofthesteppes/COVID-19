@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Luxembourg.csv
+Mean Squared Error (MSE): 10088.422179024577
+R² Score: 0.9843533635139465
+

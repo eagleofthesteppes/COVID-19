@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Ukraine.csv
+Mean Squared Error (MSE): 1340383.032108417
+R² Score: 0.9928464293479919
+

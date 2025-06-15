@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Kuwait.csv
+Mean Squared Error (MSE): 1055587.5347847454
+R² Score: -0.08735144579373855
+

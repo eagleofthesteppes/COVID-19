@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Bahrain.csv
+Mean Squared Error (MSE): 158.3147849513457
+R² Score: 0.9999401498979116
+

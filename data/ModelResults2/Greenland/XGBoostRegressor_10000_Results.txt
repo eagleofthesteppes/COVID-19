@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Greenland.csv
+Mean Squared Error (MSE): 23.572934132186802
+R² Score: 0.934664249420166
+

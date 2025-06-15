@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: French Guiana.csv
+Mean Squared Error (MSE): 15.927056493171728
+R² Score: 0.9996771727194319
+

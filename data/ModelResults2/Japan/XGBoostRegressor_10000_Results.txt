@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Japan.csv
+Mean Squared Error (MSE): 113285745.9033477
+R² Score: 0.995332658290863
+

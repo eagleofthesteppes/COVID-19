@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Namibia.csv
+Mean Squared Error (MSE): 227772.03723364935
+R² Score: -0.036030720793572835
+

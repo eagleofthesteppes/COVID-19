@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Asia.csv
+Mean Squared Error (MSE): 2.0761742791375815
+R² Score: 0.999999999934221
+

@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Guatemala.csv
+Error: Input y contains NaN.
+

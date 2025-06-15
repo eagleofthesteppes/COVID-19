@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Oceania.csv
+Mean Squared Error (MSE): 195627790.68095323
+R² Score: 0.6106877611752493
+

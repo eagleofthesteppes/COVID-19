@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Lebanon.csv
+Mean Squared Error (MSE): 14078822.457773468
+R² Score: -0.2965564441816084
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Oman.csv
+Mean Squared Error (MSE): 1936394.1164980922
+R² Score: -0.4604804706243535
+

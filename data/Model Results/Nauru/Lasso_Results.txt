@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Nauru.csv
+Mean Squared Error (MSE): 0.0012512763017560765
+R² Score: 0.9999998341085254
+

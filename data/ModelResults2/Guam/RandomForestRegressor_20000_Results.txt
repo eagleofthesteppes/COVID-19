@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Guam.csv
+Mean Squared Error (MSE): 70.76799549156345
+R² Score: 0.9934737377012182
+

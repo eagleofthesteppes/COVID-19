@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Australia.csv
+Error: Input y contains NaN.
+

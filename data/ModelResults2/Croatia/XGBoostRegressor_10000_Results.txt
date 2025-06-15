@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Croatia.csv
+Mean Squared Error (MSE): 61285.18827386643
+R² Score: 0.9948620200157166
+

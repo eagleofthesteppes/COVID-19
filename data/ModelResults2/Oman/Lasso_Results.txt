@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Oman.csv
+Mean Squared Error (MSE): 141.93319755607246
+R² Score: 0.9998929501688743
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Papua New Guinea.csv
+Mean Squared Error (MSE): 23.15108331746979
+R² Score: 0.9993092623889912
+

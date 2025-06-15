@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Saint Pierre and Miquelon.csv
+Mean Squared Error (MSE): 29.934404596322597
+R² Score: 0.004882280554892815
+

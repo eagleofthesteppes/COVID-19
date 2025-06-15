@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Libya.csv
+Mean Squared Error (MSE): 23163.488210429816
+R² Score: 0.9854639172554016
+

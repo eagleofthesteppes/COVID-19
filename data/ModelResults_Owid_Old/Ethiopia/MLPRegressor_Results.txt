@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Ethiopia.csv
+Mean Squared Error (MSE): 33061632.765042428
+R² Score: -100.11474014256122
+

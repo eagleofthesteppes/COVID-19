@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Guinea.csv
+Mean Squared Error (MSE): 13867.373436438404
+R² Score: -0.04100995376459249
+

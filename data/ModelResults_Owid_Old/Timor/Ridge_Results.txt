@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Timor.csv
+Error: Input contains NaN.
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: South America.csv
+Mean Squared Error (MSE): 8070.86039433725
+R² Score: 0.9999982705296997
+

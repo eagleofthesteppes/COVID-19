@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: French Polynesia.csv
+Mean Squared Error (MSE): 0.048221730677851356
+R² Score: 0.9999996956592632
+

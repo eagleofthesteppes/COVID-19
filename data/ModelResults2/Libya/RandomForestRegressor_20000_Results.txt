@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Libya.csv
+Mean Squared Error (MSE): 6771.222159897909
+R² Score: 0.995750772502166
+

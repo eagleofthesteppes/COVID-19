@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Seychelles.csv
+Mean Squared Error (MSE): 3.323241711628059
+R² Score: 0.9998801049965886
+

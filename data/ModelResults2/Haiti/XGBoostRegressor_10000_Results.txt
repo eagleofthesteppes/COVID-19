@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Haiti.csv
+Mean Squared Error (MSE): 13.399263405143468
+R² Score: 0.9983888268470764
+

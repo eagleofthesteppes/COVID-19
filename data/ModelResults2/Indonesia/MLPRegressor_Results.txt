@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Indonesia.csv
+Mean Squared Error (MSE): 1396270188.6024446
+R² Score: -4.149597970784886
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Cyprus.csv
+Mean Squared Error (MSE): 24.196829298170716
+R² Score: 0.9999899529205314
+

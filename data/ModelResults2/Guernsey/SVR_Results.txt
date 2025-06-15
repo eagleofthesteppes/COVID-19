@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Guernsey.csv
+Mean Squared Error (MSE): 10501.9900418624
+R² Score: -0.02886274180785464
+

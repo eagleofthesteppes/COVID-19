@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Saint Martin (French part).csv
+Mean Squared Error (MSE): 0.348200836125887
+R² Score: 0.9993452510936794
+

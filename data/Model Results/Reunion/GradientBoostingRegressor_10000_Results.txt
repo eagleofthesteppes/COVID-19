@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Reunion.csv
+Mean Squared Error (MSE): 2348.830497283455
+R² Score: 0.9970837568641279
+

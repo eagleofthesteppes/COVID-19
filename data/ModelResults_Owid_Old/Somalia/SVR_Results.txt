@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Somalia.csv
+Mean Squared Error (MSE): 4976.688173403322
+R² Score: -0.0930944434518648
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Armenia.csv
+Mean Squared Error (MSE): 0.9344897020698807
+R² Score: 0.9999989099216209
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Japan.csv
+Mean Squared Error (MSE): 213327949.6138546
+R² Score: 0.9912109710383419
+

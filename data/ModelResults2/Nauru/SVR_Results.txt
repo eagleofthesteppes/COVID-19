@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Nauru.csv
+Mean Squared Error (MSE): 7575.277014297968
+R² Score: -0.004313653669647977
+

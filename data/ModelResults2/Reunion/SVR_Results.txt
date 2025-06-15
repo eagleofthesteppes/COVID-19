@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Reunion.csv
+Mean Squared Error (MSE): 840435.1041715322
+R² Score: -0.04346103583072414
+

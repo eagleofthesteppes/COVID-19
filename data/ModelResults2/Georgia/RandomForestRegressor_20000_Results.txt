@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Georgia.csv
+Mean Squared Error (MSE): 21776.88722389043
+R² Score: 0.9986550666636251
+

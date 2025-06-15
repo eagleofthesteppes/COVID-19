@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Switzerland.csv
+Mean Squared Error (MSE): 171934.93340253367
+R² Score: 0.9988887281378627
+

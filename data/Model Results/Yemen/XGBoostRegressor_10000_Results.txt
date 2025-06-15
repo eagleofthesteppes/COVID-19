@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Yemen.csv
+Mean Squared Error (MSE): 40.15777650100822
+R² Score: 0.9802458882331848
+

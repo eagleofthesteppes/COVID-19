@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Solomon Islands.csv
+Mean Squared Error (MSE): 82.04728384359669
+R² Score: 0.9936449162453243
+

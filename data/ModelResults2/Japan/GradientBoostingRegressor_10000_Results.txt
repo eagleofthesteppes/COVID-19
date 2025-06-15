@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Japan.csv
+Mean Squared Error (MSE): 153769959.08582532
+R² Score: 0.9936647371978935
+

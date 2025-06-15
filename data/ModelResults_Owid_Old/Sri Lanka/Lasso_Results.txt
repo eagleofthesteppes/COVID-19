@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Sri Lanka.csv
+Mean Squared Error (MSE): 0.0006921033467208436
+R² Score: 0.999999999496876
+

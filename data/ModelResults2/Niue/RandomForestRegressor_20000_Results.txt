@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Niue.csv
+Mean Squared Error (MSE): 0.4938089859290033
+R² Score: 0.9855414064651684
+

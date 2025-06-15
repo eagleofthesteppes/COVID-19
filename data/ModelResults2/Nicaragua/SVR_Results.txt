@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Nicaragua.csv
+Mean Squared Error (MSE): 2399.5249303409314
+R² Score: -0.027408305387212062
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Congo.csv
+Mean Squared Error (MSE): 14.500665132269965
+R² Score: 0.9968179420723281
+

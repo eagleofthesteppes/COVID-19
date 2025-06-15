@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Cyprus.csv
+Mean Squared Error (MSE): 2598.1419993970176
+R² Score: 0.9989211917471922
+

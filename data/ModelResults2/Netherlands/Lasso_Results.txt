@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Netherlands.csv
+Mean Squared Error (MSE): 3122.523750096655
+R² Score: 0.9999960660710498
+

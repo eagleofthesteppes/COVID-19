@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Bermuda.csv
+Mean Squared Error (MSE): 0.002143474253988532
+R² Score: 0.999999132279552
+

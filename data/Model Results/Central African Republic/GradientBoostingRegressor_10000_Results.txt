@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Central African Republic.csv
+Mean Squared Error (MSE): 35.706898614877964
+R² Score: 0.9950573346552466
+

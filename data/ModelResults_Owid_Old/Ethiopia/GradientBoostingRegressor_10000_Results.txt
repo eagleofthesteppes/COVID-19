@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Ethiopia.csv
+Mean Squared Error (MSE): 61.293748970505725
+R² Score: 0.9998125409732919
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Barbados.csv
+Mean Squared Error (MSE): 0.005831574448939278
+R² Score: 0.9999999512674645
+

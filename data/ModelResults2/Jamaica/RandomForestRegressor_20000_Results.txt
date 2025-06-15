@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Jamaica.csv
+Mean Squared Error (MSE): 1611.5915205734887
+R² Score: 0.9910743473669985
+

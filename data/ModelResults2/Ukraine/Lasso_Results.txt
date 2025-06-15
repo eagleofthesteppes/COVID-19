@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Ukraine.csv
+Mean Squared Error (MSE): 35117.281260253956
+R² Score: 0.9998125799311574
+

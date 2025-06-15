@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Qatar.csv
+Mean Squared Error (MSE): 3796.018243210231
+R² Score: 0.9971604789542416
+

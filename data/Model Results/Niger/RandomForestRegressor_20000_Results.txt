@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Niger.csv
+Mean Squared Error (MSE): 0.9009452640105731
+R² Score: 0.999236985164752
+

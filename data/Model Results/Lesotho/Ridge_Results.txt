@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Lesotho.csv
+Mean Squared Error (MSE): 1.769505724268196
+R² Score: 0.9999572980503464
+

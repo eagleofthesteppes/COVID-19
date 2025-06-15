@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Solomon Islands.csv
+Mean Squared Error (MSE): 3823.6661783838376
+R² Score: 0.7038327452756177
+

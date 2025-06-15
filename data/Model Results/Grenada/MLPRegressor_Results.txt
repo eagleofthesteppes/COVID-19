@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Grenada.csv
+Mean Squared Error (MSE): 197.78744462451775
+R² Score: 0.9512937741316865
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Comoros.csv
+Mean Squared Error (MSE): 0.0721936749002903
+R² Score: 0.9998446479955985
+

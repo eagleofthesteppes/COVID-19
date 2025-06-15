@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Singapore.csv
+Mean Squared Error (MSE): 2252.3198374694935
+R² Score: 0.9999711226194777
+

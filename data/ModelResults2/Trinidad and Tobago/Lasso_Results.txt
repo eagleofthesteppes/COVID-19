@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Trinidad and Tobago.csv
+Mean Squared Error (MSE): 0.8789342233931262
+R² Score: 0.9999972254314866
+

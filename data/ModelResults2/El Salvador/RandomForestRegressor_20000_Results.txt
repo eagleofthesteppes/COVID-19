@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: El Salvador.csv
+Mean Squared Error (MSE): 497.5911571312016
+R² Score: 0.9988060891630076
+

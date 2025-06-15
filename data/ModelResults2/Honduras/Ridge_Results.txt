@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Honduras.csv
+Mean Squared Error (MSE): 40.93210529206713
+R² Score: 0.9999760417088179
+

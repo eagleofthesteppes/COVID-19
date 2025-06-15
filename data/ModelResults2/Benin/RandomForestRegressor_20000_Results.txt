@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Benin.csv
+Mean Squared Error (MSE): 859.882693569411
+R² Score: 0.9616117733711326
+

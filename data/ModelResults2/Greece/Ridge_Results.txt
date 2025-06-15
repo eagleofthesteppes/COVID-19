@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Greece.csv
+Mean Squared Error (MSE): 1596.9111114795724
+R² Score: 0.9999922283733601
+

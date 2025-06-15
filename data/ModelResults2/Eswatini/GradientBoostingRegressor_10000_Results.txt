@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Eswatini.csv
+Mean Squared Error (MSE): 23921.031053335424
+R² Score: 0.9139829245114148
+

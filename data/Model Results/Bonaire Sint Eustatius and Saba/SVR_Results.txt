@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Bonaire Sint Eustatius and Saba.csv
+Mean Squared Error (MSE): 488.23734510597615
+R² Score: -0.0344712894924879
+

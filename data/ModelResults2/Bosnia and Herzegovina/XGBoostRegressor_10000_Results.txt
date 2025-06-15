@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Bosnia and Herzegovina.csv
+Mean Squared Error (MSE): 2061.5071695783363
+R² Score: 0.997567892074585
+

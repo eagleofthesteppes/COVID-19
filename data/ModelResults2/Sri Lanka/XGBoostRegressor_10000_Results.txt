@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Sri Lanka.csv
+Mean Squared Error (MSE): 420983.2510811362
+R² Score: 0.9554331302642822
+

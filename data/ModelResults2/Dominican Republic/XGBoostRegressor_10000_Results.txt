@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Dominican Republic.csv
+Mean Squared Error (MSE): 2551.6287875920625
+R² Score: 0.9984354972839355
+

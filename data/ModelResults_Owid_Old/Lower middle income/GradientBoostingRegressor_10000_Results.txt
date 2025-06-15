@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Lower middle income.csv
+Mean Squared Error (MSE): 1516958.852057368
+R² Score: 0.9998482535353186
+

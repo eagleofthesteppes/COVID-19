@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Turkmenistan.csv
+Mean Squared Error (MSE): 41885.452213643846
+R² Score: 0.0
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Niue.csv
+Mean Squared Error (MSE): 73.16045201391518
+R² Score: -1.1421182453853476
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Latvia.csv
+Mean Squared Error (MSE): 321684.75441133464
+R² Score: 0.954310156105979
+

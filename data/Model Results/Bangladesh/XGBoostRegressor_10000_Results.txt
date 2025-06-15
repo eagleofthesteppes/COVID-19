@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Bangladesh.csv
+Mean Squared Error (MSE): 217233.61182392007
+R² Score: 0.9929642081260681
+

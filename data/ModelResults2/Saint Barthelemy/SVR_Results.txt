@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Saint Barthelemy.csv
+Mean Squared Error (MSE): 167.26560273290428
+R² Score: -0.01640931128619738
+

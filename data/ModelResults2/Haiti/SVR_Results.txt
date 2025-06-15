@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Haiti.csv
+Mean Squared Error (MSE): 8650.003046756503
+R² Score: -0.04011187749861134
+

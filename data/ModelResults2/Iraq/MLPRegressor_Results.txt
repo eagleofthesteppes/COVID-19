@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Iraq.csv
+Mean Squared Error (MSE): 56739497.353920676
+R² Score: 0.025995254591478112
+

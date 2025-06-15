@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Papua New Guinea.csv
+Mean Squared Error (MSE): 1.4624171287888068
+R² Score: 0.9999563672032109
+

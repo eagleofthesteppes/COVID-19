@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Paraguay.csv
+Mean Squared Error (MSE): 26.970554719097546
+R² Score: 0.9999936769158106
+

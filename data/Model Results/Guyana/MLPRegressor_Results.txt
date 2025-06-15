@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Guyana.csv
+Mean Squared Error (MSE): 1701.6876396770776
+R² Score: 0.9282362545641529
+

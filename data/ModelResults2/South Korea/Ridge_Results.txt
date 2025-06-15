@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: South Korea.csv
+Mean Squared Error (MSE): 1072.6999560675708
+R² Score: 0.999999949373102
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Suriname.csv
+Mean Squared Error (MSE): 0.8233273665893112
+R² Score: 0.9999715663155337
+

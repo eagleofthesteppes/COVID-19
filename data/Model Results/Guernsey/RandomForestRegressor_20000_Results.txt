@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Guernsey.csv
+Mean Squared Error (MSE): 73.74298342426746
+R² Score: 0.9927755208477108
+

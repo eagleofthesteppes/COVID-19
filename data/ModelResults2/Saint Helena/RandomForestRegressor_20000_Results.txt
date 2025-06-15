@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Saint Helena.csv
+Mean Squared Error (MSE): 435.85375362354233
+R² Score: 0.32842099031134686
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Nepal.csv
+Mean Squared Error (MSE): 188316.15114069596
+R² Score: 0.9930527380186952
+

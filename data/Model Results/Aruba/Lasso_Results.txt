@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Aruba.csv
+Mean Squared Error (MSE): 0.01619591573287541
+R² Score: 0.9999985672509959
+

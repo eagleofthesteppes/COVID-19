@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Iran.csv
+Mean Squared Error (MSE): 300403.26484384056
+R² Score: 0.9973124123027868
+

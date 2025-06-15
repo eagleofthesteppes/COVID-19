@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Honduras.csv
+Mean Squared Error (MSE): 1824044.3044456954
+R² Score: -0.06764566012477569
+

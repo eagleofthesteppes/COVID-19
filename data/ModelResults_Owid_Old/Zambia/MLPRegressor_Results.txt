@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Zambia.csv
+Mean Squared Error (MSE): 920435.6272740916
+R² Score: -1.6335956843027342
+

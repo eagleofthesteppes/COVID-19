@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Uruguay.csv
+Mean Squared Error (MSE): 4278695.888363816
+R² Score: 0.30774201063235185
+

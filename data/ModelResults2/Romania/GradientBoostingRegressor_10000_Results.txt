@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Romania.csv
+Mean Squared Error (MSE): 296886.92881745414
+R² Score: 0.9948086534465909
+

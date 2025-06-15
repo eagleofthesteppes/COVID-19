@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Turkey.csv
+Mean Squared Error (MSE): 6479.645241888196
+R² Score: 0.9999972449730931
+

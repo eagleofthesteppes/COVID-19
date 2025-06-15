@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Australia.csv
+Mean Squared Error (MSE): 1419559845.612998
+R² Score: -0.027145904396483234
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Lebanon.csv
+Mean Squared Error (MSE): 4018.9042019577137
+R² Score: 0.9996298883548518
+

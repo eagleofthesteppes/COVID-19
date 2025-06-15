@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Tuvalu.csv
+Mean Squared Error (MSE): 44.39369939336268
+R² Score: 0.9879183769226074
+

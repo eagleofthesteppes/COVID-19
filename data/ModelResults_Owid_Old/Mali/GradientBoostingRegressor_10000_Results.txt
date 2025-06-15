@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Mali.csv
+Mean Squared Error (MSE): 818.1355216297324
+R² Score: 0.8926459176194009
+

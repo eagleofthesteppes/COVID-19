@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Antigua and Barbuda.csv
+Mean Squared Error (MSE): 0.00419689337248239
+R² Score: 0.9999961538957278
+

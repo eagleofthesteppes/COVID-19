@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Bosnia and Herzegovina.csv
+Mean Squared Error (MSE): 0.012945341899370412
+R² Score: 0.9999999442448012
+

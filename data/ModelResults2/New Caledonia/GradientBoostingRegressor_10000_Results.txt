@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: New Caledonia.csv
+Mean Squared Error (MSE): 120.28399219503024
+R² Score: 0.997603669629731
+

@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Saint Helena.csv
+Mean Squared Error (MSE): 394.11917423866555
+R² Score: 0.392727255821228
+

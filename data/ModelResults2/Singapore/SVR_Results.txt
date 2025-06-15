@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Singapore.csv
+Mean Squared Error (MSE): 80817873.89697497
+R² Score: -0.03617987938530676
+

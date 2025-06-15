@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Albania.csv
+Mean Squared Error (MSE): 1333201.8315640725
+R² Score: -0.052464350488097056
+

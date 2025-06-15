@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Iceland.csv
+Mean Squared Error (MSE): 82499.65581376223
+R² Score: 0.9326393952374425
+

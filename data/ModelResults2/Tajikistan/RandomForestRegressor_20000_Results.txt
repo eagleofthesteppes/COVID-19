@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Tajikistan.csv
+Mean Squared Error (MSE): 31.880955602258314
+R² Score: 0.9905165229378816
+

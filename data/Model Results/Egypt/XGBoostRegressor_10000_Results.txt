@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Egypt.csv
+Mean Squared Error (MSE): 19596.962987502753
+R² Score: 0.9909766316413879
+

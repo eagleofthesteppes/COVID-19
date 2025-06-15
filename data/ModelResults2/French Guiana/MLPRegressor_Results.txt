@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: French Guiana.csv
+Mean Squared Error (MSE): 1570.33817645604
+R² Score: 0.9681706407398695
+

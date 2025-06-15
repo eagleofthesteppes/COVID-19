@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Vietnam.csv
+Mean Squared Error (MSE): 194959792.45952147
+R² Score: 0.9773143529891968
+

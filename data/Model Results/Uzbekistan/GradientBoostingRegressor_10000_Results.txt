@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Uzbekistan.csv
+Mean Squared Error (MSE): 777.7489482579986
+R² Score: 0.9976732942879507
+

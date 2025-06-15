@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Togo.csv
+Error: Input y contains NaN.
+

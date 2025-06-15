@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Algeria.csv
+Mean Squared Error (MSE): 5207.092839602159
+R² Score: 0.9845892864944222
+

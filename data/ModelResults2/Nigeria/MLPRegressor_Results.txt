@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Nigeria.csv
+Mean Squared Error (MSE): 385629740.37697864
+R² Score: -401.09027089168274
+

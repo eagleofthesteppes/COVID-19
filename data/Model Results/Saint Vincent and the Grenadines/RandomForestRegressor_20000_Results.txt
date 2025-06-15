@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Saint Vincent and the Grenadines.csv
+Mean Squared Error (MSE): 1.6357156194637439
+R² Score: 0.99839130261471
+

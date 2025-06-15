@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Guernsey.csv
+Mean Squared Error (MSE): 85.92769491974975
+R² Score: 0.9915818046446476
+

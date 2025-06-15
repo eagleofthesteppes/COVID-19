@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Haiti.csv
+Mean Squared Error (MSE): 1.2862346643191331
+R² Score: 0.9998453378635386
+

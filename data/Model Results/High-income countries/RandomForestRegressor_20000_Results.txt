@@ -1,0 +1,6 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: High-income countries.csv
+Error: Input y contains NaN.
+

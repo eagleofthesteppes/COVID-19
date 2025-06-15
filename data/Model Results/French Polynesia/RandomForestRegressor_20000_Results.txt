@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: French Polynesia.csv
+Mean Squared Error (MSE): 1177.8764329478486
+R² Score: 0.992566094653801
+

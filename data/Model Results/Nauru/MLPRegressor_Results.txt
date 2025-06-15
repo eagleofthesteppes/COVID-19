@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Nauru.csv
+Mean Squared Error (MSE): 12305.814647076973
+R² Score: -0.6314779837437663
+

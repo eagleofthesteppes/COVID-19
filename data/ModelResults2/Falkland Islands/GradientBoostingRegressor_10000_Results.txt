@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Falkland Islands.csv
+Mean Squared Error (MSE): 118.18584072844922
+R² Score: 0.9273991013237182
+

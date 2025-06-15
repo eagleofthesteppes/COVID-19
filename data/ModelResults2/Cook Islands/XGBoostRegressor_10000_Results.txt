@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Cook Islands.csv
+Mean Squared Error (MSE): 6.468803086063739
+R² Score: 0.9822273850440979
+

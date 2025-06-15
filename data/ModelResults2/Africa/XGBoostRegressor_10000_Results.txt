@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Africa.csv
+Mean Squared Error (MSE): 3740882.8159506214
+R² Score: 0.996371328830719
+

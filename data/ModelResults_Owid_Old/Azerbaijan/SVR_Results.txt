@@ -1,0 +1,6 @@
+Results for SVR
+==================================================
+
+File: Azerbaijan.csv
+Error: Input y contains NaN.
+

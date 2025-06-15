@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Finland.csv
+Error: Input y contains NaN.
+

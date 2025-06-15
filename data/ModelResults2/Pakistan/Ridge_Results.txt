@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Pakistan.csv
+Mean Squared Error (MSE): 571.2822918747729
+R² Score: 0.9999778322933741
+

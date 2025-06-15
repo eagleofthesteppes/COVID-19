@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Uruguay.csv
+Mean Squared Error (MSE): 27218.145869456614
+R² Score: 0.9955963266786155
+

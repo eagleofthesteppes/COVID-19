@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Bhutan.csv
+Mean Squared Error (MSE): 57.36085214773402
+R² Score: 0.9976602457300323
+

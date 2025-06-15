@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Tunisia.csv
+Mean Squared Error (MSE): 13422508.019771282
+R² Score: -0.5442503443411204
+

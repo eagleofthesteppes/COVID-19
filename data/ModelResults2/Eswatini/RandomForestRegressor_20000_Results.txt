@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Eswatini.csv
+Mean Squared Error (MSE): 28519.125788595386
+R² Score: 0.8974487433105851
+

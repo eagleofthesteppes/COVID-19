@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: United Arab Emirates.csv
+Mean Squared Error (MSE): 15541.986110742107
+R² Score: 0.9981449565440785
+

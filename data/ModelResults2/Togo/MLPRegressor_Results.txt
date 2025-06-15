@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Togo.csv
+Mean Squared Error (MSE): 1506352.0226176148
+R² Score: -86.39797635545735
+

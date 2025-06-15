@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Bahamas.csv
+Mean Squared Error (MSE): 0.012827485125624725
+R² Score: 0.9999986288297449
+

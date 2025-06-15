@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Hungary.csv
+Mean Squared Error (MSE): 81828.90305078257
+R² Score: 0.9979382439724455
+

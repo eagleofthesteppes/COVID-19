@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Saint Vincent and the Grenadines.csv
+Mean Squared Error (MSE): 0.004687337941691257
+R² Score: 0.9999953900860266
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Saint Martin (French part).csv
+Mean Squared Error (MSE): 548.5425692896122
+R² Score: -0.031466929570480584
+

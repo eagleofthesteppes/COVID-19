@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Bosnia and Herzegovina.csv
+Mean Squared Error (MSE): 552.2727003913074
+R² Score: 0.9993484476832785
+

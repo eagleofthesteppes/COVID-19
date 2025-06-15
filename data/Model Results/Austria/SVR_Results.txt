@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Austria.csv
+Mean Squared Error (MSE): 358388124.9288051
+R² Score: -0.03260292306883539
+

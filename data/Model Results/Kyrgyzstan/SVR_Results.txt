@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Kyrgyzstan.csv
+Mean Squared Error (MSE): 39959.43958933726
+R² Score: -0.01715933146134141
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Luxembourg.csv
+Mean Squared Error (MSE): 680933.663513207
+R² Score: -0.05609314819966471
+

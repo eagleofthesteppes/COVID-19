@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Egypt.csv
+Mean Squared Error (MSE): 483409.5734145482
+R² Score: -0.24085780902235365
+

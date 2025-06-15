@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Cayman Islands.csv
+Mean Squared Error (MSE): 10026.022897707826
+R² Score: -0.12789193463376192
+

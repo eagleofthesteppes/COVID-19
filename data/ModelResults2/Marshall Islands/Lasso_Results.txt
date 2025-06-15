@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Marshall Islands.csv
+Mean Squared Error (MSE): 0.17115563881900148
+R² Score: 0.9999976724878077
+

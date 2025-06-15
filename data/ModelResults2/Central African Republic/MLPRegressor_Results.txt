@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Central African Republic.csv
+Mean Squared Error (MSE): 448186.1527356925
+R² Score: -61.03938877520004
+

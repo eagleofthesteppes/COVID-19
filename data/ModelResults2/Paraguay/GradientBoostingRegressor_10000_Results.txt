@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Paraguay.csv
+Mean Squared Error (MSE): 1750.8346422359552
+R² Score: 0.9995895273582717
+

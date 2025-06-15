@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Cape Verde.csv
+Mean Squared Error (MSE): 105.56540103954794
+R² Score: 0.9978283319849621
+

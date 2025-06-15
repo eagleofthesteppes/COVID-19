@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Northern Mariana Islands.csv
+Mean Squared Error (MSE): 0.08259034194403962
+R² Score: 0.9999609399312207
+

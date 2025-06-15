@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: New Caledonia.csv
+Mean Squared Error (MSE): 0.21894654058325974
+R² Score: 0.9999956380875369
+

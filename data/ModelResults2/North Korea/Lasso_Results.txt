@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: North Korea.csv
+Mean Squared Error (MSE): 0.0
+R² Score: 1.0
+

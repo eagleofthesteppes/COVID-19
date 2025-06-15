@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Albania.csv
+Mean Squared Error (MSE): 8.835455824586544
+R² Score: 0.9999930250603806
+

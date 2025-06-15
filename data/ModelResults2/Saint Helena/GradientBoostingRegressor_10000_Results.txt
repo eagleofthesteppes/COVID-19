@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Saint Helena.csv
+Mean Squared Error (MSE): 392.52584686052427
+R² Score: 0.39518217447892134
+

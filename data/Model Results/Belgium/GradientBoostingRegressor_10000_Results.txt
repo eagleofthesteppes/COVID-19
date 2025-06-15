@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Belgium.csv
+Mean Squared Error (MSE): 115675.18039125996
+R² Score: 0.9988518235772272
+

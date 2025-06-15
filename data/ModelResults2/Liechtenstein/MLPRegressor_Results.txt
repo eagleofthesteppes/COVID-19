@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Liechtenstein.csv
+Mean Squared Error (MSE): 2314.958321618322
+R² Score: 0.5711333694529233
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Guernsey.csv
+Mean Squared Error (MSE): 0.01506187080200231
+R² Score: 0.999998524413218
+

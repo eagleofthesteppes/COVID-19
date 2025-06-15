@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Central African Republic.csv
+Mean Squared Error (MSE): 96.32835790805885
+R² Score: 0.9866659145762163
+

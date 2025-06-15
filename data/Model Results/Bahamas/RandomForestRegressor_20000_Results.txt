@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Bahamas.csv
+Mean Squared Error (MSE): 59.45979042567976
+R² Score: 0.9936441558724554
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Sao Tome and Principe.csv
+Mean Squared Error (MSE): 0.057987705689328074
+R² Score: 0.9998565141298724
+

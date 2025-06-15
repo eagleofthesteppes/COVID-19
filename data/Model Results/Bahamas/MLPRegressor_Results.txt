@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Bahamas.csv
+Mean Squared Error (MSE): 9877.263102866606
+R² Score: -0.05581173830465813
+

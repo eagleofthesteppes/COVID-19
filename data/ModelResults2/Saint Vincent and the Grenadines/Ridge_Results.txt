@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Saint Vincent and the Grenadines.csv
+Mean Squared Error (MSE): 0.004654201740235461
+R² Score: 0.9999954226748947
+

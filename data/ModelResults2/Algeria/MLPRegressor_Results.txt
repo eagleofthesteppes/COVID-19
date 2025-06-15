@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Algeria.csv
+Mean Squared Error (MSE): 2857936.9998671357
+R² Score: -7.458241417740457
+

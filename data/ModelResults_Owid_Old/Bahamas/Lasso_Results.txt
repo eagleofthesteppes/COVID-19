@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: Bahamas.csv
+Error: Input y contains NaN.
+

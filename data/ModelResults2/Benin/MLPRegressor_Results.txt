@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Benin.csv
+Mean Squared Error (MSE): 490171.27050819783
+R² Score: -20.882991668455603
+

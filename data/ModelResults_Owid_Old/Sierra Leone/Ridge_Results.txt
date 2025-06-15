@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Sierra Leone.csv
+Mean Squared Error (MSE): 3.349481535851626e-06
+R² Score: 0.9999999866911088
+

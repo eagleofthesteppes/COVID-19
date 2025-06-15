@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Grenada.csv
+Mean Squared Error (MSE): 0.0018373925725121793
+R² Score: 0.999999547532161
+

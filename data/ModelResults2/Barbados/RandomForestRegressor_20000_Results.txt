@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Barbados.csv
+Mean Squared Error (MSE): 195.1328032039651
+R² Score: 0.9983693398196882
+

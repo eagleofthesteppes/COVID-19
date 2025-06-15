@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Kosovo.csv
+Mean Squared Error (MSE): 1388962.08120786
+R² Score: -0.0330588779885328
+

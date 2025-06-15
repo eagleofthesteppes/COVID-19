@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: United Arab Emirates.csv
+Mean Squared Error (MSE): 8895120.525262676
+R² Score: -0.06169411054977325
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Japan.csv
+Mean Squared Error (MSE): 23104826903.61133
+R² Score: 0.04809007362836126
+

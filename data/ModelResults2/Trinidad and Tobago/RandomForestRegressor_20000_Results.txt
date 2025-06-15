@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Trinidad and Tobago.csv
+Mean Squared Error (MSE): 2182.075037638241
+R² Score: 0.9931117522424124
+

@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Aruba.csv
+Error: Input contains NaN.
+

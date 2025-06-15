@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Dominican Republic.csv
+Mean Squared Error (MSE): 41.608156697794996
+R² Score: 0.9999744885604237
+

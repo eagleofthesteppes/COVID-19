@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Tokelau.csv
+Mean Squared Error (MSE): 2.1797343055146767e-07
+R² Score: 0.0
+

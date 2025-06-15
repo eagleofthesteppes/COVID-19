@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Montserrat.csv
+Mean Squared Error (MSE): 2154.0668296197314
+R² Score: -7.094282751955438
+

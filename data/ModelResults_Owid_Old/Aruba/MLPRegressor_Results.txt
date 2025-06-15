@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Aruba.csv
+Error: Input contains NaN.
+

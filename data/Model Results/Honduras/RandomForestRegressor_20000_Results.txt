@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Honduras.csv
+Mean Squared Error (MSE): 1037.7012479457705
+R² Score: 0.9993926149539377
+

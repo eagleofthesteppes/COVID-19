@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Papua New Guinea.csv
+Mean Squared Error (MSE): 483782.22846703406
+R² Score: -13.434166045598836
+

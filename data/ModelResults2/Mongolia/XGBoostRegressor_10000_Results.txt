@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Mongolia.csv
+Mean Squared Error (MSE): 32928.055231262704
+R² Score: 0.9966006278991699
+

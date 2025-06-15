@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Rwanda.csv
+Mean Squared Error (MSE): 389018345.2272054
+R² Score: -3934.453091927825
+

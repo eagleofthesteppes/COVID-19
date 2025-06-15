@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Guinea.csv
+Mean Squared Error (MSE): 1678533.6638996738
+R² Score: -125.0058553883794
+

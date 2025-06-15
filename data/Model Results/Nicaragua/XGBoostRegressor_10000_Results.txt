@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Nicaragua.csv
+Mean Squared Error (MSE): 5.820678723907814
+R² Score: 0.9975077509880066
+

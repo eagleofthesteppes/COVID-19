@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Costa Rica.csv
+Mean Squared Error (MSE): 27972.23101993702
+R² Score: 0.996859073638916
+

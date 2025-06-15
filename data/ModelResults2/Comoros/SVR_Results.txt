@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Comoros.csv
+Mean Squared Error (MSE): 467.9884004354792
+R² Score: -0.00705409642541488
+

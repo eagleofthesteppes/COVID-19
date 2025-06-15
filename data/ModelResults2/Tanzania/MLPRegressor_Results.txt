@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Tanzania.csv
+Mean Squared Error (MSE): 14741424.321908403
+R² Score: -1107.9222005090958
+

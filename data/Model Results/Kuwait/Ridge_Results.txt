@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Kuwait.csv
+Mean Squared Error (MSE): 114.67469491356809
+R² Score: 0.999939886083332
+

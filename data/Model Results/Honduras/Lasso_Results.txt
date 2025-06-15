@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Honduras.csv
+Mean Squared Error (MSE): 75.99838014557531
+R² Score: 0.9999555167927987
+

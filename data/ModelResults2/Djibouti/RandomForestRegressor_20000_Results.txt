@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Djibouti.csv
+Mean Squared Error (MSE): 94.24836973652576
+R² Score: 0.9842747765681553
+

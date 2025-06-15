@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Sri Lanka.csv
+Mean Squared Error (MSE): 415874.1788388297
+R² Score: 0.9559740156135706
+

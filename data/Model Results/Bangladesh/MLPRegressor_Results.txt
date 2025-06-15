@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Bangladesh.csv
+Mean Squared Error (MSE): 1927326639.2242498
+R² Score: -61.422772432864434
+

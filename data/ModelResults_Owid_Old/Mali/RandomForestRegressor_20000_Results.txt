@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Mali.csv
+Mean Squared Error (MSE): 1135.7122343009376
+R² Score: 0.8509741460449917
+

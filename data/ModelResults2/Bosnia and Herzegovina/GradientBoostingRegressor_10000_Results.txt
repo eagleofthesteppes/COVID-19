@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Bosnia and Herzegovina.csv
+Mean Squared Error (MSE): 294.8614178810725
+R² Score: 0.9996521326515033
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Brunei.csv
+Mean Squared Error (MSE): 6.398956494069857
+R² Score: 0.9999975245221209
+

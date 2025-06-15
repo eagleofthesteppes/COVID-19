@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Ireland.csv
+Mean Squared Error (MSE): 5333.209783899261
+R² Score: 0.9997008554716761
+

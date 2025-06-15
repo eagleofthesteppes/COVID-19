@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Turkmenistan.csv
+Mean Squared Error (MSE): 0.0
+R² Score: 1.0
+

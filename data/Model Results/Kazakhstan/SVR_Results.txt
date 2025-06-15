@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Kazakhstan.csv
+Mean Squared Error (MSE): 23597625.96916905
+R² Score: -0.04094189182304886
+

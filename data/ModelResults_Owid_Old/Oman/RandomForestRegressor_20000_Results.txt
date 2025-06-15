@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Oman.csv
+Mean Squared Error (MSE): 14166.838222074963
+R² Score: 0.9789482555482717
+

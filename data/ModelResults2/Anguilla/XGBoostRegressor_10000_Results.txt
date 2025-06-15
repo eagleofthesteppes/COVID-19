@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Anguilla.csv
+Mean Squared Error (MSE): 0.45119548188591274
+R² Score: 0.9978950023651123
+

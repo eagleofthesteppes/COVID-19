@@ -1,0 +1,6 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: New Zealand.csv
+Error: [03:04:09] C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0015a694724fa8361-1\xgboost\xgboost-ci-windows\src\data\data.cc:514: Check failed: valid: Label contains NaN, infinity or a value too large.
+

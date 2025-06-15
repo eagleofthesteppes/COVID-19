@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Algeria.csv
+Mean Squared Error (MSE): 475.25476576112845
+R² Score: 0.9985934495925903
+

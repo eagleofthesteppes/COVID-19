@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Poland.csv
+Mean Squared Error (MSE): 671.3310196184636
+R² Score: 0.999997857317857
+

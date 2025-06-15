@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Curacao.csv
+Mean Squared Error (MSE): 70.80593507369342
+R² Score: 0.9942442222532545
+

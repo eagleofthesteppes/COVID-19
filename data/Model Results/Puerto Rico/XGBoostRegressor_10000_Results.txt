@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Puerto Rico.csv
+Mean Squared Error (MSE): 19599.18479955829
+R² Score: 0.9984729290008545
+

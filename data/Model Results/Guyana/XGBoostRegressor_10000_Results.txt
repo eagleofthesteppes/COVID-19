@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Guyana.csv
+Mean Squared Error (MSE): 89.70668127952676
+R² Score: 0.996216893196106
+

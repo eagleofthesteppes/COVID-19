@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Jordan.csv
+Mean Squared Error (MSE): 72835.96074653688
+R² Score: 0.9963361680239223
+

@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: United States Virgin Islands.csv
+Error: Input y contains NaN.
+

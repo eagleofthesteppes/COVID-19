@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Jordan.csv
+Mean Squared Error (MSE): 20736106.368262064
+R² Score: -0.04307829254518891
+

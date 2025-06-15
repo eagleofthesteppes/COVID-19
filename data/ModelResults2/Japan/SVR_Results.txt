@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Japan.csv
+Mean Squared Error (MSE): 24989755786.54191
+R² Score: -0.02956826684099645
+

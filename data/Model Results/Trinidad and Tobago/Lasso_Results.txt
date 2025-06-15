@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: Trinidad and Tobago.csv
+Error: could not convert string to float: 'people tested'
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Libya.csv
+Mean Squared Error (MSE): 8.629481848740427
+R² Score: 0.9999945846361709
+

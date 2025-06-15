@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Mongolia.csv
+Mean Squared Error (MSE): 77447678.69149265
+R² Score: -6.995392609544196
+

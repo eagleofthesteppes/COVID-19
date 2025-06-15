@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: El Salvador.csv
+Mean Squared Error (MSE): 0.7008414020408583
+R² Score: 0.999998318414359
+

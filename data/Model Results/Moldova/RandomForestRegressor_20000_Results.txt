@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Moldova.csv
+Mean Squared Error (MSE): 693.8507818638981
+R² Score: 0.9996853762096319
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Cambodia.csv
+Mean Squared Error (MSE): 287969.7832901087
+R² Score: -0.02509178311658089
+

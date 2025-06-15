@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: South Sudan.csv
+Mean Squared Error (MSE): 568269.9973268133
+R² Score: -43.05897056878886
+

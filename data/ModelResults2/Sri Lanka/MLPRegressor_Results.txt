@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Sri Lanka.csv
+Mean Squared Error (MSE): 19209879.509208824
+R² Score: -1.0336291560563033
+

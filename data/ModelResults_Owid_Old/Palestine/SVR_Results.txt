@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Palestine.csv
+Mean Squared Error (MSE): 2273681.2028280124
+R² Score: -0.09863114252454452
+

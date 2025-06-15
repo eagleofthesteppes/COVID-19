@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Isle of Man.csv
+Mean Squared Error (MSE): 834.0857036654079
+R² Score: 0.9701576574932711
+

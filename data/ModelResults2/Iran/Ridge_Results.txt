@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Iran.csv
+Mean Squared Error (MSE): 3640.3444278003
+R² Score: 0.9999946796645474
+

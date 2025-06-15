@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Lebanon.csv
+Mean Squared Error (MSE): 60.47128447496443
+R² Score: 0.9999944310375524
+

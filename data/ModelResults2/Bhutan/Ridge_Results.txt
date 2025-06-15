@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Bhutan.csv
+Mean Squared Error (MSE): 0.013216384523267437
+R² Score: 0.9999994609024977
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Brunei.csv
+Mean Squared Error (MSE): 19396.884013603634
+R² Score: 0.9924961894421137
+

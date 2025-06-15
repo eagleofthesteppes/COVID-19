@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Bermuda.csv
+Mean Squared Error (MSE): 1.98422984968278
+R² Score: 0.999196744812272
+

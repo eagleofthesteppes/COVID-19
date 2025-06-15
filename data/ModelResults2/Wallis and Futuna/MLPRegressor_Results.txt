@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Wallis and Futuna.csv
+Mean Squared Error (MSE): 439.7908991730905
+R² Score: -0.6007380303366927
+

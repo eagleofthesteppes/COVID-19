@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Seychelles.csv
+Mean Squared Error (MSE): 3.825506245415799
+R² Score: 0.9998619844344336
+

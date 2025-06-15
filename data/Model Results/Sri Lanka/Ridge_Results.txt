@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Sri Lanka.csv
+Mean Squared Error (MSE): 3.6319068321157886
+R² Score: 0.9999996155128603
+

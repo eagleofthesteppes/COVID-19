@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Bangladesh.csv
+Mean Squared Error (MSE): 100556.83517773601
+R² Score: 0.9967431382355637
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Oman.csv
+Mean Squared Error (MSE): 1381166.258657001
+R² Score: -0.04171270211347067
+

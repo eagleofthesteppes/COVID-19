@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Chile.csv
+Mean Squared Error (MSE): 7070973.522522702
+R² Score: 0.9573204864904379
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Jordan.csv
+Mean Squared Error (MSE): 638.2845741375826
+R² Score: 0.9999678926809149
+

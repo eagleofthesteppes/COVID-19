@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Aruba.csv
+Mean Squared Error (MSE): 124.42017205837621
+R² Score: 0.9889933437200022
+

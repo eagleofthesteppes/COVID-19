@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Norway.csv
+Mean Squared Error (MSE): 11799308.092824392
+R² Score: -0.025613729095057325
+

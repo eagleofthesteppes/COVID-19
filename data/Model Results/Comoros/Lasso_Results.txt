@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Comoros.csv
+Mean Squared Error (MSE): 0.07489099174296768
+R² Score: 0.9998388436979422
+

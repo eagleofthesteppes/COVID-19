@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Burkina Faso.csv
+Mean Squared Error (MSE): 4.034224314291008
+R² Score: 0.9987622786099045
+

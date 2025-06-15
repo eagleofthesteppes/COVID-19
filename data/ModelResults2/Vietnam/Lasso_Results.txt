@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Vietnam.csv
+Mean Squared Error (MSE): 1397.9773094422728
+R² Score: 0.9999998373305676
+

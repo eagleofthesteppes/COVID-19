@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Tanzania.csv
+Mean Squared Error (MSE): 50.78534971885329
+R² Score: 0.9941905988588355
+

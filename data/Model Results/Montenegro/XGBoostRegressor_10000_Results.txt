@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Montenegro.csv
+Mean Squared Error (MSE): 37616.79244184274
+R² Score: 0.924059271812439
+

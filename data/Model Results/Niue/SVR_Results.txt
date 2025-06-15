@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Niue.csv
+Mean Squared Error (MSE): 33.54456327334962
+R² Score: 0.017824261013883347
+

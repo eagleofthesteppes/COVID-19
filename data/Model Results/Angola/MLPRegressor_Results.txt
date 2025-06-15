@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Angola.csv
+Mean Squared Error (MSE): 70800929.78343366
+R² Score: -865.3892141737176
+

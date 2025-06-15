@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Israel.csv
+Mean Squared Error (MSE): 77579729.7154447
+R² Score: -0.05660656933964292
+

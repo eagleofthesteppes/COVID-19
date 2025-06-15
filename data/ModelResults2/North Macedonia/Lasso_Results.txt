@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: North Macedonia.csv
+Mean Squared Error (MSE): 3.8428454354374733
+R² Score: 0.9999950050522441
+

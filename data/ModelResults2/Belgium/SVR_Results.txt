@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Belgium.csv
+Mean Squared Error (MSE): 105871590.83026211
+R² Score: -0.05086729946379753
+

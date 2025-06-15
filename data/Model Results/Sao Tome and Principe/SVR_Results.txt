@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Sao Tome and Principe.csv
+Mean Squared Error (MSE): 406.32978524011963
+R² Score: -0.005430066612949869
+

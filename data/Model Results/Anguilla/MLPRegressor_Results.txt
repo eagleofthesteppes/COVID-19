@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Anguilla.csv
+Mean Squared Error (MSE): 524.50087360344
+R² Score: -1.4470102622213732
+

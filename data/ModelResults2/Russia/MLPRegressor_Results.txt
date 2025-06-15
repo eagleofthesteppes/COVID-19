@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Russia.csv
+Mean Squared Error (MSE): 3004962679.483463
+R² Score: -0.5086766862588996
+

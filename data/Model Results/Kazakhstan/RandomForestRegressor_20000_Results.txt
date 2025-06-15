@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Kazakhstan.csv
+Mean Squared Error (MSE): 60575.17642295424
+R² Score: 0.9973278990511331
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Nepal.csv
+Mean Squared Error (MSE): 671615.1346182113
+R² Score: 0.9752231220607521
+

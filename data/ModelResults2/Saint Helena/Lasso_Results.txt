@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Saint Helena.csv
+Mean Squared Error (MSE): 7.667884679536237e-05
+R² Score: 0.9999998818504978
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Bulgaria.csv
+Mean Squared Error (MSE): 3411.6783766963595
+R² Score: 0.9995445022399417
+

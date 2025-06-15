@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Finland.csv
+Mean Squared Error (MSE): 96235.52963276967
+R² Score: 0.9945626852638296
+

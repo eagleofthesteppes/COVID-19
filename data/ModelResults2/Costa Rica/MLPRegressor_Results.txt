@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Costa Rica.csv
+Mean Squared Error (MSE): 8512854.13728559
+R² Score: 0.04410570078738241
+

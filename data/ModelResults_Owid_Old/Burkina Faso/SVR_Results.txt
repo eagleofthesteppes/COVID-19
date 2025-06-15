@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Burkina Faso.csv
+Mean Squared Error (MSE): 3460.3956298046473
+R² Score: -0.06166770995603432
+

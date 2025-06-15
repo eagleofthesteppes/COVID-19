@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Cape Verde.csv
+Mean Squared Error (MSE): 0.11148422946678103
+R² Score: 0.9999977065711594
+

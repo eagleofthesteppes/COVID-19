@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Palau.csv
+Mean Squared Error (MSE): 1234.7603710834253
+R² Score: -0.04826061380363833
+

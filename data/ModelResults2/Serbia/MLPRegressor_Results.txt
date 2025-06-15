@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Serbia.csv
+Mean Squared Error (MSE): 36074321.09505405
+R² Score: 0.0344019867944142
+

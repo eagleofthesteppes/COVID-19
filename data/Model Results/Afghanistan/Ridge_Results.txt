@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Afghanistan.csv
+Mean Squared Error (MSE): 24.41380240853297
+R² Score: 0.9998357338837968
+

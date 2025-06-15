@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Solomon Islands.csv
+Mean Squared Error (MSE): 12994.044894841012
+R² Score: -0.0064713875982391755
+

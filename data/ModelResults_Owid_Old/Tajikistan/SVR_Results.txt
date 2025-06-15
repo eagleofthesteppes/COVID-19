@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Tajikistan.csv
+Mean Squared Error (MSE): 863.7237572504322
+R² Score: -0.0043114497903904425
+

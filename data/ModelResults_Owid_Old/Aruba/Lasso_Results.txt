@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: Aruba.csv
+Error: Input contains NaN.
+

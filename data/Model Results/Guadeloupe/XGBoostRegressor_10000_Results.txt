@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Guadeloupe.csv
+Mean Squared Error (MSE): 5164.803380947755
+R² Score: 0.989172637462616
+

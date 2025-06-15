@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Comoros.csv
+Mean Squared Error (MSE): 393517.36025243584
+R² Score: -845.8014790280417
+

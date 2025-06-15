@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Puerto Rico.csv
+Mean Squared Error (MSE): 13438386.354515614
+R² Score: -0.04705117098082123
+

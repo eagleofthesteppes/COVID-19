@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Tanzania.csv
+Mean Squared Error (MSE): 0.004338190392831367
+R² Score: 0.9999995037488496
+

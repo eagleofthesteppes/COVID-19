@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Monaco.csv
+Mean Squared Error (MSE): 7.992608331654077
+R² Score: 0.9942959933762282
+

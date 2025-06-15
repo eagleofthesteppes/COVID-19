@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: South America.csv
+Mean Squared Error (MSE): 5082434838.399379
+R² Score: -0.08909331554527178
+

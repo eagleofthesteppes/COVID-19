@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Afghanistan.csv
+Mean Squared Error (MSE): 6997821.916004097
+R² Score: -46.0842275524606
+

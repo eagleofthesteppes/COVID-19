@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Central African Republic.csv
+Mean Squared Error (MSE): 5.894669023675274e-05
+R² Score: 0.999999979588383
+

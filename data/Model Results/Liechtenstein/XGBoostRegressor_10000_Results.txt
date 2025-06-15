@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Liechtenstein.csv
+Mean Squared Error (MSE): 13.06938629966294
+R² Score: 0.9975787997245789
+

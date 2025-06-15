@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Indonesia.csv
+Mean Squared Error (MSE): 1474876.8020453863
+R² Score: 0.9945604921963044
+

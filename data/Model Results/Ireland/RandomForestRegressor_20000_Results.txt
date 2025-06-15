@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Ireland.csv
+Mean Squared Error (MSE): 60352.6839755835
+R² Score: 0.996614763732816
+

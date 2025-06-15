@@ -1,0 +1,6 @@
+Results for SVR
+==================================================
+
+File: Papua New Guinea.csv
+Error: could not convert string to float: 'people tested'
+

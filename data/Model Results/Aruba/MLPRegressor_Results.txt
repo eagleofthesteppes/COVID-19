@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Aruba.csv
+Mean Squared Error (MSE): 532.7523957069918
+R² Score: 0.9528708053936703
+

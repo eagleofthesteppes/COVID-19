@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Dominica.csv
+Mean Squared Error (MSE): 893.1989114711135
+R² Score: 0.8352369234060814
+

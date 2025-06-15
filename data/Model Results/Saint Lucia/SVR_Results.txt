@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Saint Lucia.csv
+Mean Squared Error (MSE): 8664.431237415534
+R² Score: -0.04006466791099439
+

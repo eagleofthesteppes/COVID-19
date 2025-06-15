@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Greenland.csv
+Mean Squared Error (MSE): 210.5921217030467
+R² Score: 0.4163140095639626
+

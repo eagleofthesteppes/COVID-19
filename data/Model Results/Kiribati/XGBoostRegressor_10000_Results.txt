@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Kiribati.csv
+Mean Squared Error (MSE): 630.6386815719577
+R² Score: 0.9078207015991211
+

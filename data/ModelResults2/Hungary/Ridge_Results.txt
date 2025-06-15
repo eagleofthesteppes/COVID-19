@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Hungary.csv
+Mean Squared Error (MSE): 23.420793030323384
+R² Score: 0.9999994098911338
+

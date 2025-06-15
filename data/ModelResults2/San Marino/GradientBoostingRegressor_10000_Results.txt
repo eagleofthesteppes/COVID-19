@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: San Marino.csv
+Mean Squared Error (MSE): 1.61159185840814
+R² Score: 0.9995380214196773
+

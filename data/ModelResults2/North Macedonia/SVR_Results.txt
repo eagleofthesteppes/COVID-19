@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: North Macedonia.csv
+Mean Squared Error (MSE): 819198.7678118806
+R² Score: -0.0647982375744256
+

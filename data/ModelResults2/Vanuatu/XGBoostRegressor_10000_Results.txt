@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Vanuatu.csv
+Mean Squared Error (MSE): 158.82437653779004
+R² Score: 0.9170687794685364
+

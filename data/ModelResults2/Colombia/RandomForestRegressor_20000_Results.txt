@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Colombia.csv
+Mean Squared Error (MSE): 241331.1689979169
+R² Score: 0.9989615840278105
+

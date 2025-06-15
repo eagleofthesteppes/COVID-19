@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Western Sahara.csv
+Error: "['excess_mortality_cumulative_absolute', 'excess_mortality_cumulative', 'excess_mortality', 'excess_mortality_cumulative_per_million'] not found in axis"
+

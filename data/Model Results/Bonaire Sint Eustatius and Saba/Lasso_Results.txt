@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Bonaire Sint Eustatius and Saba.csv
+Mean Squared Error (MSE): 0.21851020678042843
+R² Score: 0.9995370232579682
+

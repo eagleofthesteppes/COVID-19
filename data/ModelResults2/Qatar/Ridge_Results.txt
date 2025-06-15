@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Qatar.csv
+Mean Squared Error (MSE): 271.69160551602124
+R² Score: 0.9997967675647507
+

@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Niger.csv
+Mean Squared Error (MSE): 2.5565815192605066
+R² Score: 0.9978348016738892
+

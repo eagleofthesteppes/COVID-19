@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Namibia.csv
+Mean Squared Error (MSE): 273.1901465086204
+R² Score: 0.9987573623657227
+

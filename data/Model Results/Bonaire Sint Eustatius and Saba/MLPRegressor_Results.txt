@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Bonaire Sint Eustatius and Saba.csv
+Mean Squared Error (MSE): 693.2307663678025
+R² Score: -0.4688088324024202
+

@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Indonesia.csv
+Mean Squared Error (MSE): 4366748.689945402
+R² Score: 0.983894944190979
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Cameroon.csv
+Mean Squared Error (MSE): 0.02648667584582297
+R² Score: 0.9999998028306456
+

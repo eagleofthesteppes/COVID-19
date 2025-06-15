@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Armenia.csv
+Mean Squared Error (MSE): 2.75316411845526
+R² Score: 0.9999967884454233
+

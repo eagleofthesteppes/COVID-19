@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Burundi.csv
+Mean Squared Error (MSE): 6.648835627917312e-06
+R² Score: 0.9999999999398584
+

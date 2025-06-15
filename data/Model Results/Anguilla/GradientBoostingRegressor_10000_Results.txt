@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Anguilla.csv
+Mean Squared Error (MSE): 1.9377961935444399
+R² Score: 0.9909593912797142
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Saint Helena.csv
+Mean Squared Error (MSE): 4.6509025077243e-05
+R² Score: 0.9999999283372353
+

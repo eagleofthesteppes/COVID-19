@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Lesotho.csv
+Mean Squared Error (MSE): 42030.92374723524
+R² Score: -0.014295893556217187
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Uzbekistan.csv
+Mean Squared Error (MSE): 11.552512377241458
+R² Score: 0.9999654396234198
+

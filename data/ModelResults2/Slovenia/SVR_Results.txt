@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Slovenia.csv
+Mean Squared Error (MSE): 6850107.649558482
+R² Score: -0.06417665285391672
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Laos.csv
+Mean Squared Error (MSE): 698640.221040688
+R² Score: -0.019001293925867246
+

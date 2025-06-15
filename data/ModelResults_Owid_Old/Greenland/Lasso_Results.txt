@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: Greenland.csv
+Error: Input y contains NaN.
+

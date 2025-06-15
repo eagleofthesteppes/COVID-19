@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Azerbaijan.csv
+Mean Squared Error (MSE): 15.884200421077782
+R² Score: 0.9999977882451137
+

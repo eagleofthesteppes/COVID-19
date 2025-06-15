@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Micronesia (country).csv
+Error: Input y contains NaN.
+

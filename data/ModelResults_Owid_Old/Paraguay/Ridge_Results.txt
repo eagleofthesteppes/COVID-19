@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Paraguay.csv
+Error: Input y contains NaN.
+

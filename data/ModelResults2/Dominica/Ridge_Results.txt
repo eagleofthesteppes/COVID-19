@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Dominica.csv
+Mean Squared Error (MSE): 0.046313133793135924
+R² Score: 0.9999914568923982
+

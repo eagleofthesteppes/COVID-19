@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Iceland.csv
+Mean Squared Error (MSE): 1236608.6765840983
+R² Score: -0.009685525202337564
+

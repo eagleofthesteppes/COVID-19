@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Papua New Guinea.csv
+Mean Squared Error (MSE): 131.1217394112455
+R² Score: 0.9960878491401672
+

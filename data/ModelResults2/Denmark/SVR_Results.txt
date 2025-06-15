@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Denmark.csv
+Mean Squared Error (MSE): 48364290.93565124
+R² Score: -0.03023573271253377
+

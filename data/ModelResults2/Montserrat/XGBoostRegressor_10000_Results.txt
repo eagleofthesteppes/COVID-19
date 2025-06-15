@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Montserrat.csv
+Mean Squared Error (MSE): 73.53796862439738
+R² Score: 0.7236682176589966
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Oceania.csv
+Mean Squared Error (MSE): 0.00015961183168472704
+R² Score: 0.9999999999996824
+

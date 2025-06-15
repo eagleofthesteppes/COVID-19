@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Reunion.csv
+Mean Squared Error (MSE): 3777.453667775424
+R² Score: 0.9953100085258484
+

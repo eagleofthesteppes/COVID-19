@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Tokelau.csv
+Mean Squared Error (MSE): 2.083050710414519e-08
+R² Score: 0.0
+

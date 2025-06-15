@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Antigua and Barbuda.csv
+Mean Squared Error (MSE): 16.259500310823253
+R² Score: 0.9850995181297246
+

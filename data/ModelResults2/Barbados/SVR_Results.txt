@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Barbados.csv
+Mean Squared Error (MSE): 123864.10363416094
+R² Score: -0.03509127245571397
+

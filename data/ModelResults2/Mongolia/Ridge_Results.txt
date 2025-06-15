@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Mongolia.csv
+Mean Squared Error (MSE): 48.9893795770268
+R² Score: 0.9999949425298468
+

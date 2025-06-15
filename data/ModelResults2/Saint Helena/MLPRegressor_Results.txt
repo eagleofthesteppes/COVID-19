@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Saint Helena.csv
+Mean Squared Error (MSE): 5325.435948763091
+R² Score: -7.205621658405491
+

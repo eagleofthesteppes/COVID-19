@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Iceland.csv
+Mean Squared Error (MSE): 39621.22256790524
+R² Score: 0.9676494466882276
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Burundi.csv
+Mean Squared Error (MSE): 9.534675602031443e-05
+R² Score: 0.9999999991375474
+

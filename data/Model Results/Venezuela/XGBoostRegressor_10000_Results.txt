@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Venezuela.csv
+Mean Squared Error (MSE): 7966.194657519859
+R² Score: 0.996224582195282
+

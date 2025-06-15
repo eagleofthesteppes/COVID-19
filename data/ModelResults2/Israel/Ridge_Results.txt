@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Israel.csv
+Mean Squared Error (MSE): 2360.7660508196177
+R² Score: 0.9999678472594953
+

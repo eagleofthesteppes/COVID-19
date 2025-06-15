@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Armenia.csv
+Mean Squared Error (MSE): 908306.8638554466
+R² Score: -0.059536206422744264
+

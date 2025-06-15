@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Portugal.csv
+Mean Squared Error (MSE): 721942.2247616011
+R² Score: 0.9958841396494835
+

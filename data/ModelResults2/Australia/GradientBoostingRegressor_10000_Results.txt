@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Australia.csv
+Mean Squared Error (MSE): 1204064.7610479295
+R² Score: 0.9991287791129339
+

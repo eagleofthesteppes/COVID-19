@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Namibia.csv
+Mean Squared Error (MSE): 3980.36512805531
+R² Score: 0.9818951412880829
+

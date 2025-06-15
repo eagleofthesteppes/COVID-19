@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Saint Lucia.csv
+Mean Squared Error (MSE): 34.38461776473041
+R² Score: 0.9958725246843336
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Singapore.csv
+Mean Squared Error (MSE): 1375.988896736084
+R² Score: 0.9999823582093873
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Angola.csv
+Mean Squared Error (MSE): 84447.39944208744
+R² Score: -0.033380723465633144
+

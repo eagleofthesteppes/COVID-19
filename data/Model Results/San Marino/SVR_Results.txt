@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: San Marino.csv
+Mean Squared Error (MSE): 3653.884693741005
+R² Score: -0.047421811341659126
+

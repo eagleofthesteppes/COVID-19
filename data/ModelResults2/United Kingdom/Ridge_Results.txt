@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: United Kingdom.csv
+Mean Squared Error (MSE): 18357.449555393905
+R² Score: 0.9999947264749682
+

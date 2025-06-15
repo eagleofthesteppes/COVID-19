@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Congo.csv
+Mean Squared Error (MSE): 1.1828048679169079
+R² Score: 0.9997404426919377
+

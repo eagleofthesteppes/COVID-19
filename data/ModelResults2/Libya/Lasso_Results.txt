@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Libya.csv
+Mean Squared Error (MSE): 22.689668886147924
+R² Score: 0.9999857612757829
+

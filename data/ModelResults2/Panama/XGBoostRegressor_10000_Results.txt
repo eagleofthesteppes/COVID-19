@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Panama.csv
+Mean Squared Error (MSE): 422758.7458855752
+R² Score: 0.9325097799301147
+

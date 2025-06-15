@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Seychelles.csv
+Mean Squared Error (MSE): 1330.2355262330962
+R² Score: 0.9520081273662577
+

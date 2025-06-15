@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Benin.csv
+Mean Squared Error (MSE): 22803.49332770666
+R² Score: -0.01802917577059837
+

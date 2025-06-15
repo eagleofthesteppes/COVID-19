@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Croatia.csv
+Mean Squared Error (MSE): 17.289295851371357
+R² Score: 0.9999985505162987
+

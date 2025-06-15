@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Eswatini.csv
+Mean Squared Error (MSE): 0.6221716128702346
+R² Score: 0.9999977627476645
+

@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Gambia.csv
+Mean Squared Error (MSE): 6.089607553006434
+R² Score: 0.9976826310157776
+

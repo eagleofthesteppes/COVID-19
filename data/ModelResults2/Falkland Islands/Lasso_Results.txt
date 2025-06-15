@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Falkland Islands.csv
+Mean Squared Error (MSE): 2.2696991749358202e-05
+R² Score: 0.9999999860573654
+

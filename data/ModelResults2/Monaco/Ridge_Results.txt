@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Monaco.csv
+Mean Squared Error (MSE): 0.020860898596147034
+R² Score: 0.9999851124065096
+

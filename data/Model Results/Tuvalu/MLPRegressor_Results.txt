@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Tuvalu.csv
+Mean Squared Error (MSE): 4735.003006625737
+R² Score: -0.2886167582170813
+

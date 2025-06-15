@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Myanmar.csv
+Mean Squared Error (MSE): 23.38293816791004
+R² Score: 0.9999938295382588
+

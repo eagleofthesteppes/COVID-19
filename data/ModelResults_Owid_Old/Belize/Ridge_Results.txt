@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Belize.csv
+Mean Squared Error (MSE): 7.521110805466827e-09
+R² Score: 0.9999999999994753
+

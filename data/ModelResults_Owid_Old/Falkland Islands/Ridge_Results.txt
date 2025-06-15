@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Falkland Islands.csv
+Error: Input y contains NaN.
+

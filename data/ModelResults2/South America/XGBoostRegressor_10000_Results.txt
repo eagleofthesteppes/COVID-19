@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: South America.csv
+Mean Squared Error (MSE): 18804327.467961673
+R² Score: 0.9990732669830322
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Indonesia.csv
+Mean Squared Error (MSE): 1078.6326056852329
+R² Score: 0.9999960218843582
+

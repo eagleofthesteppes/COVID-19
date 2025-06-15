@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Iceland.csv
+Mean Squared Error (MSE): 78.49711175628403
+R² Score: 0.9999359074547904
+

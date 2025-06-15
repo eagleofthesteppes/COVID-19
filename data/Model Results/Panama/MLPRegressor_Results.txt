@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Panama.csv
+Mean Squared Error (MSE): 4370125.972007084
+R² Score: 0.3023428305659843
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Bahamas.csv
+Mean Squared Error (MSE): 14.770024402851824
+R² Score: 0.9984211856080809
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Curacao.csv
+Mean Squared Error (MSE): 17389.037672762213
+R² Score: -0.05800659193845581
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Russia.csv
+Mean Squared Error (MSE): 2130838619.2982101
+R² Score: -0.06981247023936743
+

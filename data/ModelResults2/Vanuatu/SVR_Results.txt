@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Vanuatu.csv
+Mean Squared Error (MSE): 1930.0711251418281
+R² Score: -0.0077995300273616675
+

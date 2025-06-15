@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: European Union (27).csv
+Error: Input y contains NaN.
+

@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Taiwan.csv
+Error: Input y contains NaN.
+

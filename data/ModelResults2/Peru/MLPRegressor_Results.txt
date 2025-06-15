@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Peru.csv
+Mean Squared Error (MSE): 156546919.4755728
+R² Score: -0.2237110148004431
+

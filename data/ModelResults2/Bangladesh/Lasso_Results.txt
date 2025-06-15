@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Bangladesh.csv
+Mean Squared Error (MSE): 596.2007619022091
+R² Score: 0.9999806900897196
+

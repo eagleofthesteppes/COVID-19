@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Cook Islands.csv
+Mean Squared Error (MSE): 3.135829043031785e-05
+R² Score: 0.9999999719822592
+

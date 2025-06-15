@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Cameroon.csv
+Mean Squared Error (MSE): 377.7191205677051
+R² Score: 0.9971882226533652
+

@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Hungary.csv
+Mean Squared Error (MSE): 174629.51267635653
+R² Score: 0.9956000447273254
+

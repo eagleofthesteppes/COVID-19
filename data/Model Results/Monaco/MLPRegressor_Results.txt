@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Monaco.csv
+Mean Squared Error (MSE): 503.0803510771401
+R² Score: 0.6409715657567367
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: European Union.csv
+Mean Squared Error (MSE): 0.017205748039886306
+R² Score: 0.9999999999996458
+

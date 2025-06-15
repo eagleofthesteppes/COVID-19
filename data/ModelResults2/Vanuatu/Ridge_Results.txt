@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Vanuatu.csv
+Mean Squared Error (MSE): 0.014251181393163859
+R² Score: 0.9999925586504439
+

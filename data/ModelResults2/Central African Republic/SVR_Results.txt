@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Central African Republic.csv
+Mean Squared Error (MSE): 7373.463072991251
+R² Score: -0.02065880307251078
+

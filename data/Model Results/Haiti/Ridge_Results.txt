@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Haiti.csv
+Mean Squared Error (MSE): 0.5029564673234674
+R² Score: 0.9999395224495644
+

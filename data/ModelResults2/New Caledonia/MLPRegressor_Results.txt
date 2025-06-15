@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: New Caledonia.csv
+Mean Squared Error (MSE): 2220.7724379961423
+R² Score: 0.9557571681691626
+

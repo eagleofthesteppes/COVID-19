@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Kiribati.csv
+Mean Squared Error (MSE): 831.786497657077
+R² Score: 0.8784192569673771
+

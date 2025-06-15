@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Libya.csv
+Mean Squared Error (MSE): 2614146.6234821
+R² Score: -0.6404872641244679
+

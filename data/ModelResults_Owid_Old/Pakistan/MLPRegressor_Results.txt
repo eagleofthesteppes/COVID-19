@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Pakistan.csv
+Mean Squared Error (MSE): 1428120302.679317
+R² Score: -470.106699007349
+

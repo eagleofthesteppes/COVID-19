@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Antigua and Barbuda.csv
+Mean Squared Error (MSE): 0.7150908196320732
+R² Score: 0.9993446786438797
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Sweden.csv
+Mean Squared Error (MSE): 335.42851102974737
+R² Score: 0.9999901472108461
+

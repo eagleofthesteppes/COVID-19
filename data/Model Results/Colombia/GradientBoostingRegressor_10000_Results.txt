@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Colombia.csv
+Mean Squared Error (MSE): 163325.37621736596
+R² Score: 0.9992972325952251
+

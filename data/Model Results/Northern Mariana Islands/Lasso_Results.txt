@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Northern Mariana Islands.csv
+Mean Squared Error (MSE): 0.08236839092937663
+R² Score: 0.9999610449001759
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Belgium.csv
+Mean Squared Error (MSE): 113359824.67020778
+R² Score: -0.12519451048826657
+

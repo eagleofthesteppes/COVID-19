@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Kuwait.csv
+Mean Squared Error (MSE): 30317728.99823698
+R² Score: -14.892934670015784
+

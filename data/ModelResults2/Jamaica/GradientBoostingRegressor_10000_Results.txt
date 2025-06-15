@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Jamaica.csv
+Mean Squared Error (MSE): 337.63991722346407
+R² Score: 0.9981300121167803
+

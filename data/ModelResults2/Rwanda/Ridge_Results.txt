@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Rwanda.csv
+Mean Squared Error (MSE): 3.8711631715422445
+R² Score: 0.9999608378852572
+

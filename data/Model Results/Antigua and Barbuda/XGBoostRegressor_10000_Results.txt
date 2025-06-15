@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Antigua and Barbuda.csv
+Mean Squared Error (MSE): 2.9603653292471797
+R² Score: 0.9972870945930481
+

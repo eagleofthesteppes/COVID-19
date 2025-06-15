@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Croatia.csv
+Error: could not convert string to float: 'people tested'
+

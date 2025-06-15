@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Kosovo.csv
+Mean Squared Error (MSE): 32262.72975961201
+R² Score: 0.9760041832923889
+

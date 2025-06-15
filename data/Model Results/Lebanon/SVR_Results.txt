@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Lebanon.csv
+Mean Squared Error (MSE): 11501085.491488682
+R² Score: -0.05916574726317836
+

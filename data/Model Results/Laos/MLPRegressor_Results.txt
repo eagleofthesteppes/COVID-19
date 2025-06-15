@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Laos.csv
+Mean Squared Error (MSE): 1271715.412683255
+R² Score: -0.8548597861992182
+

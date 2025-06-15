@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Gabon.csv
+Mean Squared Error (MSE): 26659.093005465435
+R² Score: -0.03800347014645844
+

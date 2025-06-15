@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Nauru.csv
+Mean Squared Error (MSE): 0.0007661361880964384
+R² Score: 0.9999998984273403
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Saint Kitts and Nevis.csv
+Mean Squared Error (MSE): 8.125327720657106
+R² Score: 0.9764069342517847
+

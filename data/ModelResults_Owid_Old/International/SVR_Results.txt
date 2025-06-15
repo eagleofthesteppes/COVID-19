@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: International.csv
+Mean Squared Error (MSE): 90.63702021568692
+R² Score: 0.021467547644068552
+

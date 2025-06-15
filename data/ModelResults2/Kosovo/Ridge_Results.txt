@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Kosovo.csv
+Mean Squared Error (MSE): 34.249349641914804
+R² Score: 0.9999745265942162
+

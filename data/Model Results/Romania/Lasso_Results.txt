@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Romania.csv
+Mean Squared Error (MSE): 188.15200540180368
+R² Score: 0.999996709985621
+

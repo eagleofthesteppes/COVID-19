@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Cuba.csv
+Mean Squared Error (MSE): 5.231930538694731
+R² Score: 0.9999998091443907
+

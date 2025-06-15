@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Egypt.csv
+Mean Squared Error (MSE): 102236219.72838798
+R² Score: -46.07431355408843
+

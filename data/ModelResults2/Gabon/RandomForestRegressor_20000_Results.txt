@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Gabon.csv
+Mean Squared Error (MSE): 88.86740788845918
+R² Score: 0.9965398418561265
+

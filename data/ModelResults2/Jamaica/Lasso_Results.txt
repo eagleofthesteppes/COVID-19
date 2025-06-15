@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Jamaica.csv
+Mean Squared Error (MSE): 0.02429293633164259
+R² Score: 0.999999865455788
+

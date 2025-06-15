@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Chile.csv
+Mean Squared Error (MSE): 545.5814663173112
+R² Score: 0.9999967069383745
+

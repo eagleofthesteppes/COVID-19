@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Tuvalu.csv
+Mean Squared Error (MSE): 3687.355553654326
+R² Score: -0.003502670071136915
+

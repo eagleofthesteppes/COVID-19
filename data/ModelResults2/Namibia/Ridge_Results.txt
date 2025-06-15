@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Namibia.csv
+Mean Squared Error (MSE): 19.408937379379818
+R² Score: 0.9999117176294895
+

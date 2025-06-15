@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Kuwait.csv
+Mean Squared Error (MSE): 2358.64509333838
+R² Score: 0.9987635612487793
+

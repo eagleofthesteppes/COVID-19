@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: French Guiana.csv
+Mean Squared Error (MSE): 2.8088193255933884
+R² Score: 0.9999430677284985
+

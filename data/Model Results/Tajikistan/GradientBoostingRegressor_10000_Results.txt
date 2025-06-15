@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Tajikistan.csv
+Mean Squared Error (MSE): 11.229581158106816
+R² Score: 0.9966595896102136
+

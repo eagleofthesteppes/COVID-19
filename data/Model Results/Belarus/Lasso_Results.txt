@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Belarus.csv
+Mean Squared Error (MSE): 62.250204774781636
+R² Score: 0.9999882157344924
+

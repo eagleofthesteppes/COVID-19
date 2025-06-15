@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Kyrgyzstan.csv
+Mean Squared Error (MSE): 3102.6195551972296
+R² Score: 0.9210234561601458
+

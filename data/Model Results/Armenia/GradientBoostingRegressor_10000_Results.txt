@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Armenia.csv
+Mean Squared Error (MSE): 472.22862953946395
+R² Score: 0.9994491472534044
+

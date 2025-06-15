@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Gibraltar.csv
+Mean Squared Error (MSE): 0.5117712355166697
+R² Score: 0.9998467835009207
+

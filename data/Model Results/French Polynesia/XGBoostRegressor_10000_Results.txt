@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: French Polynesia.csv
+Mean Squared Error (MSE): 499.30314772994404
+R² Score: 0.9968487620353699
+

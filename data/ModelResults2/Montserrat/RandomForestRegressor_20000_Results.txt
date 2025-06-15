@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Montserrat.csv
+Mean Squared Error (MSE): 42.369868906382166
+R² Score: 0.8407878091915628
+

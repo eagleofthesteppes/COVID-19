@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Namibia.csv
+Mean Squared Error (MSE): 26.586390275978005
+R² Score: 0.999879070682181
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Bonaire Sint Eustatius and Saba.csv
+Mean Squared Error (MSE): 0.2039358273582358
+R² Score: 0.999567903274062
+

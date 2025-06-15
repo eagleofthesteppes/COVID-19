@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Slovakia.csv
+Mean Squared Error (MSE): 36946897.51397176
+R² Score: -0.029393947511106244
+

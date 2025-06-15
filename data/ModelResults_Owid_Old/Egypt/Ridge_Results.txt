@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Egypt.csv
+Mean Squared Error (MSE): 0.000714395834707529
+R² Score: 0.9999999981662265
+

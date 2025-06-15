@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Suriname.csv
+Mean Squared Error (MSE): 25181.314551966792
+R² Score: 0.13036104292115425
+

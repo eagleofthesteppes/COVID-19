@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Gambia.csv
+Mean Squared Error (MSE): 3.7005683848791557
+R² Score: 0.9985917788160845
+

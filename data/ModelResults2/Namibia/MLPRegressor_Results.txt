@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Namibia.csv
+Mean Squared Error (MSE): 338225.84074766596
+R² Score: -0.5384345059940889
+

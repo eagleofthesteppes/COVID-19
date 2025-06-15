@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Brunei.csv
+Mean Squared Error (MSE): 2635498.7514439104
+R² Score: -0.019559808808008228
+

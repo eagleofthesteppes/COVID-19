@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Solomon Islands.csv
+Mean Squared Error (MSE): 428.2080062767292
+R² Score: 0.9668325675533778
+

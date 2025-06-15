@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Saint Vincent and the Grenadines.csv
+Mean Squared Error (MSE): 1429.6459583923108
+R² Score: -0.4060315178198255
+

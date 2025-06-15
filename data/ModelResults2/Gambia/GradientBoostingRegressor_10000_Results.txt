@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Gambia.csv
+Mean Squared Error (MSE): 29.83521425901391
+R² Score: 0.9886464520104871
+

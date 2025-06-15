@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Djibouti.csv
+Mean Squared Error (MSE): 27671.390027775004
+R² Score: -25.422626478427784
+

@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Jordan.csv
+Error: Input y contains NaN.
+

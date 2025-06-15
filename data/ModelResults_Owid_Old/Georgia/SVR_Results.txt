@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Georgia.csv
+Mean Squared Error (MSE): 18410825.049019728
+R² Score: -0.1300003277052615
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Azerbaijan.csv
+Mean Squared Error (MSE): 5978.439633725574
+R² Score: 0.9991675474545599
+

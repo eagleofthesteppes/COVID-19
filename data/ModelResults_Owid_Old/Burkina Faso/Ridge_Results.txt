@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Burkina Faso.csv
+Mean Squared Error (MSE): 2.46765486050096e-05
+R² Score: 0.9999999924291042
+

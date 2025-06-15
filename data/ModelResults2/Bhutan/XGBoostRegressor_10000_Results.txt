@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Bhutan.csv
+Mean Squared Error (MSE): 34.90273189689216
+R² Score: 0.9985763430595398
+

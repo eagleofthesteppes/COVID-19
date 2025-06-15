@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Greece.csv
+Mean Squared Error (MSE): 216925863.72779465
+R² Score: -0.05570486003874553
+

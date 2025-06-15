@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Finland.csv
+Mean Squared Error (MSE): 18365968.66349139
+R² Score: -0.037678624922758974
+

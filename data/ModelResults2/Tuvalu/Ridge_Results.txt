@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Tuvalu.csv
+Mean Squared Error (MSE): 0.001207422014807528
+R² Score: 0.9999996714037477
+

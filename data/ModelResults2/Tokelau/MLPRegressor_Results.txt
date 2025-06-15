@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Tokelau.csv
+Mean Squared Error (MSE): 9.359738102673653
+R² Score: 0.0
+

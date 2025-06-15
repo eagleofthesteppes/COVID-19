@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: United Arab Emirates.csv
+Mean Squared Error (MSE): 1811.517376289493
+R² Score: 0.9997837828814008
+

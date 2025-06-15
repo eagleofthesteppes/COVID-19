@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Guadeloupe.csv
+Mean Squared Error (MSE): 52.34769961737337
+R² Score: 0.9998902596662949
+

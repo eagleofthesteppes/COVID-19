@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Afghanistan.csv
+Mean Squared Error (MSE): 32.035455653864645
+R² Score: 0.999784452262167
+

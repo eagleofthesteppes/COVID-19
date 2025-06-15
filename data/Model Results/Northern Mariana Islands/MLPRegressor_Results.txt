@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Northern Mariana Islands.csv
+Mean Squared Error (MSE): 192.74068207242246
+R² Score: 0.9088457061551533
+

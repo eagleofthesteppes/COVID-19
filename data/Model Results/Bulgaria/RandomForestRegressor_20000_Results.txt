@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Bulgaria.csv
+Mean Squared Error (MSE): 30155.674823942125
+R² Score: 0.9959738753719652
+

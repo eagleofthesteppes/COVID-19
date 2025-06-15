@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Guinea.csv
+Mean Squared Error (MSE): 1002.0955264379852
+R² Score: 0.9247736930847168
+

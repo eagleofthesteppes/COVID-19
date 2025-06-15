@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Cape Verde.csv
+Mean Squared Error (MSE): 0.13654579299691308
+R² Score: 0.9999971910102333
+

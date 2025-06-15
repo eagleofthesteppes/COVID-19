@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Croatia.csv
+Mean Squared Error (MSE): 6149533.291394134
+R² Score: 0.4844412200052318
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Haiti.csv
+Mean Squared Error (MSE): 0.6214912782056548
+R² Score: 0.9999252693372789
+

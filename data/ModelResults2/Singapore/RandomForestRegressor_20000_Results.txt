@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Singapore.csv
+Mean Squared Error (MSE): 298891.9557517368
+R² Score: 0.9961678547612515
+

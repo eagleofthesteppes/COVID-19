@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Brazil.csv
+Mean Squared Error (MSE): 6952.258317146592
+R² Score: 0.9999989579588253
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Nepal.csv
+Mean Squared Error (MSE): 49913422.45117805
+R² Score: -0.8413801474351399
+

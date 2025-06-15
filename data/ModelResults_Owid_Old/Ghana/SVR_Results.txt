@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Ghana.csv
+Mean Squared Error (MSE): 127315.6599649839
+R² Score: -0.2964150791756015
+

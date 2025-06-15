@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Somalia.csv
+Mean Squared Error (MSE): 9.09633072400027e-06
+R² Score: 0.9999999980020552
+

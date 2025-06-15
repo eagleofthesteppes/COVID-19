@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Tunisia.csv
+Mean Squared Error (MSE): 43.8236383554694
+R² Score: 0.9999949581204555
+

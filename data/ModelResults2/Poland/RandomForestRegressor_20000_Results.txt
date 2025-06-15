@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Poland.csv
+Mean Squared Error (MSE): 1198732.2401763336
+R² Score: 0.9961740153660174
+

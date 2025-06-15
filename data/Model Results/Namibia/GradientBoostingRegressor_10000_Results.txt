@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Namibia.csv
+Mean Squared Error (MSE): 6790.2174349398765
+R² Score: 0.9691144095258302
+

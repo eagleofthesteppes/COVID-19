@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Northern Cyprus.csv
+Error: Input y contains NaN.
+

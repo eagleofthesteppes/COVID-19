@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Saint Barthelemy.csv
+Mean Squared Error (MSE): 0.021564109706525163
+R² Score: 0.9998689631248912
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Marshall Islands.csv
+Mean Squared Error (MSE): 0.5001618957137614
+R² Score: 0.9999931983958084
+

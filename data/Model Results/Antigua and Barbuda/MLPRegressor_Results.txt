@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Antigua and Barbuda.csv
+Mean Squared Error (MSE): 9752.925436530903
+R² Score: -7.937746294235197
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Lesotho.csv
+Mean Squared Error (MSE): 101220.65484409883
+R² Score: -1.4426704292501795
+

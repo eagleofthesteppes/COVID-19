@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Iceland.csv
+Mean Squared Error (MSE): 28322.34813752472
+R² Score: 0.9768749277797459
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Guinea.csv
+Mean Squared Error (MSE): 1.5801258493104262
+R² Score: 0.9998813815215353
+

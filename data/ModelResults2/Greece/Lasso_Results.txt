@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Greece.csv
+Mean Squared Error (MSE): 3375.3401515249648
+R² Score: 0.999983573360313
+

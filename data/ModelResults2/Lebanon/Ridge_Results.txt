@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Lebanon.csv
+Mean Squared Error (MSE): 31.708538783266984
+R² Score: 0.9999970798757909
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Burkina Faso.csv
+Mean Squared Error (MSE): 6489870.225969399
+R² Score: -1990.1265640760723
+

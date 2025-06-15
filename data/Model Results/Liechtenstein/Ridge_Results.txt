@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Liechtenstein.csv
+Mean Squared Error (MSE): 0.009818224596791015
+R² Score: 0.9999981810865183
+

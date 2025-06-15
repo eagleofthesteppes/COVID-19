@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Kyrgyzstan.csv
+Mean Squared Error (MSE): 3134.581768315122
+R² Score: 0.9202098846435547
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: American Samoa.csv
+Mean Squared Error (MSE): 0.012905926611201827
+R² Score: 0.9999773906093707
+

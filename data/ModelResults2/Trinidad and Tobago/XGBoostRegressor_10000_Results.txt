@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Trinidad and Tobago.csv
+Mean Squared Error (MSE): 1049.2392668430887
+R² Score: 0.9966878294944763
+

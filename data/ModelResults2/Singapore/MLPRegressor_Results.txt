@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Singapore.csv
+Mean Squared Error (MSE): 75139614.61909264
+R² Score: 0.03662206070501339
+

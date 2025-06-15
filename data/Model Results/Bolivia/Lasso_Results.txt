@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Bolivia.csv
+Mean Squared Error (MSE): 430.07322136140516
+R² Score: 0.999966985331686
+

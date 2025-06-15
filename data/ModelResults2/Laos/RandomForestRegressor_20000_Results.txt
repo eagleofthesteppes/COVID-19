@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Laos.csv
+Mean Squared Error (MSE): 223.36185606876234
+R² Score: 0.9996742156928659
+

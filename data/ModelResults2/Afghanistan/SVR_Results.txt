@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Afghanistan.csv
+Mean Squared Error (MSE): 157845.060801229
+R² Score: -0.06204656963332367
+

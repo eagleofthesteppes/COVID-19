@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: French Polynesia.csv
+Mean Squared Error (MSE): 160639.92742398803
+R² Score: -0.013843202806554933
+

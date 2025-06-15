@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Israel.csv
+Mean Squared Error (MSE): 2406.1649680734627
+R² Score: 0.9999672289434173
+

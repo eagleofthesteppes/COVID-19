@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Tajikistan.csv
+Mean Squared Error (MSE): 27691327.674762566
+R² Score: -32197.62509304347
+

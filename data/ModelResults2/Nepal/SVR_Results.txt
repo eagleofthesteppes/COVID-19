@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Nepal.csv
+Mean Squared Error (MSE): 27680994.653112624
+R² Score: -0.02119292792147176
+

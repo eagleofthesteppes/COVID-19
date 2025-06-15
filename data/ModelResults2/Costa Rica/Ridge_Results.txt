@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Costa Rica.csv
+Mean Squared Error (MSE): 12.577809330465405
+R² Score: 0.9999985876586112
+

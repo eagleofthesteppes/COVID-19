@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: American Samoa.csv
+Mean Squared Error (MSE): 17.234120750285065
+R² Score: 0.9698082144790224
+

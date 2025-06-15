@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Reunion.csv
+Mean Squared Error (MSE): 2.052284119454659
+R² Score: 0.9999974519406645
+

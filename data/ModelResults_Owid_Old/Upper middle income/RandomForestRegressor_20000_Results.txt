@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Upper middle income.csv
+Mean Squared Error (MSE): 22108738.44005697
+R² Score: 0.9984126150929132
+

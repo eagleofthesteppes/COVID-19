@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Algeria.csv
+Mean Squared Error (MSE): 15.170253971460715
+R² Score: 0.9999551026945432
+

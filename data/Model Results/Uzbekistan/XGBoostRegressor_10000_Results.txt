@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Uzbekistan.csv
+Mean Squared Error (MSE): 811.9725606178673
+R² Score: 0.9975709319114685
+

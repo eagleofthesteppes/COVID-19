@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Brazil.csv
+Mean Squared Error (MSE): 9869685.08128131
+R² Score: 0.9985206723213196
+

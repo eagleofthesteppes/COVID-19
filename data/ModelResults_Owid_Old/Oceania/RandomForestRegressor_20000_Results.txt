@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Oceania.csv
+Mean Squared Error (MSE): 286894.7220059759
+R² Score: 0.9994290605330542
+

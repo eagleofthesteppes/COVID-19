@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Mali.csv
+Mean Squared Error (MSE): 7786.682388008326
+R² Score: -0.02175265644085722
+

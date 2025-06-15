@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Vanuatu.csv
+Mean Squared Error (MSE): 138.9094230309034
+R² Score: 0.927467516909964
+

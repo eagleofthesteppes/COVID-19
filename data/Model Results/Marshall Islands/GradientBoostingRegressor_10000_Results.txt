@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Marshall Islands.csv
+Mean Squared Error (MSE): 776.5794334514839
+R² Score: 0.9894394475569845
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Antigua and Barbuda.csv
+Mean Squared Error (MSE): 0.004223494062505602
+R² Score: 0.9999961295184043
+

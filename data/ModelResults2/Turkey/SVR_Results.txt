@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Turkey.csv
+Mean Squared Error (MSE): 2483523851.252397
+R² Score: -0.055949018645134796
+

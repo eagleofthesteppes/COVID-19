@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Sudan.csv
+Mean Squared Error (MSE): 35.930877001523825
+R² Score: 0.9989382629066741
+

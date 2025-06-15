@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Monaco.csv
+Mean Squared Error (MSE): 0.778020215144119
+R² Score: 0.9994447579217619
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Martinique.csv
+Mean Squared Error (MSE): 46721.06099757138
+R² Score: 0.9508894425815201
+

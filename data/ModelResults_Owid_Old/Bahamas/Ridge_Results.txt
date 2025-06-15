@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Bahamas.csv
+Error: Input y contains NaN.
+

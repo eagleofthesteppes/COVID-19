@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Cyprus.csv
+Mean Squared Error (MSE): 40694144.93061133
+R² Score: -15.897143959909961
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Curacao.csv
+Mean Squared Error (MSE): 0.0012021896005009543
+R² Score: 0.9999999022746308
+

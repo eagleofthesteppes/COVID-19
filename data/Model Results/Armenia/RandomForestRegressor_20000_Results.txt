@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Armenia.csv
+Mean Squared Error (MSE): 1412.2064056944312
+R² Score: 0.9983526670585487
+

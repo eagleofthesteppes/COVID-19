@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Latvia.csv
+Mean Squared Error (MSE): 7283306.543002225
+R² Score: -0.03446972359952194
+

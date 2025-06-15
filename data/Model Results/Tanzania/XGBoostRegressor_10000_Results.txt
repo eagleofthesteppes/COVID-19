@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Tanzania.csv
+Mean Squared Error (MSE): 468.56124836261864
+R² Score: 0.9647525548934937
+

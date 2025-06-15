@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Cook Islands.csv
+Mean Squared Error (MSE): 0.03887804094481888
+R² Score: 0.9998931850385336
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Luxembourg.csv
+Mean Squared Error (MSE): 314422.76176559
+R² Score: 0.5123464411710426
+

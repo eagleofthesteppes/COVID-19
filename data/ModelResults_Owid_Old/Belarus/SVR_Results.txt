@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Belarus.csv
+Mean Squared Error (MSE): 2335034.704700684
+R² Score: -0.05382332342422358
+

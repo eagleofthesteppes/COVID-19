@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Bhutan.csv
+Mean Squared Error (MSE): 6807500.512866543
+R² Score: -276.67855246927786
+

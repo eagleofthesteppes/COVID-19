@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Oman.csv
+Mean Squared Error (MSE): 107.81350225151982
+R² Score: 0.9999186841598172
+

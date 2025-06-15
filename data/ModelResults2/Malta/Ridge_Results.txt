@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Malta.csv
+Mean Squared Error (MSE): 0.8227198136469427
+R² Score: 0.9999911904219998
+

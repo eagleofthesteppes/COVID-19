@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Guyana.csv
+Mean Squared Error (MSE): 0.07241575911225229
+R² Score: 0.9999969460751895
+

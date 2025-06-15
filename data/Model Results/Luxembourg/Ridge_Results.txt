@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Luxembourg.csv
+Mean Squared Error (MSE): 27.884886825623187
+R² Score: 0.9999567519723391
+

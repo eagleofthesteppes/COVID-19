@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Jamaica.csv
+Mean Squared Error (MSE): 190229.73754234496
+R² Score: -0.05357004929251841
+

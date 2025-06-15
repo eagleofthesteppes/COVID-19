@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Yemen.csv
+Mean Squared Error (MSE): 0.0615671476682047
+R² Score: 0.9999697143382458
+

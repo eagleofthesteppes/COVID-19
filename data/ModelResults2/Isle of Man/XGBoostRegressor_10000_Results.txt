@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Isle of Man.csv
+Mean Squared Error (MSE): 413.0967217285253
+R² Score: 0.9852200150489807
+

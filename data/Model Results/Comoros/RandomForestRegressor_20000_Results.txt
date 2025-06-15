@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Comoros.csv
+Mean Squared Error (MSE): 12.011827454977341
+R² Score: 0.9741520088257872
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Reunion.csv
+Mean Squared Error (MSE): 39494.63931826045
+R² Score: 0.9509645455690274
+

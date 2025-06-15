@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Jersey.csv
+Mean Squared Error (MSE): 152.15404524227827
+R² Score: 0.9947949051856995
+

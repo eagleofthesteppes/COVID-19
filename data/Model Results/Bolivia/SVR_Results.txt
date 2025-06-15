@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Bolivia.csv
+Mean Squared Error (MSE): 13681839.492034458
+R² Score: -0.05028950959702394
+

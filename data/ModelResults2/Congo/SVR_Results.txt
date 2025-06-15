@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Congo.csv
+Mean Squared Error (MSE): 4741.381469230233
+R² Score: -0.04045920339924636
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: French Guiana.csv
+Mean Squared Error (MSE): 52427.0059059204
+R² Score: -0.06264881726209381
+

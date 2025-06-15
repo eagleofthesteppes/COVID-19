@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Barbados.csv
+Mean Squared Error (MSE): 140.57946362949477
+R² Score: 0.9988252240025959
+

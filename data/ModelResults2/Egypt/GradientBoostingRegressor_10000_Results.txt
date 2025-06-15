@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Egypt.csv
+Mean Squared Error (MSE): 1048.55026564323
+R² Score: 0.9995171986590149
+

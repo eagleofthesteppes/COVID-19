@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Turks and Caicos Islands.csv
+Mean Squared Error (MSE): 0.03151861052895062
+R² Score: 0.999827831636077
+

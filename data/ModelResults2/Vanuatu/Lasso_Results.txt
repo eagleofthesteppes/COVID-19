@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Vanuatu.csv
+Mean Squared Error (MSE): 0.014147592589029938
+R² Score: 0.9999926127400299
+

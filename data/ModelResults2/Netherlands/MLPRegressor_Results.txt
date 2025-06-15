@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Netherlands.csv
+Mean Squared Error (MSE): 826706470.2689877
+R² Score: -0.04153075428226982
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Slovenia.csv
+Mean Squared Error (MSE): 2605.650086803552
+R² Score: 0.9995952075310727
+

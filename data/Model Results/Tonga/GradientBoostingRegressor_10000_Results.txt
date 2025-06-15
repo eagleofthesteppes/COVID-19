@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Tonga.csv
+Mean Squared Error (MSE): 122.93126041299006
+R² Score: 0.9854190351139755
+

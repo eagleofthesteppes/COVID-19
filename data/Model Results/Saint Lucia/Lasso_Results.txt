@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Saint Lucia.csv
+Mean Squared Error (MSE): 0.003083444621713691
+R² Score: 0.999999629868168
+

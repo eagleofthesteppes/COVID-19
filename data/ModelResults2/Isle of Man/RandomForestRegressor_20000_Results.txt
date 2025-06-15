@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Isle of Man.csv
+Mean Squared Error (MSE): 1439.4727795982024
+R² Score: 0.9484978108015685
+

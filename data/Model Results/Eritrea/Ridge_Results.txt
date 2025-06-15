@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Eritrea.csv
+Mean Squared Error (MSE): 0.05382829429702407
+R² Score: 0.9999304309649439
+

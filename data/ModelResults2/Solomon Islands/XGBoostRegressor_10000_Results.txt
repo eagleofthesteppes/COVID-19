@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Solomon Islands.csv
+Mean Squared Error (MSE): 3430.1705148207902
+R² Score: 0.7343114614486694
+

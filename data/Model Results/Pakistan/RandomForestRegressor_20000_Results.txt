@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Pakistan.csv
+Mean Squared Error (MSE): 51856.20828199982
+R² Score: 0.9979878017780763
+

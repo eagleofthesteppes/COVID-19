@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: British Virgin Islands.csv
+Mean Squared Error (MSE): 1.8166501079822883
+R² Score: 0.9918884038925171
+

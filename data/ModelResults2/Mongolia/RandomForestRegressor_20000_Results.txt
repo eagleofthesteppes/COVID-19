@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Mongolia.csv
+Mean Squared Error (MSE): 10804.418393866978
+R² Score: 0.9988845944973915
+

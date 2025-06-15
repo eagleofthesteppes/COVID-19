@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: French Polynesia.csv
+Mean Squared Error (MSE): 3212.1093271207283
+R² Score: 0.9797274858113103
+

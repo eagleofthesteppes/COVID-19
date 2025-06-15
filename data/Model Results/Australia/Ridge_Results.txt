@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Australia.csv
+Mean Squared Error (MSE): 4827.927017741705
+R² Score: 0.9999965066738973
+

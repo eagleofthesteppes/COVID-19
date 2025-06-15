@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Greece.csv
+Mean Squared Error (MSE): 670673.0072684123
+R² Score: 0.9967360496520996
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Belarus.csv
+Mean Squared Error (MSE): 9134924.785811014
+R² Score: -0.7292855414399608
+

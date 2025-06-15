@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Comoros.csv
+Mean Squared Error (MSE): 30.438786688101377
+R² Score: 0.9344994346100294
+

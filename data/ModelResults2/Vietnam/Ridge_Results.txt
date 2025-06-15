@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Vietnam.csv
+Mean Squared Error (MSE): 759.2804903967583
+R² Score: 0.9999999116496916
+

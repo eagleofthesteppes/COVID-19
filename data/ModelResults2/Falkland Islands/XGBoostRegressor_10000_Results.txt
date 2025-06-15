@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Falkland Islands.csv
+Mean Squared Error (MSE): 117.75177521671831
+R² Score: 0.9276657104492188
+

@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Austria.csv
+Mean Squared Error (MSE): 1638.1911549167025
+R² Score: 0.9999952799748165
+

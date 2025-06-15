@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Aruba.csv
+Mean Squared Error (MSE): 22.330919367912472
+R² Score: 0.9980245232582092
+

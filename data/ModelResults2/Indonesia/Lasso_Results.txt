@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Indonesia.csv
+Mean Squared Error (MSE): 1395.0493446229052
+R² Score: 0.999994854904636
+

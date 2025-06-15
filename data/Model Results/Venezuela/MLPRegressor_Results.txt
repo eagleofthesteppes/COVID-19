@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Venezuela.csv
+Mean Squared Error (MSE): 283993249.6778014
+R² Score: -133.59210775959514
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Liechtenstein.csv
+Mean Squared Error (MSE): 7.928963866591863
+R² Score: 0.9985310888816272
+

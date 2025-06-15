@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Iran.csv
+Mean Squared Error (MSE): 2747036.827495881
+R² Score: 0.995985209941864
+

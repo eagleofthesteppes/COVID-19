@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: El Salvador.csv
+Mean Squared Error (MSE): 0.5609271408350573
+R² Score: 0.9999986541219983
+

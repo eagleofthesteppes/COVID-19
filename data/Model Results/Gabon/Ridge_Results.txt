@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Gabon.csv
+Mean Squared Error (MSE): 1.3767660500943866
+R² Score: 0.9999463939775713
+

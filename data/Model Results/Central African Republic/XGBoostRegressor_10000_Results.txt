@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Central African Republic.csv
+Mean Squared Error (MSE): 133.8906803719397
+R² Score: 0.9814664125442505
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Mali.csv
+Mean Squared Error (MSE): 2344246.0145741217
+R² Score: -306.6072033489805
+

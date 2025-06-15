@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Sweden.csv
+Mean Squared Error (MSE): 49030.01161305193
+R² Score: 0.9985598052915882
+

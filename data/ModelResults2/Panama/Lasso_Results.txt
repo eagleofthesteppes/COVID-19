@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Panama.csv
+Mean Squared Error (MSE): 121.99487417498304
+R² Score: 0.9999805244518928
+

@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Jordan.csv
+Mean Squared Error (MSE): 180080.8493030335
+R² Score: 0.9909414649009705
+

@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Guam.csv
+Mean Squared Error (MSE): 193.11375280769948
+R² Score: 0.9821909666061401
+

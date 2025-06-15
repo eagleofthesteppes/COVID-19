@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Costa Rica.csv
+Mean Squared Error (MSE): 9551585.596933391
+R² Score: -0.072531735338915
+

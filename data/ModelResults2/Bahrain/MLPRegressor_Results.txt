@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Bahrain.csv
+Mean Squared Error (MSE): 3112469.792047725
+R² Score: -0.17665343043202597
+

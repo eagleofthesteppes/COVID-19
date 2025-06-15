@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: South Korea.csv
+Mean Squared Error (MSE): 129653488.96645491
+R² Score: 0.9938809040391641
+

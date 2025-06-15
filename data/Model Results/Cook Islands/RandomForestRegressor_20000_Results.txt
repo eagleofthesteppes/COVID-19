@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Cook Islands.csv
+Mean Squared Error (MSE): 1.2688540423791534
+R² Score: 0.9965139036754556
+

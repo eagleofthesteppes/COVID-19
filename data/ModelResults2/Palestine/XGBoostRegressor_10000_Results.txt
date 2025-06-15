@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Palestine.csv
+Mean Squared Error (MSE): 24678.301070094523
+R² Score: 0.9943276643753052
+

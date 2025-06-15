@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Niue.csv
+Mean Squared Error (MSE): 2.079102971137928e-06
+R² Score: 0.9999999391244274
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Saint Lucia.csv
+Mean Squared Error (MSE): 36.546812969531736
+R² Score: 0.995612978180239
+

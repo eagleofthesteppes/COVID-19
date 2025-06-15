@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Angola.csv
+Mean Squared Error (MSE): 1813.9675576902414
+R² Score: 0.9778025150299072
+

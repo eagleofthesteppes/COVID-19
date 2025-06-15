@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: New Caledonia.csv
+Mean Squared Error (MSE): 0.2217424875586047
+R² Score: 0.9999955823859217
+

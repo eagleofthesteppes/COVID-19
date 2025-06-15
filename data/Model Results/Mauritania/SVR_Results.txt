@@ -1,0 +1,6 @@
+Results for SVR
+==================================================
+
+File: Mauritania.csv
+Error: Input contains NaN.
+

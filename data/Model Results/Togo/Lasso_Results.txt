@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Togo.csv
+Mean Squared Error (MSE): 1.1414555668400297
+R² Score: 0.999933773178418
+

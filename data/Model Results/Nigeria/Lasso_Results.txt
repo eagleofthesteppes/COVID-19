@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Nigeria.csv
+Mean Squared Error (MSE): 78.95563853042889
+R² Score: 0.9999176741553852
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Yemen.csv
+Mean Squared Error (MSE): 14.309095078051365
+R² Score: 0.9929611744257013
+

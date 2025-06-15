@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Cyprus.csv
+Mean Squared Error (MSE): 2524371.587922183
+R² Score: -0.04817708302162971
+

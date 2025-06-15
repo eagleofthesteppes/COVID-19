@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Hungary.csv
+Mean Squared Error (MSE): 23.408440810799295
+R² Score: 0.9999994102023596
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Saint Lucia.csv
+Mean Squared Error (MSE): 430.73819914578917
+R² Score: 0.9482948655514086
+

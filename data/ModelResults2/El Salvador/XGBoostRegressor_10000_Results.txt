@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: El Salvador.csv
+Mean Squared Error (MSE): 4326.453317064679
+R² Score: 0.9896191954612732
+

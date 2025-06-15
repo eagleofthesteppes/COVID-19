@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Tunisia.csv
+Mean Squared Error (MSE): 9095369.695196332
+R² Score: -0.04641604706272062
+

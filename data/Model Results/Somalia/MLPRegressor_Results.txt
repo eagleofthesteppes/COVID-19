@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Somalia.csv
+Mean Squared Error (MSE): 4868647.301060203
+R² Score: -351.70278977087156
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Martinique.csv
+Mean Squared Error (MSE): 26010.15011095451
+R² Score: 0.9726595898463497
+

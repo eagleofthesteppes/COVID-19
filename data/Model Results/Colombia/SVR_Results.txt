@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Colombia.csv
+Mean Squared Error (MSE): 244466961.74924743
+R² Score: -0.05190887197518124
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Nicaragua.csv
+Mean Squared Error (MSE): 9310219.417264877
+R² Score: -3985.3710659243466
+

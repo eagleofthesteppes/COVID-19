@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: El Salvador.csv
+Mean Squared Error (MSE): 430582.14247862314
+R² Score: -0.03313067114064894
+

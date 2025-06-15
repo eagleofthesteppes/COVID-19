@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Albania.csv
+Mean Squared Error (MSE): 845807.4904952382
+R² Score: 0.3322974736108013
+

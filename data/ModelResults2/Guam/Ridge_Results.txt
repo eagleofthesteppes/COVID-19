@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Guam.csv
+Mean Squared Error (MSE): 0.17651551999964443
+R² Score: 0.999983721644575
+

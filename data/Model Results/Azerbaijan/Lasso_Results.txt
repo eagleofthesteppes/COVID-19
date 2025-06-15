@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Azerbaijan.csv
+Mean Squared Error (MSE): 33.43641363531635
+R² Score: 0.9999953442320494
+

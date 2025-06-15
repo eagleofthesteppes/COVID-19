@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Jersey.csv
+Mean Squared Error (MSE): 0.005524426266280813
+R² Score: 0.9999998110135212
+

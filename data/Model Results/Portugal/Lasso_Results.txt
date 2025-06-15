@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Portugal.csv
+Mean Squared Error (MSE): 49.22171717658756
+R² Score: 0.9999997193823728
+

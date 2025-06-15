@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Serbia.csv
+Mean Squared Error (MSE): 39658793.54747427
+R² Score: -0.06154325551041362
+

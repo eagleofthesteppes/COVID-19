@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: South America.csv
+Mean Squared Error (MSE): 31994.08306442964
+R² Score: 0.9999984232609902
+

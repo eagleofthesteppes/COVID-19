@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Cambodia.csv
+Mean Squared Error (MSE): 283.37037533281034
+R² Score: 0.9989912808211558
+

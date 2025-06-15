@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Morocco.csv
+Mean Squared Error (MSE): 73.14963382014282
+R² Score: 0.9999967657067772
+

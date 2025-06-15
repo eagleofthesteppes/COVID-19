@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Bermuda.csv
+Mean Squared Error (MSE): 2551.6290181722484
+R² Score: -0.03294950750376624
+

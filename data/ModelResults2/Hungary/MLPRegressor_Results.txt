@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Hungary.csv
+Mean Squared Error (MSE): 18448224.228520963
+R² Score: 0.5351796726735241
+

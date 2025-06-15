@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: High-income countries.csv
+Error: Input y contains NaN.
+

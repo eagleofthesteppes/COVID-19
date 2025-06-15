@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Portugal.csv
+Mean Squared Error (MSE): 297011264.8545082
+R² Score: -0.6932890842824824
+

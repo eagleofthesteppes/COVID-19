@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Honduras.csv
+Mean Squared Error (MSE): 1907.6443538124718
+R² Score: 0.9988834261894226
+

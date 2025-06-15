@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Saint Kitts and Nevis.csv
+Mean Squared Error (MSE): 0.912284624325897
+R² Score: 0.9973510503768921
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: British Virgin Islands.csv
+Mean Squared Error (MSE): 0.011730218950778071
+R² Score: 0.9999476229843612
+

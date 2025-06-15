@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Saudi Arabia.csv
+Mean Squared Error (MSE): 30310.474896785603
+R² Score: 0.9954244494438171
+

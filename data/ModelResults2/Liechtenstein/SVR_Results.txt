@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Liechtenstein.csv
+Mean Squared Error (MSE): 5518.654572367024
+R² Score: -0.022379871595150203
+

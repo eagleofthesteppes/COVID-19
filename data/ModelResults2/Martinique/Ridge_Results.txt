@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Martinique.csv
+Mean Squared Error (MSE): 4.791920681426722
+R² Score: 0.9999949630018937
+

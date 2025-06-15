@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Turks and Caicos Islands.csv
+Mean Squared Error (MSE): 0.026990079347747574
+R² Score: 0.999852568443676
+

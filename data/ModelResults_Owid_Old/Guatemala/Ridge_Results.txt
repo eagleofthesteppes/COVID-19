@@ -1,0 +1,6 @@
+Results for Ridge
+==================================================
+
+File: Guatemala.csv
+Error: could not convert string to float: 'people tested'
+

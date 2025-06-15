@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Costa Rica.csv
+Mean Squared Error (MSE): 5332.794624539444
+R² Score: 0.999401189319321
+

@@ -1,0 +1,6 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Singapore.csv
+Error: DataFrame.dtypes for data must be int, float, bool or category. When categorical type is supplied, the experimental DMatrix parameter`enable_categorical` must be set to `True`.  Invalid columns:tests_units: object
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Bahrain.csv
+Mean Squared Error (MSE): 2812955.879718703
+R² Score: -0.06342371385630385
+

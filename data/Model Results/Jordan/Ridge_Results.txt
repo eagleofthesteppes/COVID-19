@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Jordan.csv
+Mean Squared Error (MSE): 620.2885137733408
+R² Score: 0.9999687979280034
+

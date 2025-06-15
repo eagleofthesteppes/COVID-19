@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: United Kingdom.csv
+Mean Squared Error (MSE): 148549914.34826532
+R² Score: 0.9573262239167712
+

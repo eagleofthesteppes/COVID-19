@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Kyrgyzstan.csv
+Mean Squared Error (MSE): 297917.1284067057
+R² Score: -2.9512569494290677
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Moldova.csv
+Mean Squared Error (MSE): 2355712.9112751842
+R² Score: -0.0681883548122908
+

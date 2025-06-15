@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Marshall Islands.csv
+Mean Squared Error (MSE): 64712.541047825835
+R² Score: 0.11998671293258667
+

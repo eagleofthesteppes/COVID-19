@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Tonga.csv
+Mean Squared Error (MSE): 333.75628880058946
+R² Score: 0.9604129195213318
+

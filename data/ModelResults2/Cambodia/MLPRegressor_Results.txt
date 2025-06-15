@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Cambodia.csv
+Mean Squared Error (MSE): 5384264.279781572
+R² Score: -18.166472982937393
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Malta.csv
+Mean Squared Error (MSE): 1.0702026765151862
+R² Score: 0.9999885404073192
+

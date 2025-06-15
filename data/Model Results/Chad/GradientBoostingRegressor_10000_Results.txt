@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Chad.csv
+Mean Squared Error (MSE): 39.397815252847394
+R² Score: 0.977801230874187
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Georgia.csv
+Mean Squared Error (MSE): 12154.195319609491
+R² Score: 0.9992493609259169
+

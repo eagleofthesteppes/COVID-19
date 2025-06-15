@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Montenegro.csv
+Mean Squared Error (MSE): 25.242651569484092
+R² Score: 0.9999490401624332
+

@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Somalia.csv
+Mean Squared Error (MSE): 43.5408757316668
+R² Score: 0.9968457221984863
+

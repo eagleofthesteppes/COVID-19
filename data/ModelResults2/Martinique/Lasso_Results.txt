@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Martinique.csv
+Mean Squared Error (MSE): 4.539603364202867
+R² Score: 0.9999952282236979
+

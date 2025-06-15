@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Saint Helena.csv
+Mean Squared Error (MSE): 650.8283406637285
+R² Score: -0.0028195211501500506
+

@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Tajikistan.csv
+Mean Squared Error (MSE): 0.5768045410316998
+R² Score: 0.9998284206815365
+

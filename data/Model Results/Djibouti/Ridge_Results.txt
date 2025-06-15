@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Djibouti.csv
+Mean Squared Error (MSE): 0.09477334786857647
+R² Score: 0.9999841871846189
+

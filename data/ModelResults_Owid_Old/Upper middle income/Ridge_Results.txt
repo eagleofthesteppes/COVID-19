@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Upper middle income.csv
+Mean Squared Error (MSE): 0.5429802351508591
+R² Score: 0.9999999999610145
+

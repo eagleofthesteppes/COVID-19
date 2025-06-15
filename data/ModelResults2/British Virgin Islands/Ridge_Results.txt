@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: British Virgin Islands.csv
+Mean Squared Error (MSE): 0.011285363203785127
+R² Score: 0.9999496093254956
+

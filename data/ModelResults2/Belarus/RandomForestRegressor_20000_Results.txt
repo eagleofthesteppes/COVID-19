@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Belarus.csv
+Mean Squared Error (MSE): 42611.77528149316
+R² Score: 0.9919333843882512
+

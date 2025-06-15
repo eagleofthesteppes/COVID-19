@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Lebanon.csv
+Mean Squared Error (MSE): 61421.930336702964
+R² Score: 0.9943434900304353
+

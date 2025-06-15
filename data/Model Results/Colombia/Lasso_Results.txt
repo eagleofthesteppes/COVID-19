@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Colombia.csv
+Mean Squared Error (MSE): 2028.1333815382166
+R² Score: 0.9999912732113889
+

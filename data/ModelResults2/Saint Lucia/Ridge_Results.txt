@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Saint Lucia.csv
+Mean Squared Error (MSE): 0.00439459648179046
+R² Score: 0.9999994724795656
+

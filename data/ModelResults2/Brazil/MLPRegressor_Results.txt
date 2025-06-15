@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Brazil.csv
+Mean Squared Error (MSE): 8132795093.3921385
+R² Score: -0.21898625820939466
+

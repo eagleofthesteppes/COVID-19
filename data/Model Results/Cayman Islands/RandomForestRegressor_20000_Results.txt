@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Cayman Islands.csv
+Mean Squared Error (MSE): 59.17956078524926
+R² Score: 0.9933425097881922
+

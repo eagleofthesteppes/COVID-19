@@ -1,0 +1,6 @@
+Results for Lasso
+==================================================
+
+File: High-income countries.csv
+Error: Input y contains NaN.
+

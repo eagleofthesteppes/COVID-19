@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Falkland Islands.csv
+Mean Squared Error (MSE): 2.2379687417507517e-05
+R² Score: 0.9999999862522836
+

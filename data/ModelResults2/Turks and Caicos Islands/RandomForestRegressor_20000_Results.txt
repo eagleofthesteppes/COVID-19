@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Turks and Caicos Islands.csv
+Mean Squared Error (MSE): 0.9727184507552865
+R² Score: 0.9946865886086433
+

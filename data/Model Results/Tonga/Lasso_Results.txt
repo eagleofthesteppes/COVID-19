@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Tonga.csv
+Mean Squared Error (MSE): 0.010817792578336705
+R² Score: 0.9999987168938707
+

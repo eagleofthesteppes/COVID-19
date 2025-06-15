@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Sao Tome and Principe.csv
+Mean Squared Error (MSE): 0.07164027849712801
+R² Score: 0.9998227319468127
+

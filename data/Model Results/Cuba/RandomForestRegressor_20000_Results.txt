@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Cuba.csv
+Mean Squared Error (MSE): 245988.15737180493
+R² Score: 0.9910265972926801
+

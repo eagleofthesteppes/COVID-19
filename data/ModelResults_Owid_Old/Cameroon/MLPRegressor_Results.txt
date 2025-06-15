@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Cameroon.csv
+Mean Squared Error (MSE): 13659871.380462863
+R² Score: -100.68539217131493
+

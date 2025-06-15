@@ -1,0 +1,6 @@
+Results for MLPRegressor
+==================================================
+
+File: Palau.csv
+Error: Input y contains NaN.
+

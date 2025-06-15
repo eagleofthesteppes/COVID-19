@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Luxembourg.csv
+Mean Squared Error (MSE): 1682.0018192401874
+R² Score: 0.9973913015441269
+

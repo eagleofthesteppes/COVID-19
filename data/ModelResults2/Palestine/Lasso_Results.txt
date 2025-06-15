@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Palestine.csv
+Mean Squared Error (MSE): 253.0309143143368
+R² Score: 0.999941840796289
+

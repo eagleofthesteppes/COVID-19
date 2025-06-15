@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Northern Mariana Islands.csv
+Mean Squared Error (MSE): 100.25150927054
+R² Score: 0.9525873064994812
+

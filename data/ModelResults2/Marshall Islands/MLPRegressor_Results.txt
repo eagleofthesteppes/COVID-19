@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Marshall Islands.csv
+Mean Squared Error (MSE): 18770.655929525103
+R² Score: 0.7447415064129002
+

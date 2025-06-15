@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Afghanistan.csv
+Mean Squared Error (MSE): 233.1461559520472
+R² Score: 0.998431296653217
+

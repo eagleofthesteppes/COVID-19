@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Montenegro.csv
+Mean Squared Error (MSE): 4692.825097005136
+R² Score: 0.990526129792096
+

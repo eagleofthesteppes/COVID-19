@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Netherlands.csv
+Mean Squared Error (MSE): 813348622.2803026
+R² Score: -0.02470179504270309
+

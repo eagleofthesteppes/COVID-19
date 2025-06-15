@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: San Marino.csv
+Mean Squared Error (MSE): 50.71261303426399
+R² Score: 0.9854627251625061
+

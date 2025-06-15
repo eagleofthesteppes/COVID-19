@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Cape Verde.csv
+Mean Squared Error (MSE): 50392.44587061044
+R² Score: -0.03666221905162925
+

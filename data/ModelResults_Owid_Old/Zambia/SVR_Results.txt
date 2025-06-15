@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Zambia.csv
+Mean Squared Error (MSE): 414461.8246729604
+R² Score: -0.18587855622184168
+

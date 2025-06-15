@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Jersey.csv
+Mean Squared Error (MSE): 0.005812553160054808
+R² Score: 0.9999998011569163
+

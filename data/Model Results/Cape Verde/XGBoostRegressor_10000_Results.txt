@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Cape Verde.csv
+Mean Squared Error (MSE): 10719.437225559408
+R² Score: 0.7794821262359619
+

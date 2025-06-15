@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Russia.csv
+Mean Squared Error (MSE): 2286237.589526868
+R² Score: 0.9988521676578157
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Cuba.csv
+Mean Squared Error (MSE): 74747832.63834964
+R² Score: -1.7267264039441246
+

@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Costa Rica.csv
+Mean Squared Error (MSE): 2974.4044052640465
+R² Score: 0.9996660090530517
+

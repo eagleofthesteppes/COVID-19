@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Qatar.csv
+Mean Squared Error (MSE): 10924.312021313553
+R² Score: 0.9918283224105835
+

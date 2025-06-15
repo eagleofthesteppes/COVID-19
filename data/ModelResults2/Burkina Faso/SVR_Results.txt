@@ -1,0 +1,6 @@
+Results for SVR
+==================================================
+
+File: Burkina Faso.csv
+Error: Input y contains NaN.
+

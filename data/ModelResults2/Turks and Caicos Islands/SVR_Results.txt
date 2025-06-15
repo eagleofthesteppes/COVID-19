@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Turks and Caicos Islands.csv
+Mean Squared Error (MSE): 183.9430027081897
+R² Score: -0.0047767112787371335
+

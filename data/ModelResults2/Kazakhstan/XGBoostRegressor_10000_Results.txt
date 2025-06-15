@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Kazakhstan.csv
+Mean Squared Error (MSE): 32324.252002669393
+R² Score: 0.9985741376876831
+

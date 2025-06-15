@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Bolivia.csv
+Mean Squared Error (MSE): 3234868.2721825517
+R² Score: 0.1400735179388536
+

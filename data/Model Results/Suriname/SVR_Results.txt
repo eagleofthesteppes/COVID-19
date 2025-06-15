@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Suriname.csv
+Mean Squared Error (MSE): 29888.314024353338
+R² Score: -0.03219560612468353
+

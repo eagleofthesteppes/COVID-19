@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Montserrat.csv
+Mean Squared Error (MSE): 266.78504004106685
+R² Score: -0.002491435451593693
+

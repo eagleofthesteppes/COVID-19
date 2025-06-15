@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Guyana.csv
+Mean Squared Error (MSE): 21.96890738772518
+R² Score: 0.9990735249874791
+

@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Tonga.csv
+Mean Squared Error (MSE): 751.4244548838358
+R² Score: 0.9108730069605343
+

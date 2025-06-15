@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Saint Kitts and Nevis.csv
+Mean Squared Error (MSE): 4208.4721197141
+R² Score: -11.219908271209523
+

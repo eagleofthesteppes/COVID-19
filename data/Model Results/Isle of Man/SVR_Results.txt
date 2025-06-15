@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Isle of Man.csv
+Mean Squared Error (MSE): 28399.56170348112
+R² Score: -0.0160939621334677
+

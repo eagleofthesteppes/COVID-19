@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Ireland.csv
+Mean Squared Error (MSE): 344.17440919281177
+R² Score: 0.9999806949481699
+

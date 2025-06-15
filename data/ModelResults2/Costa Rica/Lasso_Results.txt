@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Costa Rica.csv
+Mean Squared Error (MSE): 13.183952923272562
+R² Score: 0.9999985195957505
+

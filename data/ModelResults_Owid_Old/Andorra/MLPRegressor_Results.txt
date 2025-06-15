@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Andorra.csv
+Mean Squared Error (MSE): 7671.411418372504
+R² Score: 0.7345499786330876
+

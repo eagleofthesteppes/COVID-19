@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Colombia.csv
+Mean Squared Error (MSE): 331116351.3344168
+R² Score: -0.4247496885979374
+

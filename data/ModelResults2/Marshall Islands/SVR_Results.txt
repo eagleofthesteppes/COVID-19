@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Marshall Islands.csv
+Mean Squared Error (MSE): 73817.38061031056
+R² Score: -0.003828179786478758
+

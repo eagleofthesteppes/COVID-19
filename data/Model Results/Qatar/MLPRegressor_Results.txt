@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Qatar.csv
+Mean Squared Error (MSE): 2052650.0843203305
+R² Score: -0.5354360123085669
+

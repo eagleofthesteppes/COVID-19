@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Guadeloupe.csv
+Mean Squared Error (MSE): 6786.141995975745
+R² Score: 0.9857737113062791
+

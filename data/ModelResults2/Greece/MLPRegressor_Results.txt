@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Greece.csv
+Mean Squared Error (MSE): 502041211.28431594
+R² Score: -1.443264890523432
+

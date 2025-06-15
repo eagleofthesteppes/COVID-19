@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Nauru.csv
+Mean Squared Error (MSE): 309.0171236756698
+R² Score: 0.9590311857982979
+

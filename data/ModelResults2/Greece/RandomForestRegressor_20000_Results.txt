@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Greece.csv
+Mean Squared Error (MSE): 1761375.5285057358
+R² Score: 0.9914279806296857
+

@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Vanuatu.csv
+Mean Squared Error (MSE): 78.0966177913822
+R² Score: 0.9592213293688345
+

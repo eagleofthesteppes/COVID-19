@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Seychelles.csv
+Mean Squared Error (MSE): 557.6566335857685
+R² Score: 0.9798810168540635
+

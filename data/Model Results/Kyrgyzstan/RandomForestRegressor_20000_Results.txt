@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Kyrgyzstan.csv
+Mean Squared Error (MSE): 49.22958040883686
+R² Score: 0.9987468711370483
+

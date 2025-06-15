@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Israel.csv
+Mean Squared Error (MSE): 171962.84305016513
+R² Score: 0.997657931133357
+

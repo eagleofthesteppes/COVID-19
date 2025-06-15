@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: South America.csv
+Mean Squared Error (MSE): 4277848.694713147
+R² Score: 0.9997891781770574
+

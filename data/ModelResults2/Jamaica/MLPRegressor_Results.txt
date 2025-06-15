@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Jamaica.csv
+Mean Squared Error (MSE): 369220.78476656904
+R² Score: -1.0448956374118188
+

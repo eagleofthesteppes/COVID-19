@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Vatican.csv
+Mean Squared Error (MSE): 2.4553572075174583e-08
+R² Score: 0.0
+

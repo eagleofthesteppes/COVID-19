@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Benin.csv
+Mean Squared Error (MSE): 4531.302043550041
+R² Score: 0.7977065347721087
+

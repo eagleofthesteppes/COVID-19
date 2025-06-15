@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Saint Pierre and Miquelon.csv
+Mean Squared Error (MSE): 42.901453272150164
+R² Score: -0.42618491721420626
+

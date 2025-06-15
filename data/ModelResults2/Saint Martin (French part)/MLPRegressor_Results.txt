@@ -1,0 +1,7 @@
+Results for MLPRegressor
+==================================================
+
+File: Saint Martin (French part).csv
+Mean Squared Error (MSE): 1554.6294784163233
+R² Score: -1.9232897946252598
+

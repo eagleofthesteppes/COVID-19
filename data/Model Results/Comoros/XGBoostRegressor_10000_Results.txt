@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Comoros.csv
+Mean Squared Error (MSE): 8.856314080892654
+R² Score: 0.9809423089027405
+

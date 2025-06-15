@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Iran.csv
+Mean Squared Error (MSE): 713735429.7889286
+R² Score: -0.04311885489435596
+

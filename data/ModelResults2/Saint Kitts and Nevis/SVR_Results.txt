@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Saint Kitts and Nevis.csv
+Mean Squared Error (MSE): 345.9710653444881
+R² Score: -0.004577091813902756
+

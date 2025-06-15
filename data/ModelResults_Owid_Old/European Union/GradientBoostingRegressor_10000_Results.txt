@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: European Union.csv
+Mean Squared Error (MSE): 6962753.765857371
+R² Score: 0.999856694397543
+

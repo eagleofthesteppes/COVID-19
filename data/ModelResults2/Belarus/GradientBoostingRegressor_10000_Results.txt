@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Belarus.csv
+Mean Squared Error (MSE): 831046.4178993007
+R² Score: 0.8426788847817379
+

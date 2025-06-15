@@ -1,0 +1,7 @@
+Results for RandomForestRegressor_20000
+==================================================
+
+File: Cambodia.csv
+Mean Squared Error (MSE): 18.09924391684208
+R² Score: 0.9997286949406209
+

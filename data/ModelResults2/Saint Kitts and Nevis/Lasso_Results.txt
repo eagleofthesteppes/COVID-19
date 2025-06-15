@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Saint Kitts and Nevis.csv
+Mean Squared Error (MSE): 5.752904668346788e-05
+R² Score: 0.9999998329560816
+

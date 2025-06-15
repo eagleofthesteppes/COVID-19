@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Switzerland.csv
+Mean Squared Error (MSE): 521.3012854109043
+R² Score: 0.999996630658827
+

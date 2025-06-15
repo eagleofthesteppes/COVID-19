@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Bangladesh.csv
+Mean Squared Error (MSE): 0.002414946492245874
+R² Score: 0.9999999997149815
+

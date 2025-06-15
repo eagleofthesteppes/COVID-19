@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Syria.csv
+Mean Squared Error (MSE): 0.7722504781560313
+R² Score: 0.9999769846198161
+

@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Seychelles.csv
+Mean Squared Error (MSE): 28649.0278952655
+R² Score: -0.03359177432552363
+

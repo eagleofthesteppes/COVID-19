@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Guyana.csv
+Mean Squared Error (MSE): 0.07186063141973972
+R² Score: 0.9999969694860914
+

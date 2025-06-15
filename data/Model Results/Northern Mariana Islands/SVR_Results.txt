@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Northern Mariana Islands.csv
+Mean Squared Error (MSE): 2157.832470313567
+R² Score: -0.020519866132910458
+

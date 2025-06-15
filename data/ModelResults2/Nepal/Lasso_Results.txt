@@ -1,0 +1,7 @@
+Results for Lasso
+==================================================
+
+File: Nepal.csv
+Mean Squared Error (MSE): 329.8130463947923
+R² Score: 0.9999878327077933
+

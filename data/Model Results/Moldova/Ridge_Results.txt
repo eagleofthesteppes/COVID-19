@@ -1,0 +1,7 @@
+Results for Ridge
+==================================================
+
+File: Moldova.csv
+Mean Squared Error (MSE): 5.148032755538696
+R² Score: 0.9999976656456678
+

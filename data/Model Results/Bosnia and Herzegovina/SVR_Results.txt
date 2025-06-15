@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Bosnia and Herzegovina.csv
+Mean Squared Error (MSE): 901500.9177010217
+R² Score: -0.06355974329086034
+

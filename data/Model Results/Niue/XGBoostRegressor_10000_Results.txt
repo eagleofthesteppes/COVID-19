@@ -1,0 +1,7 @@
+Results for XGBoostRegressor_10000
+==================================================
+
+File: Niue.csv
+Mean Squared Error (MSE): 2.2664932942767995
+R² Score: 0.9336376786231995
+

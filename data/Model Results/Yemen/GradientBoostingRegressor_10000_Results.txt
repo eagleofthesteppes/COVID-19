@@ -1,0 +1,7 @@
+Results for GradientBoostingRegressor_10000
+==================================================
+
+File: Yemen.csv
+Mean Squared Error (MSE): 34.271989954324525
+R² Score: 0.9831411729353425
+

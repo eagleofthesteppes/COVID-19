@@ -1,0 +1,7 @@
+Results for SVR
+==================================================
+
+File: Sri Lanka.csv
+Mean Squared Error (MSE): 9687023.439209638
+R² Score: -0.02550426159278274
+
