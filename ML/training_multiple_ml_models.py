@@ -88,9 +88,9 @@ def main():
     # Define the models with their parameters
     models = {
         'GradientBoostingRegressor_10000': GradientBoostingRegressor(n_estimators=10000, random_state=42),
-        
+
         'XGBoostRegressor_10000': XGBRegressor(n_estimators=10000, random_state=42, verbosity=0, use_label_encoder=False, tree_method='gpu_hist'),
-        
+
         'RandomForestRegressor_20000': RandomForestRegressor(n_estimators=20000, random_state=42, n_jobs=-1),
         
         'SVR': SVR(kernel='rbf', C=10, gamma=0.1),  # No native GPU support in scikit-learn for SVR
@@ -103,13 +103,13 @@ def main():
     }
 
     # Define the base result folder path
-    base_result_folder = r"data\ModelResults_Owid_Old"
+    base_result_folder = r"/Users/tarushshankar/COVID-19-1/data/ModelResults_Owid_Master_New3"
 
     # Verify that the base result folder exists or create it
     os.makedirs(base_result_folder, exist_ok=True)
 
     # Define the folder path containing the datasets (use raw string to handle backslashes)
-    data_folder_path = r'data\OWID DataSet\countrywise_data_owid_old'
+    data_folder_path = r'/Users/tarushshankar/COVID-19-1/data/OWID DataSet/countrywise_data_owid_master_new3'
 
     # Verify that the data folder exists
     if not os.path.isdir(data_folder_path):
@@ -117,8 +117,26 @@ def main():
         return
 
     # Get list of all CSV files in the data folder
-    file_names = [f for f in os.listdir(data_folder_path) if f.endswith('.csv')]
+
+
+    TARGETS = {
+    "United States","India","Brazil","United Kingdom","Italy","Spain","France","Germany","China","Russia",
+    "Canada","Australia","South Korea","Japan","Mexico","Indonesia","South Africa",
+    "Argentina","Turkey","Sweden"
+    }
+
+    
+    # file_names = [
+    #     f for f in os.listdir(data_folder_path)
+    #     if f.endswith(".csv") and os.path.splitext(f)[0] in TARGETS
+    # ]
+
+    file_names = [
+        f for f in os.listdir(data_folder_path)
+        if f.endswith(".csv")
+    ]
     file_paths = [os.path.join(data_folder_path, f) for f in file_names]
+ 
 
     # Iterate through each file and each model, write results
     for path, name in zip(file_paths, file_names):
