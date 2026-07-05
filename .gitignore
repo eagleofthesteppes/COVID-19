@@ -9,3 +9,6 @@ __pycache__/
 *.egg-info/
 .DS_Store
 pyvenv.cfg
+
+# Data folder - keep out of git to avoid repo bloat
+data/
